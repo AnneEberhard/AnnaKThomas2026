@@ -1,0 +1,408 @@
+[
+  {
+    "siteId": "bardsPersons",
+    "languages": {
+      "de": {
+        "header": "Personen",
+        "subHeaders": [
+          {
+            "subHeaderText": "",
+            "subHeaderLink": ""
+          },
+          {
+            "subHeaderText": "",
+            "subHeaderLink": ""
+          }
+        ],
+        "paragraphs": [
+          "Vorsicht! Enthält SPOILER!"
+        ]
+      },
+      "en": {
+        "header": "Personage",
+        "subHeaders": [
+          {
+            "subHeaderText": "",
+            "subHeaderLink": ""
+          },
+          {
+            "subHeaderText": "",
+            "subHeaderLink": ""
+          }
+        ],
+        "paragraphs": [
+          "Caution! Includes Spoilers!"
+        ]
+      }
+    }
+  },
+  {
+    "siteId": "childrenPersons",
+    "languages": {
+      "de": {
+        "header": "Personen",
+        "subHeaders": [
+          {
+            "subHeaderText": "",
+            "subHeaderLink": ""
+          },
+          {
+            "subHeaderText": "",
+            "subHeaderLink": ""
+          }
+        ],
+        "paragraphs": [
+          "Vorsicht! Enthält SPOILER!"
+        ]
+      },
+      "en": {
+        "header": "Personage",
+        "subHeaders": [
+          {
+            "subHeaderText": "",
+            "subHeaderLink": ""
+          },
+          {
+            "subHeaderText": "",
+            "subHeaderLink": ""
+          }
+        ],
+        "paragraphs": [
+          "Caution! Includes Spoilers!"
+        ]
+      }
+    }
+  },
+  {
+    "siteId": "elvesPersons",
+    "languages": {
+      "de": {
+        "header": "Personen",
+        "subHeaders": [
+          {
+            "subHeaderText": "Die Wölfe",
+            "subHeaderLink": "elvesPersonswolves"
+          },
+          {
+            "subHeaderText": "Die Elfen",
+            "subHeaderLink": "elvesPersonselves"
+          },
+          {
+            "subHeaderText": "Die Menschen",
+            "subHeaderLink": "elvesPersonshuman"
+          },
+          {
+            "subHeaderText": "Die Hexen",
+            "subHeaderLink": "elvesPersonswitches"
+          },
+          {
+            "subHeaderText": "Die Vampire",
+            "subHeaderLink": "elvesPersonsvampires"
+          }
+        ],
+        "paragraphs": [
+          "Vorsicht! Das hier aufgeführte Personenverzeichnis umfasst alle Charaktere: Die, welche in Lucies Geschichte „Von Elfen und Wölfen“ mitspielen (Teile 1-4), sowie in Binas „Hexen mittendrin im Mix“ (Teil 5-7) und Lenas „Im Namen der Menschen“ (Teil 8-9, eigentlich 10).",
+          ""
+        ]
+      },
+      "en": {
+        "header": "Personage",
+        "subHeaders": [
+          {
+            "subHeaderText": "The Wolves",
+            "subHeaderLink": "elvesPersonswolves"
+          },
+          {
+            "subHeaderText": "The Elves",
+            "subHeaderLink": "elvesPersonselves"
+          },
+          {
+            "subHeaderText": "The Humans",
+            "subHeaderLink": "elvesPersonshuman"
+          },
+          {
+            "subHeaderText": "The Witches",
+            "subHeaderLink": "elvesPersonswitches"
+          },
+          {
+            "subHeaderText": "The Vampires",
+            "subHeaderLink": "elvesPersonsvampires"
+          }
+        ],
+        "paragraphs": [
+          "Caution! The list of characters listed here includes all the characters in Lucie`s arc (books 1-4), as well as in Bina`s arc (parts 5-7) and Lena`s arc (books 8-9).",
+          ""
+        ]
+      }
+    }
+  },
+  {
+    "siteId": "odysseePersons",
+    "languages": {
+      "de": {
+        "header": "Personen",
+        "subHeaders": [
+          {
+            "subHeaderText": "Erfundene Personen",
+            "subHeaderLink": "odysseePersonsfictional"
+          },
+          {
+            "subHeaderText": "Historische Personen",
+            "subHeaderLink": "odysseePersonshistorical"
+          }
+        ],
+        "paragraphs": [
+          "* historisch belegt",
+          "Vorsicht! Enthält SPOILER!"
+        ]
+      },
+      "en": {
+        "header": "Personage",
+        "subHeaders": [
+          {
+            "subHeaderText": "Fictional Characters",
+            "subHeaderLink": "odysseePersonsfictional"
+          },
+          {
+            "subHeaderText": "Historical Characters",
+            "subHeaderLink": "odysseePersonshistorical"
+          }
+        ],
+        "paragraphs": [
+          "* historically documented",
+          "Caution! Includes Spoilers!"
+        ]
+      }
+    }
+  },
+  {
+    "siteId": "masksPersons",
+    "languages": {
+      "de": {
+        "header": "Personen",
+        "subHeaders": [
+          {
+            "subHeaderText": "Erfundene Personen",
+            "subHeaderLink": "masksPersonsfictional"
+          },
+          {
+            "subHeaderText": "Historische Personen",
+            "subHeaderLink": "masksPersonshistorical"
+          }
+        ],
+        "paragraphs": [
+          "Vorsicht! Enthält SPOILER!"
+        ]
+      },
+      "en": {
+        "header": "Personage",
+        "subHeaders": [
+          {
+            "subHeaderText": "Fictional Characters",
+            "subHeaderLink": "masksPersonsfictional"
+          },
+          {
+            "subHeaderText": "Historical Characters",
+            "subHeaderLink": "masksPersonshistorical"
+          }
+        ],
+        "paragraphs": [
+          "Caution! Includes Spoilers!"
+        ]
+      }
+    }
+  },
+  {
+    "siteId": "alsterPersons",
+    "languages": {
+      "de": {
+        "header": "Personen",
+        "subHeaders": [
+          {
+            "subHeaderText": "Erfundene Personen",
+            "subHeaderLink": "alsterPersonsfictional"
+          },
+          {
+            "subHeaderText": "Historische Personen",
+            "subHeaderLink": "alsterPersonshistorical"
+          }
+        ],
+        "paragraphs": [
+          "Vorsicht! Enthält SPOILER!"
+        ]
+      },
+      "en": {
+        "header": "Personage",
+        "subHeaders": [
+          {
+            "subHeaderText": "Fictional Characters",
+            "subHeaderLink": "alsterPersonsfictional"
+          },
+          {
+            "subHeaderText": "Historical Characters",
+            "subHeaderLink": "alsterPersonshistorical"
+          }
+        ],
+        "paragraphs": [
+          "Caution! Includes Spoilers!"
+        ]
+      }
+    }
+  },
+  {
+    "siteId": "mindPersons",
+    "languages": {
+      "de": {
+        "header": "Personen",
+        "subHeaders": [
+          {
+            "subHeaderText": "Erfundene Personen",
+            "subHeaderLink": "mindPersonsfictional"
+          },
+          {
+            "subHeaderText": "Historische Personen",
+            "subHeaderLink": "mindPersonshistorical"
+          }
+        ],
+        "paragraphs": [
+          "In der Reihenfolge des Erscheinens",
+          "Vorsicht! Enthält SPOILER!"
+        ]
+      },
+      "en": {
+        "header": "Personage",
+        "subHeaders": [
+          {
+            "subHeaderText": "Fictional Characters",
+            "subHeaderLink": "mindPersonsfictional"
+          },
+          {
+            "subHeaderText": "Historical Characters",
+            "subHeaderLink": "mindPersonshistorical"
+          }
+        ],
+        "paragraphs": [
+          "In order of appearance",
+          "Caution! Includes Spoilers!"
+        ]
+      }
+    }
+  },
+  {
+    "siteId": "countsPersons",
+    "languages": {
+      "de": {
+        "header": "Personen",
+        "subHeaders": [
+          {
+            "subHeaderText": "Erfundene Personen",
+            "subHeaderLink": "countsPersonsfictional"
+          },
+          {
+            "subHeaderText": "Historische Personen",
+            "subHeaderLink": "countsPersonshistorical"
+          }
+        ],
+        "paragraphs": [
+          "Bitte Spoiler beachten!",
+          "Fiktive Personen sind nach Gruppen strukturiert.",
+          "Historische Personen sind der Einfachheit halber alphabetisch nach ihrem in der Geschichte am häufigsten benutzten Titel oder Namen sortiert, obwohl das nicht immer historisch korrekt ist."
+        ]
+      },
+      "en": {
+        "header": "Personage",
+        "subHeaders": [
+          {
+            "subHeaderText": "Fictional Characters",
+            "subHeaderLink": "countsPersonsfictional"
+          },
+          {
+            "subHeaderText": "Historical Characters",
+            "subHeaderLink": "countsPersonshistorical"
+          }
+        ],
+        "paragraphs": [
+          "Please be aware of spoilers!",
+          "Fictional Characters are structured according to groups.",
+          "Historical Characters are sorted alphabetically by their in the story most frequently used title or name for the sake of simplicity, although this is not always historically correct."
+        ]
+      }
+    }
+  },
+    {
+    "siteId": "fridaPersons",
+    "languages": {
+      "de": {
+        "header": "Personen",
+        "subHeaders": [
+          {
+            "subHeaderText": "Erfundene Personen",
+            "subHeaderLink": "countsPersonsfictional"
+          },
+          {
+            "subHeaderText": "Historische Personen",
+            "subHeaderLink": "countsPersonshistorical"
+          }
+        ],
+        "paragraphs": [
+          "Kleine Anmerkung vorab: Der Einfachheit halber habe ich Beinamen wie Familiennamen verwendet, obwohl dies um 1280 für den normalen Handwerker noch immer sehr ungewöhnlich war. Aber es macht die Zuordnung einfacher. Historische Personen sind mit einem * versehen."
+        ]
+      },
+      "en": {
+        "header": "Personage",
+        "subHeaders": [
+          {
+            "subHeaderText": "Fictional Characters",
+            "subHeaderLink": "countsPersonsfictional"
+          },
+          {
+            "subHeaderText": "Historical Characters",
+            "subHeaderLink": "countsPersonshistorical"
+          }
+        ],
+        "paragraphs": [
+          "A quick note before we begin: For the sake of simplicity, I have used nicknames as surnames, even though this was still very unusual for ordinary craftsmen around 1280. But it makes it easier to identify the individuals. Historical figures are marked with an *."
+        ]
+      }
+    }
+  },
+  {
+    "siteId": "timePersons",
+    "languages": {
+      "de": {
+        "header": "Personen",
+        "subHeaders": [
+          {
+            "subHeaderText": "",
+            "subHeaderLink": ""
+          },
+          {
+            "subHeaderText": "",
+            "subHeaderLink": ""
+          }
+        ],
+        "paragraphs": [
+          "Vorsicht! Enthält gen Ende massive SPOILER!",
+          "Ein * markiert historische Persönlichkeiten."
+        ]
+      },
+      "en": {
+        "header": "Personage",
+        "subHeaders": [
+          {
+            "subHeaderText": "",
+            "subHeaderLink": ""
+          },
+          {
+            "subHeaderText": "",
+            "subHeaderLink": ""
+          }
+        ],
+        "paragraphs": [
+          "Please be aware of massive spoilers near the end of the list!",
+          "An * marks historical figures."
+        ]
+      }
+    }
+  }
+]

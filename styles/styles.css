@@ -1,0 +1,371 @@
+html, body {
+    width: 100%;
+  margin: 0;
+}
+
+body {
+
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  box-sizing: border-box;
+  font-family: "Raleway";
+  overflow-x: hidden;
+  color: rgb(28, 50, 86);
+}
+
+.penName {
+  font-family: 'Calligraffitti';
+  font-style: normal;
+  
+}
+
+.mainContainer {
+    margin: 0 110px 0 110px;
+  flex-direction: row;
+  display:flex;
+  flex: 1;
+  height: 100vh;
+}
+.mainMiddleContainer {
+  padding: 16px 60px 16px 60px;
+}
+
+
+.dNone {
+  display: none !important;
+}
+
+h1 {
+  font-size: 48px;
+  font-family: "Acme";
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: 100;
+  font-family: "Acme";
+}
+
+a {
+  color: #0097b2;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+a:hover {
+  color: #0097b2;
+  text-shadow: 2px 2px 4px rgba(92, 175, 198, 0.8);
+}
+
+p {
+  margin-block-start: 0.7em;
+  margin-block-end: 0.7em;
+  font-size: 22px;
+}
+
+table {
+  width: 100%;
+  font-size: 20px;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+#backgroundImage {
+  position: fixed;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.15;
+    filter: blur(1px);
+    z-index: -1;
+}
+
+.siteNavTop {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 16px;
+}
+
+.siteNavTopLink {
+  font-size: 22px;
+}
+
+.highlighted {
+  font-weight: 700;
+}
+
+.toTheBooksSites {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.bookContainer {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.cover {
+  height: 400px;
+  width: 255px;
+}
+
+.bookContainerText {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-style: italic;
+}
+
+.amazonLink {
+  font-size: 20px;
+}
+
+.siteNav {
+  display: flex;
+  flex-direction: column;
+  margin-top: 16px;
+}
+
+.glossary {
+  text-align: start;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#homeBottom {
+  display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.column {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.columnHeader {
+  font-weight: 500;
+  margin-bottom: 4px;
+  font-size: 20px !important;
+}
+
+.columnContent {
+  font-size: 18px;
+}
+
+th {
+  text-align: start;
+}
+
+tr {
+  border-bottom: 1px solid black;
+}
+
+tr:last-child {
+  border-bottom: none;
+}
+
+.maps {
+  display: flex;
+  justify-content: space-around;
+}
+
+.profilePicContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profilePic {
+  border: solid 4px #0097b2;
+  margin: 8px;
+}
+
+/*personage Tables*/
+.contentTable {
+  text-align: start;
+  border-collapse: collapse;
+  width: 100%;
+  border-spacing: 4px;
+}
+
+.personageName {
+  width: 10vw;
+  vertical-align: text-top;
+}
+
+.personGroup {
+  padding-top: 36px;
+}
+
+/*familytree*/
+.pictureContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  margin-bottom: 16px;
+}
+
+.pictureHeader {
+  text-align: center;
+}
+
+/*sidebar*/
+#sidebar {
+  width: 30%;
+    max-width: 250px;
+    min-width: 180px;
+}
+
+.dual-header {
+  display: flex;
+    justify-content: space-around;
+}
+
+.dual-images {
+  display: flex;
+  gap: 8px
+}
+.sideImage {
+    width: calc(33% - 20px);
+    height: auto;
+    margin: 4px;
+}
+
+.img-wrap {
+  flex-wrap: wrap;
+  display: flex;
+  gap: 4px;
+}
+
+/*scroll*/
+::-webkit-scrollbar {
+  width: 12px; /* Breite des Scrollbalkens */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #0097b2; /* Farbe des Scrollbalken-Daumens (der bewegliche Teil) */
+  border-radius: 4px; /* Abrundung des Scrollbalken-Daumens */
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f1f1f1; /* Hintergrundfarbe des Scrollbalken-Tracks (der nicht bewegliche Teil) */
+}
+
+.scrollToTopButton {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.scrollToTopButton.show {
+  display: block;
+}
+
+.arrowUp {
+  width: 39px;
+  height: 39px;
+  cursor: pointer;
+}
+
+.arrowUp:hover path {
+  fill: #0097b2;
+}
+
+.arrowUp:hover rect {
+  stroke: #0097b2;
+}
+
+path,
+rect {
+  transition:
+    fill 0.3s,
+    stroke 0.3s;
+}
+
+#burgerMenu {
+  display: none;
+}
+
+@media (max-width: 1200px) {
+
+  .maps {
+    flex-direction: column;
+    width: 80vw;
+    gap: 8px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #homeBottom {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .columnContent {
+    text-align: center;
+  }
+
+  #aboutMeContainer {
+    flex-direction: column !important;
+  }
+  .bookContainer {
+    flex-direction: column;
+  }
+  .columnContent {
+    text-align: center;
+  }
+}
+
+@media (max-width: 800px) {
+}
+
+@media (max-width: 400px) {
+
+  h1 {
+    font-size: 24px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+  h3 {
+    font-size: 16px;
+  }
+  p {
+    font-size: 16px;
+  }
+
+  a {
+    font-size: 16px !important;
+  }
+
+  .mainContainer {
+    padding: 4px 30px 4px 30px;
+  }
+
+  .cover {
+    box-sizing: border-box;
+    width: 100vw;
+    object-fit: scale-down;
+  }
+
+  table {
+    font-size: 14px;
+  }
+  .scrollToTopButton {
+    bottom: 10px;
+    right: 10px;
+  }
+}

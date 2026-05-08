@@ -1,0 +1,124 @@
+[
+  {
+    "groupId": "all",
+    "de": "Vorsicht vor Spoilern",
+    "en": "Beware of spoilers!",
+    "members": [
+      {
+        "name": "Vera Berger",
+        "de": "verwaiste Sechzehnjährige, der Obhut ihrer älteren Schwester unterstellt",
+        "en": "an orphaned teenager raised by her sister"
+      },
+      {
+        "name": "Barbara (Barb) Berger",
+        "de": "Polizeibeamtin, Schwester von Vera",
+        "en": "police officer, sister to Vera"
+      },
+      {
+        "name": "Julius (Jules) Laikas",
+        "de": "Der Junge, der immer wieder stirbt ",
+        "en": "the boy who keeps dying "
+      },
+      {
+        "name": "Aelia (Angel) Laikas",
+        "de": "älteste Schwester von Jules, überlebte die durch die Revolution verursachte Explosion",
+        "en": "eldest sister of Jules, survived the explosion caused by the revolution"
+      },
+      {
+        "name": "Philippa (Pippa) Laikas",
+        "de": "ältere Schwester von Jules, die Explosion brachte sie ins Zentrum der Zeit",
+        "en": "elder sister of Jules, the explosion took her to the center of time"
+      },
+      {
+        "name": "Caius (Cai) Laikas",
+        "de": "älterer Bruder von Jules",
+        "en": "elder brother of Jules"
+      },
+      {
+        "name": "Fabius (Fabi) Laikas",
+        "de": "jüngerer Bruder von Jules",
+        "en": "younger brother of Jules"
+      },
+      {
+        "name": "George",
+        "de": "Polizeibeamter, Kollege von Barb",
+        "en": "Police officer, colleague of Barb"
+      },
+      {
+        "name": "Nolene Bodo",
+        "de": "Veras bester Freundin",
+        "en": "Vera's best friend"
+      },
+      {
+        "name": "Jaxon",
+        "de": "Beliebter Schüler an Veras Schule",
+        "en": "popular kid at Vera's school"
+      },
+      {
+        "name": "Seth",
+        "de": "Nolenes Freund",
+        "en": "Nolene's boyfriend"
+      },
+      {
+        "name": "Xaver",
+        "de": "Seths bester Freund",
+        "en": "Seth's best friend"
+      },
+      {
+        "name": "Herr Mack",
+        "de": "Physiklehrer",
+        "en": "Physics teacher"
+      },
+      {
+        "name": "Luca di Cammino",
+        "de": "Florentiner im Jahr 1478, Künstler, Wissenschaftler, Theoretiker und mehr, Maler der Mona Lisa, Nebenfigur in Die Masken von Florenz",
+        "en": "Florentine in 1478, side character of The Masks of Florence"
+      },
+      {
+        "name": "Leonardo da Vinci*",
+        "de": "Florentiner im Jahr 1478, Künstler, Wissenschaftler, Theoretiker und mehr, Maler der Mona Lisa, Nebenfigur in Die Masken von Florenz",
+        "en": "Florentine in 1478, artist, scientist, theorist and more, painter of the Mona Lisa, side character of The Masks of Florence"
+      },
+      {
+        "name": "Freddy Achtmann",
+        "de": "Hamburger von 1840, Künstler, Nebenfigur der Alsterdiamanten",
+        "en": "Hamburger of 1840, artist, side character of Alster Diamonds"
+      },
+      {
+        "name": "Leander",
+        "de": "Hamburger von 1840/42, Protagonist der Alsterdiamanten",
+        "en": "Hamburger of 1840/42, protagonist of Alster Diamonds"
+      },
+      {
+        "name": "George „Beau“ Brummell*",
+        "de": "Aristokrat, Begründer der britischen Männermode, auch der erste Dandy genannt",
+        "en": "Aristocrat, arbiter of British men's fashion, also called the first dandy"
+      },
+      {
+        "name": "Niklas von Satten",
+        "de": "Aristokrat im Jahr 1802, Protagonist von Der Geist in Brand",
+        "en": "Aristocrat in 1802, protagonist of The Mind on Fire"
+      },
+      {
+        "name": "Sir Tatton Sykes*",
+        "de": "Späterer 4th Baronet of Sledmere, Großvater von Mark Sykes des Sykes-Picot-Abkommens",
+        "en": "Later 4th Baronet of Sledmere, grandfather of Mark Sykes of the Sykes-Picot Agreement"
+      },
+      {
+        "name": "Adriana (Diana/Arianne)",
+        "de": "erste Zeitreisende nach Chrono-Zeit, entfernte Verwandte von Barb und Vera",
+        "en": "first time traveler in Chronological Time, distant relative of Barb and Vera"
+      },
+      {
+        "name": "Jan Marik",
+        "de": "erster Zeitreisende nach Erdzeit, berühmter Philosoph und Künstler",
+        "en": "the first Chronological Time traveler, a distant relative of Barb and Vera"
+      },
+      {
+        "name": "Jan Adrian Marik (Andrik)",
+        "de": "der Hüter der Zeit, Sohn der ersten Zeitreisenden, rebellierte und verschloss das Zentrum der Zeit",
+        "en": "the guardian of time, son of the first time travelers, rebelled and locked the center of time"
+      }
+    ]
+  }
+]

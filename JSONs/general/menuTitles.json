@@ -1,0 +1,32 @@
+    [
+      {
+        "id": "home",
+        "de": "Home",
+        "en": "Home",
+        "link": "/index.html"
+      },
+      {
+        "id": "fantasy",
+        "de": "Fantasy",
+        "en": "Fantasy",
+        "link": "/fantasy.html"
+      },
+      {
+        "id": "historical",
+        "de": "Historisch",
+        "en": "Historical",
+        "link": "/historical.html"
+      },
+      {
+        "id": "novellas",
+        "de": "Novellen",
+        "en": "Novellas",
+        "link": "/novellas.html"
+      },
+      {
+        "id": "aboutMe",
+        "de": "Über mich",
+        "en": "About Me",
+        "link": "/about-me.html"
+      }
+    ]

@@ -1,0 +1,131 @@
+[
+  {
+    "de": "Fantasy",
+    "en": "Fantasy",
+    "genreLink": "/fantasy.html",
+    "books": [
+      {
+        "bookId": "bards",
+        "internalLink": "/sites-html/booksites/bards-of-thuran.html",
+        "translationExists": "false",
+        "languages": {
+          "de": "Die Sänger von Thurán Trilogie",
+          "en": "Bards of Thurán Trilogie"
+        }
+      },
+      {
+        "bookId": "children",
+        "internalLink": "/sites-html/booksites/children-of-angels.html",
+        "translationExists": "true",
+        "languages": {
+          "de": "Die Kinder der Engel Trilogie",
+          "en": "Children of Angels Trilogy"
+        }
+      },
+      {
+        "bookId": "elves",
+        "internalLink": "/sites-html/booksites/of-elves-and-wolves.html",
+        "translationExists": "true",
+        "languages": {
+          "de": "Von Elfen und Wölfen Trilogie",
+          "en": "Of Elves and Wolves in three arcs"
+        }
+      },
+      {
+        "bookId": "time",
+        "internalLink": "/sites-html/booksites/time-curves.html",
+        "translationExists": "true",
+        "languages": {
+          "de": "Kurven der Zeit",
+          "en": "Time Curves"
+        }
+      }
+    ]
+  },
+  {
+    "de": "Historisch",
+    "en": "Historical",
+    "genreLink": "/historical.html",
+    "books": [
+      {
+        "bookId": "odyssey",
+        "internalLink": "/sites-html/booksites/odyssey.html",
+        "translationExists": "true",
+        "languages": {
+          "de": "Irrfahrt ins Gelobte Land",
+          "en": "Odyssey to the Promised Land"
+        }
+      },
+      {
+        "bookId": "masks",
+        "internalLink": "/sites-html/booksites/masks-of-florence.html",
+        "translationExists": "true",
+        "languages": {
+          "de": "Die Masken von Florenz",
+          "en": "The Masks of Florence"
+        }
+      },
+      {
+        "bookId": "alster",
+        "internalLink": "/sites-html/booksites/alster-diamonds.html",
+        "translationExists": "true",
+        "languages": {
+          "de": "Alsterdiamanten",
+          "en": "Alster Diamonds"
+        }
+      },
+      {
+        "bookId": "mind",
+        "internalLink": "/sites-html/booksites/mind-on-fire.html",
+        "translationExists": "true",
+        "languages": {
+          "de": "Der Geist in Brand",
+          "en": "The Mind on Fire"
+        }
+      },
+      {
+        "bookId": "counts",
+        "internalLink": "/sites-html/booksites/counts-servant.html",
+        "translationExists": "true",
+        "languages": {
+          "de": "Der Diener des Grafen",
+          "en": "The Count's Servant"
+        }
+      },
+      {
+        "bookId": "frida",
+        "internalLink": "/sites-html/booksites/frida.html",
+        "translationExists": "planned",
+        "languages": {
+          "de": "Frida von Hameln",
+          "en": "Frida of Hamelin"
+        }
+      }
+    ]
+  },
+  {
+    "de": "Kurzgeschichten",
+    "en": "Short Stories",
+    "genreLink": "/novellas.html",
+    "books": [
+      {
+        "bookId": "life",
+        "internalLink": "/novellas.html",
+        "translationExists": "true",
+        "languages": {
+          "de": "LebensAbschnitt",
+          "en": "LifeStages"
+        }
+      },
+      {
+        "bookId": "dance",
+        "internalLink": "/novellas.html",
+        "translationExists": "true",
+        "languages": {
+          "de": "Tanz mit dem Wind",
+          "en": "Dance the Wind"
+        }
+      }
+    ]
+  }
+]

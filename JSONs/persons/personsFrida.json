@@ -1,0 +1,233 @@
+[
+  {
+    "groupId": "schomaker",
+    "de": "Die Familie Schomaker",
+    "en": "The Schomaker family",
+    "members": [
+      {
+        "name": "Frida, geb. Molendotmaker",
+        "de": "Schusterwitwe",
+        "en": "shoemaker's widow"
+      },
+      {
+        "name": "Hans",
+        "de": "Schuhmachermeister, Fridas Mann, verstorben",
+        "en": "master shoemaker, Frida's husband, deceased"
+      },
+      {
+        "name": "Hänschen",
+        "de": "Ältester Sohn von Frida und Hans, verstorben",
+        "en": "eldest son of Frida and Hans, deceased"
+      },
+      {
+        "name": "Lenchen",
+        "de": "Älteste Tochter von Frida und Hans, verstorben",
+        "en": "Frida and Hans' eldest daughter, deceased"
+      }
+    ]
+  },
+  {
+    "groupId": "molendotmaker",
+    "de": "Die Familie Molendotmaker",
+    "en": "The Molendotmaker family",
+    "members": [
+      {
+        "name": "Arnold",
+        "de": "Tuchmachermeister, Bruder von Frida und Gunda",
+        "en": "master clothmaker, brother of Frida and Gunda"
+      },
+      {
+        "name": "Trine",
+        "de": "Ehefrau von Arnold",
+        "en": "wife of Arnold"
+      },
+      {
+        "name": "Arne",
+        "de": "Arnolds und Trines Sohn",
+        "en": "Arnold and Trine's son"
+      }
+    ]
+  },
+  {
+    "groupId": "wetdotmaker",
+    "de": "Die Familie Wetdotmaker",
+    "en": "The Wetdotmaker family",
+    "members": [
+      {
+        "name": "Dietrich",
+        "de": "Tuchmachermeister",
+        "en": "master clothmaker"
+      },
+      {
+        "name": "„Theo“ (Theoderich)",
+        "de": "Dietrichs älterer Sohn",
+        "en": "Dietrich's older son"
+      },
+      {
+        "name": "„Lutz“ (Ludwig)",
+        "de": "Dietrichs zweiter Sohn",
+        "en": "Dietrich's second son"
+      },
+      {
+        "name": "„Swantje“ (Svanhild)",
+        "de": "Dietrichs Tochter",
+        "en": "Dietrich's daughter"
+      },
+      {
+        "name": "Svanhild von Hameln",
+        "de": "Dietrichs Schwester, verstorben",
+        "en": "Dietrich's sister, deceased"
+      },
+      {
+        "name": "Konrad von Minden",
+        "de": "Svanhilds Mann, verstorben",
+        "en": "Svanhild's husband, deceased"
+      },
+      {
+        "name": "Marek von Minden",
+        "de": "Schustergeselle, Svanhilds und Konrads Sohn",
+        "en": "shoemaker's journeyman, son of Svanhild and Konrad"
+      }
+    ]
+  },
+  {
+    "groupId": "osterfarer",
+    "de": "Die Familie Osterfarer",
+    "en": "The Osterfarer family",
+    "members": [
+      {
+        "name": "Gunda, geb. Molendotmaker",
+        "de": "Fridas Schwester, Frau des Kaufmanns Thiloman",
+        "en": "Frida's sister, wife of the merchant Thiloman"
+      },
+      {
+        "name": "Thiloman",
+        "de": "Kaufmann, Ehemann von Fridas Schwester Gunda",
+        "en": "merchant, husband of Frida's sister Gunda"
+      },
+      {
+        "name": "Till",
+        "de": "jüngerer Sohn von Gunda und Thiloman",
+        "en": "younger son of Gunda and Thiloman"
+      },
+      {
+        "name": "Johann",
+        "de": "älterer Sohn von Gunda und Thiloman",
+        "en": "older son of Gunda and Thiloman"
+      },
+      {
+        "name": "Anna",
+        "de": "einzige Tochter von Gunda und Thiloman",
+        "en": "only daughter of Gunda and Thiloman"
+      },
+      {
+        "name": "Thilo de Hamel*",
+        "de": "(Johanns Sohn) überlässt 1318 dem Kloster Spandau den Fischzoll von Berlin und Cölln",
+        "en": "(Johann's son) transfers the fish customs duties of Berlin and Cölln to Spandau Abbey in 1318"
+      }
+    ]
+  },
+  {
+    "groupId": "gruelhot",
+    "de": "Die Familie Gruelhot",
+    "en": "The Gruelhot family",
+    "members": [
+      {
+        "name": "Alheydis*",
+        "de": "zweite Frau von Heinrich Gruelhot dem Älteren, Mutter des jüngeren Heinrichs",
+        "en": "second wife of Heinrich Gruelhot the Elder, mother of the younger Heinrich"
+      },
+      {
+        "name": "Heinrich*",
+        "de": "Hamelner Ratsvorsitzender (Bürgermeister)",
+        "en": "chairman of the Hamelin Council (mayor)"
+      },
+      {
+        "name": "„Hein“ (Heinrich)*",
+        "de": "Sohn des Hamelner Bürgermeisters Heinrich Gruelhot und der Alheydis, später Kanoniker von St. Bonifatius",
+        "en": "son of Hamelin mayor Heinrich Gruelhot and Alheydis, later canon of St. Bonifatius"
+      },
+      {
+        "name": "Mina",
+        "de": "Tochter von Alheydis und Heinrich dem Älteren",
+        "en": "daughter of Alheydis and Heinrich the Elder"
+      },
+      {
+        "name": "Amelung*",
+        "de": "Sohn von Heinrich dem Älteren, als dessen Erbe urkundlich in Hameln erwähnt",
+        "en": "son of Heinrich the Elder, mentioned in documents in Hamelin as his heir"
+      },
+      {
+        "name": "Beteko / Berthold*",
+        "de": "(vermutlich) Sohn von Heinrich dem Älteren, Hamelner Auswanderer, urkundlich erwähnt, bei Loburg in der Mark Brandenburg begütert",
+        "en": "(presumably) son of Heinrich the Elder, emigrant from Hamelin, mentioned in documents, wealthy near Loburg in the Margraviate of Brandenburg"
+      },
+      {
+        "name": "Albert*",
+        "de": "(vermutlich) Sohn von Heinrich dem Älteren, nach H. Dobbertin vor 1288 verschollen",
+        "en": "(presumably) son of Heinrich the Elder, disappeared according to H. Dobbertin before 1288"
+      },
+      {
+        "name": "Dietrich / Theoderich*",
+        "de": "(vermutlich) Sohn von Heinrich dem Älteren, 1307 bei Bischof Friedrich von Brandenburg als dominicus erwähnt",
+        "en": "(presumably) son of Heinrich the Elder, mentioned in 1307 by Bishop Friedrich of Brandenburg as dominicus"
+      },
+      {
+        "name": "Gertrud*",
+        "de": "verheiratet mit Albert Gruelhot in erster Ehe, mit Johann Lyse in zweiter (1309 urkundlich erwähnt als Witwe des einen und Ehefrau des anderen)",
+        "en": "married to Albert Gruelhot in her first marriage, to Johann Lyse in her second (mentioned in a document in 1309 as the widow of one and the wife of the other)"
+      }
+    ]
+  },
+  {
+    "groupId": "hameln",
+    "de": "Weitere Einwohner von Hameln",
+    "en": "Other residents of Hamelin",
+    "members": [
+      { "name": "Almut", "de": "Bäckerstochter", "en": "baker's daughter" },
+      { "name": "Berthe", "de": "Nachbarin der Familie Wetdotmaker", "en": "neighbor of the Wetdotmaker family" },
+      { "name": "Burkhart", "de": "Schustermeister", "en": "master shoemaker" },
+      { "name": "Friedhelm", "de": "Kaufmann, Svanhilds Verlobter, verstorben", "en": "merchant, Svanhild's fiancé, deceased" },
+      { "name": "Gerhard de Campo*", "de": "Kanoniker des Bonifatius-Stiftes in Hameln", "en": "canon of the St. Bonifatius College in Hamelin" },
+      { "name": "Heinrich von Minden*", "de": "Scholaster (Schulmeister) von St. Bonifatius", "en": "scholaster (schoolmaster) of St. Bonifatius" },
+      { "name": "Hennes", "de": "Gehilfe des Wundarztes", "en": "assistant to the surgeon" },
+      { "name": "Helmich*", "de": "Ritter von Hastenbeck", "en": "Knight of Hastenbeck" },
+      { "name": "Jakob", "de": "Wundarzt von Hameln", "en": "surgeon of Hamelin" },
+      { "name": "Johannes Lamberti*", "de": "Mitglied im sitzenden Rat 1282 und 1284", "en": "member of the sitting council in 1282 and 1284" },
+      { "name": "Johannes Rike*", "de": "Mitglied im sitzenden Rat 1284", "en": "member of the sitting council in 1284" },
+      { "name": "Liese Burkhart", "de": "Tochter von Schustermeister Burkhart", "en": "daughter of master shoemaker Burkhart" },
+      { "name": "Otto", "de": "angesehenster Schuhmacher von Hameln, Jugendfreund von Hans", "en": "most respected shoemaker in Hamelin, childhood friend of Hans" },
+      { "name": "Perle Moses", "de": "jüdische Freundin Fridas", "en": "Jewish friend of Frida" },
+      { "name": "Willibald", "de": "Bäckersohn, Verehrer von Liese Burkhart", "en": "baker's son, admirer of Liese Burkhart" },
+      { "name": "von Emmern*", "de": "adlige Familie in Hameln", "en": "noble family in Hamelin" },
+      { "name": "von Wenge*", "de": "adlige Familie in Hameln", "en": "noble family in Hamelin" },
+      { "name": "von Lode*", "de": "adlige Familie in Hameln", "en": "noble family in Hamelin" }
+    ]
+  },
+  {
+    "groupId": "spiegelberg",
+    "de": "Die Grafen von Spiegelberg",
+    "en": "The Counts of Spiegelberg",
+    "members": [
+      { "name": "Moritz I.*", "de": "erwarb mit seinen Söhnen 1281 Coppenbrügge", "en": "acquired Coppenbrügge with his sons in 1281" },
+      { "name": "Margarethe (Gretha)*", "de": "Frau Moritz I., aus dem Haus Mecklenburg-Werle, wie die Frau von Bogislaw I. von Pommern", "en": "wife of Moritz I, from the House of Mecklenburg-Werle, as the wife of Bogislaw I of Pomerania" },
+      { "name": "Nikolaus*", "de": "Ältester Sohn von Moritz I. und Margarethe von Mecklenburg-Werle", "en": "eldest son of Moritz I and Margarethe of Mecklenburg-Werle" },
+      { "name": "Moritz II.*", "de": "zweiter Sohn von Moritz I. und Margarethe von Mecklenburg-Werle", "en": "second son of Moritz I and Margarethe of Mecklenburg-Werle" },
+      { "name": "Hermann*", "de": "jüngster Sohn von Moritz I., seine Mutter war vermutlich eine zweite Frau des Vaters namens Elisa", "en": "youngest son of Moritz I. His mother was probably his father's second wife, named Elisa." }
+    ]
+  },
+  {
+    "groupId": "other",
+    "de": "Weitere Personen, nicht in Hameln ansässig",
+    "en": "Other persons not residing in Hamelin",
+    "members": [
+      { "name": "Albrecht I*", "de": "Herzog aus dem Haus der Welfen, übernahm 1277 die Stadt Hameln nach dem Streit mit Minden, verstorben", "en": "Duke from the House of Guelphs, took over the town of Hamelin in 1277 after the dispute with Minden, deceased" },
+      { "name": "Barnim I*", "de": "Herzog von Pommern aus dem Haus der Greifen, sehr aktiv in der Städtegründung, verstorben", "en": "Duke of Pomerania from the House of Griffins, very active in the founding of the town, deceased" },
+      { "name": "Bogislaw IV*", "de": "Herzog von Pommern, Sohn von Barnim I.", "en": "Duke of Pomerania, son of Barnim I." },
+      { "name": "Gernot", "de": "ehemaliger Geselle von Hans Schomaker, Meister in Paderborn ", "en": "former journeyman of Hans Schomaker, master craftsman in Paderborn" },
+      { "name": "Ludwin of Oldenburg*", "de": "Name eines Knappens, der im Zusam-menhang mit den Grafen Spiegelberg genannt wird", "en": "name of a squire mentioned in connection with the Counts of Spiegelberg" },
+      { "name": "Otto IV*", "de": "Graf von Everstein, vermutlich in Aerzen ansässig", "en": "Count of Everstein, presumably resident in Aerzen" },
+      { "name": "Wedekind I*", "de": "Bischof von Minden, erwarb Hameln 1259 von Fulda und schlug die Hamelner in der Schlacht bei Sedemünder, ver-storben", "en": "Bishop of Minden, acquired Hamelin from Fulda in 1259 and defeated the people of Hamelin in the Battle of Sedemünder, deceased" }
+    ]
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Erbgraf",
+    "de": "erster Sohn und Erbe eines Grafen (anders als Erbprinz eher ungewöhnlich)",
+    "en": "Heir of a German count (unusual)"
+  },
+  {
+    "name": "Erbgräfin",
+    "de": "Frau des Erben eines Grafen (ungewöhnlich)",
+    "en": "Wife of a German count’s heir (unusual)"
+  },
+  {
+    "name": "Frau",
+    "de": "war zur damaligen Zeit eher mit Dame/Lady als mit z.B. dem englisch Ms. gleichzusetzen",
+    "en": "Mrs./Lady depending on context"
+  },
+  {
+    "name": "Freifräulein",
+    "de": "unverheiratete Tochter eines deutschen Barons = Freiherrn",
+    "en": "Unmarried daughter of a German Baron"
+  },
+  {
+    "name": "Freiherr",
+    "de": "Bezeichnung für einen deutschen Baron",
+    "en": "Baron"
+  },
+  {
+    "name": "Graf",
+    "de": "reichsunmittelbare Grafen gehörten zum Hochadel, Titulargrafen (wie Winsterburg) zum niederen Adel",
+    "en": "Count"
+  },
+  {
+    "name": "Gräfin",
+    "de": "Frau eines Grafen, selten auch aus eigenem Recht",
+    "en": "Countess"
+  },
+  {
+    "name": "Herr",
+    "de": "ist je nach Kontext wie das englische Mr., Sir, oder Lord zu sehen",
+    "en": "Mister/Sir/Lord depending on context"
+  },
+  {
+    "name": "Herzog",
+    "de": "waren in Deutschland keine Erstgeburtstitel, sondern wurden von allen Söhnen eines Herzogs geführt (mit 'zu' und nicht 'von')",
+    "en": "Duke"
+  },
+  {
+    "name": "Herzogin",
+    "de": "entweder als Ehefrau eines Herzogs oder aus eigem Recht",
+    "en": "Duchess"
+  },
+  {
+    "name": "Junker",
+    "de": "adliger Sohnohne eigenen Titel",
+    "en": "Son of a German Noble without an own title"
+  },
+  {
+    "name": "Kurfürst",
+    "de": "ursprünglich sieben, später acht ranghöste Fürsten im Heiligen Römischen Reich, die den Kaiser wählten",
+    "en": "Elector"
+  },
+  {
+    "name": "Kurfürstin",
+    "de": "Frau eines Kurfürsten (dies war nicht aus eigenem Recht möglich, da nur Männer den Kaiser wählen konnten)",
+    "en": "Electress"
+  },
+  {
+    "name": "Kurprinz",
+    "de": "ältester Sohn und Erbe eines Kurfürsten",
+    "en": "Heir to a German Elector"
+  },
+  {
+    "name": "Kurprinzessin",
+    "de": "Frau des Erben eines Kurfürsten",
+    "en": "Wife of a German Elector’s heir"
+  },
+  {
+    "name": "Madame",
+    "de": "meine Dame - höfliche Titulierung einer Dame, man könte es ggfs. mit 'gnädige Frau' gleichsetzen",
+    "en": "Mrs./Lady depending on context"
+  },
+  {
+    "name": "Mademoiselle",
+    "de": "mein Fräulein - höfliche Titulierung einer unverheirateten Dame",
+    "en": "Miss/Lady – Demoiselle is the original form without the “ma” = “my”"
+  },
+  {
+    "name": "Maréchal",
+    "de": "Marschall, entweder hoher mitlitärischer Dienstgrad oder zeremoniells Hofamt",
+    "en": "Marshal"
+  },
+  {
+    "name": "Markgraf",
+    "de": "ursprünglich Herr eines Grenzgebietes (Mark), vom Rang einem Herzog gleichgestellt",
+    "en": "Margrave/Marquess"
+  },
+  {
+    "name": "Marquis",
+    "de": "eigentlich wie ein Marktgraf, aber anders als ein Deutschland war dies in Frankreich ein Titel, den man auch erwerben konnte (männliche Form)",
+    "en": "Margrave/Marquess"
+  },
+  {
+    "name": "Marquise",
+    "de": "eigentlich wie ein Marktgräfin, anders als ein Deutschland war dies in Frankreich ein Titel, den man auch erwerben konnte (weibliche Form)",
+    "en": "Marchioness"
+  },
+  {
+    "name": "Monsieur",
+    "de": "Herr",
+    "en": "Mister/Sir depending on context"
+  },
+  {
+    "name": "Princesse",
+    "de": "Prinzessin - Tochter oder Ehefrau des Sohnes eines regierenden Fürsten (dies konnte ein Herzog, König, oder Prinz sein)",
+    "en": "Princess"
+  },
+  {
+    "name": "Prinz",
+    "de": "Sohn eines regierenden Fürsten (dies konnte ein Herzog, König, oder Prinz sein)",
+    "en": "Prince"
+  },
+  {
+    "name": "Prinzessin",
+    "de": "Tochter oder Ehefrau des Sohnes eines regierenden Fürsten (dies konnte ein Herzog, König, oder Prinz sein)",
+    "en": "Princess"
+  },
+  {
+    "name": "Ratsherr",
+    "de": "Angehöriger der Stadtvertretung, oft von einem angesehenen Gewerbe",
+    "en": "Councilman"
+  },
+  {
+    "name": "Ritter",
+    "de": "Angehöriger des niederen Adels",
+    "en": "Knight"
+  }
+]

@@ -1,0 +1,628 @@
+[
+  {
+    "siteId": "bards",
+    "translationExists": "planned",
+    "languages": {
+      "de": {
+        "title": "Die Sänger von Thurán - eine klassische Fantasytrilogie",
+        "paragraphs": [
+          "Dies ist mein Erstlingswerk, der Grund, weshalb ich mich überhaupt jemals dazu durchringen konnte, eine meiner Geschichten loszulassen. Es hat sicher eine Menge Erstlingsfehler - aber willkommen in der Welt von Thurán!",
+          "Und weil ich so lange daran geschrieben habe, so viel damit zu tun hatte, gibt es hier ein paar kleine Extras und ein bisschen was zum Nachschlagen. Darunter ist die Geschichte, wie es überhaupt dazu kam, sowie auch vier Kapitel, von denen es eines nie in die Bücher schaffte und drei, die den Kürzungen von Elfenweg und Weltenringen am Ende zum Opfer fielen.",
+          "Hinweis: Die meisten Unterseiten sind derzeit nur auf deutsch verfügbar."
+        ],
+        "links": [
+          {
+            "text": "HintergrundInfo",
+            "url": "/sites-html/subsitesBards/bards-background.html"
+          },
+          {
+            "text": "Bonuskapitel Elfenweg",
+            "url": "/sites-html/subsitesThuran/bonus-elven-way.html"
+          },
+          {
+            "text": "Bonuskapitel Elfenweg - Sumpfzauber",
+            "url": "/sites-html/subsitesThuran/bonus-elven-swamp.html"
+          },
+          {
+            "text": "Bonuskapitel Weltenringen: Irionne und Niturio",
+            "url": "/sites-html/subsitesThuran/bonus-world-irionne.html"
+          },
+          {
+            "text": "Bonuskapitel Bonuskapitel Weltenringen: Syl und Nycas",
+            "url": "/sites-html/subsitesThuran/bonus-world-syl.html"
+          },
+          {
+            "text": "Karten",
+            "url": "/sites-html/subsitesThuran/thuran-maps.html"
+          },
+          {
+            "text": "Personenverzeichnis",
+            "url": "/sites-html/subsitesThuran/thuran-persons.html"
+          },
+          {
+            "text": "Begriffsverzeichnis",
+            "url": "/sites-html/subsitesThuran/thuran-glossary.html"
+          }
+        ]
+      },
+      "en": {
+        "title": "The Bards of Thurán - a Classic Fantasy Trilogy",
+        "paragraphs": [
+          "This is my debut work, the reason I could ever bring myself to release one of my stories in the first place. It certainly has a lot of rookie mistakes - but welcome to the world of Thurán!",
+          "And because I spent so long writing it and had so much to do with it, here are a few extras and a few things for reference. These include the story of how it came about in the first place, as well as four chapters, one of which never made it into the books and three that fell victim to the shortening of Elfenweg and Weltenringen at the last edit.",
+          "Note: Most of the subpages are currently only available in German."
+        ],
+        "links": [
+          {
+            "text": "Background info",
+            "url": "/sites-html/subsitesBards/bards-background.html"
+          },
+          {
+            "text": "Bonus chapter Elven Way",
+            "url": "/sites-html/subsitesThuran/bonus-elven-way.html"
+          },
+          {
+            "text": "Bonus chapter Eleven Way - Swamp Magic",
+            "url": "/sites-html/subsitesThuran/bonus-elven-swamp.html"
+          },
+          {
+            "text": "Bonus chapter World Struggle - Irionne and Niturio",
+            "url": "/sites-html/subsitesThuran/bonus-world-irionne.html"
+          },
+          {
+            "text": "Bonus chapter World Struggle - Syl and Nycas",
+            "url": "/sites-html/subsitesThuran/bonus-world-syl.html"
+          },
+          {
+            "text": "Maps",
+            "url": "/sites-html/subsitesThuran/thuran-maps.html"
+          },
+          {
+            "text": "Personage",
+            "url": "/sites-html/subsitesThuran/thuran-persons.html"
+          },
+          {
+            "text": "Glossary",
+            "url": "/sites-html/subsitesThuran/thuran-glossary.html"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "siteId": "children",
+    "translationExists": "true",
+    "languages": {
+      "de": {
+        "title": "Die Kinder der Engel - eine Urban Fantasy Trilogie",
+        "paragraphs": [
+          "Eigentlich wollte ich nach den Sängern nie wieder Fantasy schreiben. Ich wollte nie wieder eine Welt erfinden, sondern mich lieber auf historische Werke stürzen. Aber dann begegnete mir Flo - und tja, was soll ich sagen ... Hier sind sie: meine Dämonenjäger!"
+        ],
+        "links": [
+          {
+            "text": "HintergrundInfo",
+            "url": "/sites-html/subsitesChildren/children-background.html"
+          },
+          {
+            "text": "Bonuskapitel",
+            "url": "/sites-html/subsitesChildren/children-bonus.html"
+          },
+          {
+            "text": "Personenverzeichnis",
+            "url": "/sites-html/subsitesChildren/children-persons.html"
+          },
+          {
+            "text": "Quellen",
+            "url": "/sites-html/subsitesChildren/children-sources.html"
+          }
+        ]
+      },
+      "en": {
+        "title": "The Children of Angels - an Urban Fantasy Trilogy",
+        "paragraphs": [
+          "Actually, I never wanted to write fantasy again after The Bards. I never wanted to invent a world again, but would rather focus on historical works. But then I met Flo - and well, what can I say ... Here they are: my demon hunters!"
+        ],
+        "links": [
+          {
+            "text": "Background info",
+            "url": "/sites-html/subsitesChildren/children-background.html"
+          },
+          {
+            "text": "Bonus chapter",
+            "url": "/sites-html/subsitesChildren/children-bonus.html"
+          },
+          {
+            "text": "Personage",
+            "url": "/sites-html/subsitesChildren/children-persons.html"
+          },
+          {
+            "text": "Sources",
+            "url": "/sites-html/subsitesChildren/children-sources.html"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "siteId": "elves",
+    "translationExists": "true",
+    "languages": {
+      "de": {
+        "title": "Von Elfen und Wölfen - eine Urban Fantasy Trilogie",
+        "paragraphs": [
+          "Diese Geschichte liegt mir sehr am Herzen - ich begann sie zu schreiben, als ich merkte, dass meine Mutter im Sterben lag. Das war eine sehr traurige Zeit in meinem Leben, und doch ist diese Geschichte alles andere als das. Für mich fühlte es sich an, als wäre Lucie gekommen, um mich über den schlimmsten Verlust hinwegzutragen, den ich bisher erlebt hatte, und das hat sie hervorragend gemacht.",
+          "Wenn das Leben um einen herum zusammenbricht, muss man sich manchmal einfach in einer guten Geschichte verlieren - und genau das ist Von Elfen und Wölfen für mich."
+        ],
+        "links": [
+          {
+            "text": "HintergrundInfo",
+            "url": "/sites-html/subsitesElves/elves-background.html"
+          },
+          {
+            "text": "Bonuskapitel Von Elfen und Wölfen: Noel",
+            "url": "/sites-html/subsitesElves/elves-bonus-noel.html"
+          },
+          {
+            "text": "Bonuskapitel Im Namen der Menschen: Diana",
+            "url": "/sites-html/subsitesElves/elves-bonus-diana.html"
+          },
+          {
+            "text": "Personenverzeichnis",
+            "url": "/sites-html/subsitesElves/elves-persons.html"
+          },
+          {
+            "text": "Stammbäume",
+            "url": "/sites-html/subsitesElves/elves-familytrees.html"
+          }
+        ]
+      },
+      "en": {
+        "title": "Of Elves and Wolves - an Urban Fantasy Story in three arcs and nine books",
+        "paragraphs": [
+          "This story is super dear to my heart - I started writing it when I realized my mother was dying. It was a sad, sad time in my life, and yet, this story is anything but. To me, it felt like Lucie had come to carry me over the worst lost I had lived through so far, and she did a brilliant job.",
+          "When life falls apart around you, sometimes you just need to get lost in a good story - and that is what Of Elves and Wolves is to me"
+        ],
+        "links": [
+          {
+            "text": "Background info",
+            "url": "/sites-html/subsitesElves/elves-background.html"
+          },
+          {
+            "text": "Bonus chapter - Lucie arc: Noel",
+            "url": "/sites-html/subsitesElves/elves-bonus-Noel.html"
+          },
+          {
+            "text": "Bonus chapter - Lena arc: Diana",
+            "url": "/sites-html/subsitesElves/elves-bonus-diana.html"
+          },
+          {
+            "text": "Personage",
+            "url": "/sites-html/subsitesElves/elves-persons.html"
+          },
+          {
+            "text": "Family Trees",
+            "url": "/sites-html/subsitesElves/elves-familytrees.html"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "siteId": "odyssey",
+    "translationExists": "true",
+    "languages": {
+      "de": {
+        "title": "Irrfahrt ins Gelobte Land - Historischer Roman aus der Zeit des Kreuzzüge",
+        "paragraphs": [
+          "Mein erster historischer Roman."
+        ],
+        "links": [
+          {
+            "text": "HintergrundInfo",
+            "url": "/sites-html/subsitesOdyssey/odyssey-background.html"
+          },
+          {
+            "text": "Bonuskapitel",
+            "url": "/sites-html/subsitesOdyssey/odyssey-bonus.html"
+          },
+          {
+            "text": "Personenverzeichnis",
+            "url": "/sites-html/subsitesOdyssey/odyssey-persons.html"
+          },
+          {
+            "text": "Zeittafel",
+            "url": "/sites-html/subsitesOdyssey/odyssey-timeline.html"
+          },
+          {
+            "text": "Stammbäume der Staufer und Welfen",
+            "url": "/sites-html/subsitesOdyssey/odyssey-familytrees.html"
+          },
+          {
+            "text": "Begriffe und Quellen",
+            "url": "/sites-html/subsitesOdyssey/odyssey-sources.html"
+          }
+        ]
+      },
+      "en": {
+        "title": "Odyssey to the Promised Land - Historical novel at the time of the Crusades",
+        "paragraphs": [
+          "My second historical novel."
+        ],
+        "links": [
+          {
+            "text": "Background info",
+            "url": "/sites-html/subsitesOdyssey/odyssey-background.html"
+          },
+          {
+            "text": "Bonus chapter",
+            "url": "/sites-html/subsitesOdyssey/odyssey-bonus.html"
+          },
+          {
+            "text": "Personage",
+            "url": "/sites-html/subsitesOdyssey/odyssey-persons.html"
+          },
+          {
+            "text": "Timeline",
+            "url": "/sites-html/subsitesOdyssey/odyssey-timeline.html"
+          },
+          {
+            "text": "Family trees of Staufer and Welfen",
+            "url": "/sites-html/subsitesOdyssey/odyssey-familytrees.html"
+          },
+          {
+            "text": "Glossary and Sources",
+            "url": "/sites-html/subsitesOdyssey/odyssey-sources.html"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "siteId": "masks",
+    "translationExists": "true",
+    "languages": {
+      "de": {
+        "title": "Die Masken von Florenz - Historischer Roman zur Zeit der Renaissance",
+        "paragraphs": [
+          "Mein zweiter historischer Roman."
+        ],
+        "links": [
+          {
+            "text": "HintergrundInfo",
+            "url": "/sites-html/subsitesMasks/masks-background.html"
+          },
+          {
+            "text": "Bonuskapitel",
+            "url": "/sites-html/subsitesMasks/masks-bonus.html"
+          },
+          {
+            "text": "Personenverzeichnis",
+            "url": "/sites-html/subsitesMasks/masks-persons.html"
+          },
+          {
+            "text": "Zeittafel",
+            "url": "/sites-html/subsitesMasks/masks-timeline.html"
+          },
+          {
+            "text": "Stammbaum der Medici",
+            "url": "/sites-html/subsitesMasks/masks-familytrees.html"
+          },
+          {
+            "text": "Begriffe und Quellen",
+            "url": "/sites-html/subsitesMasks/masks-sources.html"
+          }
+        ]
+      },
+      "en": {
+        "title": "The Masks of Florence - Historical novel set during the Renaissance",
+        "paragraphs": [
+          "My second historical novel."
+        ],
+        "links": [
+          {
+            "text": "Background info",
+            "url": "/sites-html/subsitesMasks/masks-background.html"
+          },
+          {
+            "text": "Bonus chapter",
+            "url": "/sites-html/subsitesMasks/masks-bonus.html"
+          },
+          {
+            "text": "Personage",
+            "url": "/sites-html/subsitesMasks/masks-persons.html"
+          },
+          {
+            "text": "Timeline",
+            "url": "/sites-html/subsitesMasks/masks-timeline.html"
+          },
+          {
+            "text": "Family trees of the Medici",
+            "url": "/sites-html/subsitesMasks/masks-familytrees.html"
+          },
+          {
+            "text": "Glossary and Sources",
+            "url": "/sites-html/subsitesMasks/masks-sources.html"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "siteId": "alster",
+    "translationExists": "true",
+    "languages": {
+      "de": {
+        "title": "Alsterdiamanten - Historischer Roman im Hamburg des Biedermeiers",
+        "paragraphs": [
+          "Mein vierter historischer Roman."
+        ],
+        "links": [
+          {
+            "text": "HintergrundInfo",
+            "url": "/sites-html/subsitesAlster/alster-background.html"
+          },
+          {
+            "text": "Personenverzeichnis",
+            "url": "/sites-html/subsitesAlster/alster-persons.html"
+          },
+          {
+            "text": "Stammbaum",
+            "url": "/sites-html/subsitesAlster/alster-familytrees.html"
+          },
+          {
+            "text": "Quellen und Links zu den Karten",
+            "url": "/sites-html/subsitesAlster/alster-sources.html"
+          }
+        ]
+      },
+      "en": {
+        "title": "Alster Diamonds - Historical novel set during the Renaissance",
+        "paragraphs": [
+          "My fourth historical novel."
+        ],
+        "links": [
+          {
+            "text": "Background info",
+            "url": "/sites-html/subsitesAlster/alster-background.html"
+          },
+          {
+            "text": "Personage",
+            "url": "/sites-html/subsitesAlster/alster-persons.html"
+          },
+          {
+            "text": "Family Tree",
+            "url": "/sites-html/subsitesAlster/alster-familytrees.html"
+          },
+          {
+            "text": "Quellen und Links zu den Karten",
+            "url": "/sites-html/subsitesAlster/alster-sources.html"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "siteId": "mind",
+    "translationExists": "true",
+    "languages": {
+      "de": {
+        "title": "Der Geist in Brand - Ein Krautjunker zwischen Rokoko und Revolution",
+        "paragraphs": [
+          "Mein dritter historischer Roman. Zwölf Jahre Schreibzeit und fast zwei Dekaden umspannend."
+        ],
+        "links": [
+          {
+            "text": "HintergrundInfo",
+            "url": "/sites-html/subsitesMind/mind-background.html"
+          },
+          {
+            "text": "Bonuskapitel I: Prolog der geplatzten Flucht von Henri und Ella",
+            "url": "/sites-html/subsitesMind/mind-bonus-henri.html"
+          },
+          {
+            "text": "Bonuskapitel II: Der Salon des Dr. Curtius (Madame Tussaud)",
+            "url": "/sites-html/subsitesMind/mind-bonus-curtius.html"
+          },
+          {
+            "text": "Bonuskapitel III: Danton erklärt Niklas die Generalstände",
+            "url": "/sites-html/subsitesMind/mind-bonus-danton.html"
+          },
+          {
+            "text": "Personenverzeichnis",
+            "url": "/sites-html/subsitesMind/mind-persons.html"
+          },
+          {
+            "text": "Quellen",
+            "url": "/sites-html/subsitesMind/mind-sources.html"
+          }
+        ]
+      },
+      "en": {
+        "title": "The Mind on Fire - A Krautjunker between Rococo and Revolution",
+        "paragraphs": [
+          "My third historical novel. Twelve years of writing and spanning almost two decades."
+        ],
+        "links": [
+          {
+            "text": "Background info",
+            "url": "/sites-html/subsitesMind/mind-background.html"
+          },
+          {
+            "text": "Bonus Chapter I: Prologue to Henri and Ella's failed escape",
+            "url": "/sites-html/subsitesMind/mind-bonus-henri.html"
+          },
+          {
+            "text": "Bonus chapter II: Time for learning - the salon of Dr. Curtius",
+            "url": "/sites-html/subsitesMind/mind-bonus-curtius.html"
+          },
+          {
+            "text": "Bonus Chapter III: Danton explains the Estates General to Niklas ",
+            "url": "/sites-html/subsitesMind/mind-bonus-danton.html"
+          },
+          {
+            "text": "Personage",
+            "url": "/sites-html/subsitesMind/mind-persons.html"
+          },
+          {
+            "text": "Sources",
+            "url": "/sites-html/subsitesMind/mind-sources.html"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "siteId": "counts",
+    "translationExists": "true",
+    "languages": {
+      "de": {
+        "title": "Der Diener des Grafen - Ein historischer Roman zu Zeiten des Barocks",
+        "paragraphs": [
+          "Mein fünfter historischer Roman und das erste 'Writing Month' Projekt, was ich jemals unternommen habe."
+        ],
+        "links": [
+          {
+            "text": "HintergrundInfo",
+            "url": "/sites-html/subsitesCounts/counts-background.html"
+          },
+          {
+            "text": "Bonuskapitel I: Das gestrichene Kapitel 2 - Wie Gabriel gefunden wurde",
+            "url": "/sites-html/subsitesCounts/counts-bonus-chapter2.html"
+          },
+          {
+            "text": "Bonuskapitel II: Rom - Hagen kommt zu Winsterburg und trifft auf Gabriel",
+            "url": "/sites-html/subsitesCounts/counts-bonus-rome.html"
+          },
+          {
+            "text": "Personenverzeichnis",
+            "url": "/sites-html/subsitesCounts/counts-persons.html"
+          },
+          {
+            "text": "Titel, Quellen und Links zu Karten",
+            "url": "/sites-html/subsitesCounts/counts-sources.html"
+          }
+        ]
+      },
+      "en": {
+        "title": "The Count's Servant - A historical novel set in the Baroque era",
+        "paragraphs": [
+          "My fifth historical novel and the first 'Writing Month' project I've ever undertaken."
+        ],
+        "links": [
+          {
+            "text": "Background info",
+            "url": "/sites-html/subsitesCounts/counts-background.html"
+          },
+          {
+            "text": "Bonus Chapter I: The deleted chapter 2 - How Gabriel was found",
+            "url": "/sites-html/subsitesCounts/counts-bonus-henri.html"
+          },
+          {
+            "text": "Bonus chapter II: Rome - Hagen comes to Winsterburg and meets Gabriel",
+            "url": "/sites-html/subsitesCounts/counts-bonus-curtius.html"
+          },
+          {
+            "text": "Personage",
+            "url": "/sites-html/subsitesCounts/counts-persons.html"
+          },
+          {
+            "text": "Titles, Sources and Links to Maps",
+            "url": "/sites-html/subsitesCounts/counts-sources.html"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "siteId": "time",
+    "translationExists": "true",
+    "languages": {
+      "de": {
+        "title": "Kurven der Zeit - Die Reise von Jules und Vera",
+        "paragraphs": [
+          "Entstanden aus einem Hashtag-Spiel auf Mastodon, einer alten Geschichte aus meiner Jugendzeit und einer seltsamen Inspiration - Jules und Vera erforscht das Genre der Zeitreise."
+               ],
+        "links": [
+          {
+            "text": "HintergrundInfo",
+            "url": "/sites-html/subsitesTime/time-background.html"
+          },
+          {
+            "text": "Personenverzeichnis",
+            "url": "/sites-html/subsitesTime/time-persons.html"
+          },
+          {
+            "text": "Begriffsverzeichnis",
+            "url": "/sites-html/subsitesTime/time-sources.html"
+          }
+        ]
+      },
+      "en": {
+        "title": "Time Curves - The Travel of Jules and Vera",
+        "paragraphs": [
+          "Born out of a hashtag game on Mastodon, and old story from my teens and a weird inspiration - Jules and Vera explores the genre of time travel.."
+        ],
+        "links": [
+          {
+            "text": "Background info",
+            "url": "/sites-html/subsitesTime/time-background.html"
+          },
+          {
+            "text": "Personage",
+            "url": "/sites-html/subsitesTime/time-persons.html"
+          },
+          {
+            "text": "Glossary",
+            "url": "/sites-html/subsitesTime/time-sources.html"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "siteId": "frida",
+    "translationExists": "true",
+    "languages": {
+      "de": {
+        "title": "Frida von Hameln",
+        "paragraphs": [
+          "Eine Geschichte aus meiner Heimatstadt, historisch so exakt wie möglich recherchiert."
+               ],
+        "links": [
+          {
+            "text": "HintergrundInfo",
+            "url": "/sites-html/subsitesFrida/frida-background.html"
+          },
+          {
+            "text": "Personenverzeichnis",
+            "url": "/sites-html/subsitesFrida/frida-persons.html"
+          },
+          {
+            "text": "Quellen und Karten",
+            "url": "/sites-html/subsitesFrida/frida-sources.html"
+          }
+        ]
+      },
+      "en": {
+        "title": "Frida von Hameln",
+        "paragraphs": [
+          "A story from my hometown, researched as accurately as possible from a historical perspective."
+        ],
+        "links": [
+          {
+            "text": "Background info",
+            "url": "/sites-html/subsitesFrida/frida-background.html"
+          },
+          {
+            "text": "Personage",
+            "url": "/sites-html/subsitesFrida/frida-persons.html"
+          },
+          {
+            "text": "Sources and maps",
+            "url": "/sites-html/subsitesFrida/frida-sources.html"
+          }
+        ]
+      }
+    }
+  }
+]

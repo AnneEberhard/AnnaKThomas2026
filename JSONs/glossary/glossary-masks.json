@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Auripigment",
+    "de": "Gelbe Farbe zum Malen",
+    "en": "Yellow color for painting"
+  },
+  {
+    "name": "Bargello",
+    "de": "Der „Polizeikommandant“, heute ist nach ihm der alte Palazzo del Podesta in Florenz benannt",
+    "en": "The 'police commander', today the old Palazzo del Podesta in Florence is named after him"
+  },
+  {
+    "name": "Bleiweiß",
+    "de": "Weiße Farbe zum Malen",
+    "en": "White color for painting"
+  },
+  {
+    "name": "Capitano del Popolo",
+    "de": "Der „Volkshauptmann“",
+    "en": "The 'people's captain'"
+  },
+  {
+    "name": "Carro",
+    "de": "Wagen, beinhaltet die Rahmen, Papier und Druckformen",
+    "en": "Trolley, includes the frames, paper and printing forms"
+  },
+  {
+    "name": "Cassa",
+    "de": "Kasten, in dem die Typen aufbewahrt werden",
+    "en": "Box in which the types are stored"
+  },
+  {
+    "name": "Cassettinos",
+    "de": "Einzelne Boxen in der cassa für die unterschiedlichen Typen",
+    "en": "Individual boxes in the cassa for the different types"
+  },
+  {
+    "name": "Compositoio",
+    "de": "Schiene zum Zusammensetzen der Typen für eine Buchstabenreihe",
+    "en": "Rail for assembling the types for a row of letters"
+  },
+  {
+    "name": "Condottiere",
+    "de": "Söldnerführer",
+    "en": "Mercenary leader"
+  },
+  {
+    "name": "Florin",
+    "de": "Florentische Goldmünze",
+    "en": "Florentine gold coin"
+  },
+  {
+    "name": "Forma",
+    "de": "Druckform, Rahmen mit den eingesetzten Schienen und Typen",
+    "en": "Printing form, frame with the rails used and types"
+  },
+  {
+    "name": "Fraschetta",
+    "de": "Mit Papier oder Pergament bezogener Rahmen, am timpano befestigt",
+    "en": "Frame covered with paper or parchment, attached to the timpano"
+  },
+  {
+    "name": "Gesso",
+    "de": "Feiner Gips zum Herstellen von Abdrücken",
+    "en": "Fine plaster for making impressions"
+  },
+  {
+    "name": "Gonfaloniere",
+    "de": "Der „Bannerträger“, oberstes Amt von Florenz, wechselte teilweise alle zwei Monate",
+    "en": "The 'standard bearer', the highest office of Florence, sometimes changed every two months"
+  },
+  {
+    "name": "Karmin/Carmine",
+    "de": "Rote Farbe zum Malen",
+    "en": "Red color for painting"
+  },
+  {
+    "name": "Levatrice",
+    "de": "Hebamme",
+    "en": "Midwife"
+  },
+  {
+    "name": "Massicot",
+    "de": "Grüne Farbe zum Malen",
+    "en": "Green paint for painting"
+  },
+  {
+    "name": "Piano",
+    "de": "Tiegel, bringt den nötigen Druck auf die Form",
+    "en": "Crucible, brings the necessary pressure to the mold"
+  },
+  {
+    "name": "Podesta",
+    "de": "Der „Stadtvogt“, wurde im Mittelalter in Norditalien gerne mit ortsfremden Personen besetzt",
+    "en": "The 'town bailiff', was in the Middle Ages in north-ern Italy gladly filled with non-local persons"
+  },
+  {
+    "name": "Signoria",
+    "de": "Der offiziell regierende Rat",
+    "en": "The official ruling council"
+  },
+  {
+    "name": "Stinche",
+    "de": "Eines der Gefängnisse von Florenz",
+    "en": "One of the prisons of Florence"
+  },
+  {
+    "name": "Strega",
+    "de": "Hexe",
+    "en": "Witch"
+  },
+  {
+    "name": "Timpano",
+    "de": "Mit Papier oder Pergament bezogener Rahmen, am carro befestigt",
+    "en": "Frame covered with paper or parchment, attached to the carro"
+  },
+  {
+    "name": "Type",
+    "de": "Metallene Buchstaben zum Drucken",
+    "en": "Metal letters for printing"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "groupId": "pilgrims",
+    "de": "Die Pilger",
+    "en": "The Pilgrims",
+    "members": [
+      {
+        "name": "Katharina (Katja) Vogelmann",
+        "de": "Goldschmiedegattin aus Mainz",
+        "en": "Goldsmith wife from Mainz"
+      },
+      {
+        "name": "Ewald Vogelmann",
+        "de": "Goldschmiedemeister aus Mainz",
+        "en": "Master goldsmith from Mainz"
+      },
+      {
+        "name": "Helene (Lene)",
+        "de": "Ewalds Tochter",
+        "en": "Ewald's daughter"
+      },
+      {
+        "name": "Theodor (Teddy)",
+        "de": "Ewalds Sohn",
+        "en": "Ewald's son"
+      },
+      {
+        "name": "Gertraude Vogelmann †",
+        "de": "Erste Ehefrau von Ewald",
+        "en": "First wife of Ewald"
+      },
+      {
+        "name": "Hilda Vogelmann †",
+        "de": "Zweite Ehefrau von Ewald, Mutter seiner beiden Kinder",
+        "en": "Second wife of Ewald, mother of his two children"
+      },
+      {
+        "name": "Gunild",
+        "de": "Pilgerin",
+        "en": "Pilgrim"
+      },
+      {
+        "name": "Walter †",
+        "de": "Gunild Mann, in Ungarn an Herzinsuffizienz verstorben",
+        "en": "Gunild Mann, died of heart failure in Hungary"
+      },
+      {
+        "name": "Rudolph Halbig",
+        "de": "Pilgrim, ältester Sohn des Meister Halbig aus Frank­furt",
+        "en": "Pilgrim, eldest son of Master Halbig from Frankfurt"
+      },
+      {
+        "name": "Maximilian (Max)",
+        "de": "Jüngerer Bruder von Rudolph",
+        "en": "Younger brother of Rudolph "
+      },
+      {
+        "name": "Magda",
+        "de": "Pilgerin",
+        "en": "Pilgrim"
+      },
+      {
+        "name": "Gerd Hänsel",
+        "de": "\tÄlterer Händler im Kreuzzug",
+        "en": "Elder merchant on the trek"
+      },
+      {
+        "name": "Meisterin Hänsel",
+        "de": "Frau von Gerd Hänsel",
+        "en": "Wife of Gerd Hänsel"
+      }
+    ]
+  },
+  {
+    "groupId": "crusader",
+    "de": "Die Kreuzfahrer",
+    "en": "The Crusaders",
+    "members": [
+      {
+        "name": "* Konrad",
+        "de": "Erster Stauferkönig auf dem deutschen Kaiserthron",
+        "en": "First Hohenstaufen king on the German imperial throne"
+      },
+      {
+        "name": "* Friedrich",
+        "de": "Herzog von Schwaben, Konrads Neffe, späterer Kaiser Barbarossa",
+        "en": "Duke of Swabia, Konrad's nephew, later Emperor Barbarossa"
+      },
+      {
+        "name": "* Otto",
+        "de": "Bischof von Freising, Halbbruder Konrads, Onkel von Friedrich, Babenberger, schreibt später die sehr Friedrich-freundliche Gesta friderici",
+        "en": "Bishop of Freising, half-brother of Konrad, uncle of Friedrich, Babenberg, later writes the very Friedrich-friendly Gesta friderici"
+      },
+      {
+        "name": "Gunther",
+        "de": "Knappe im Hofstaat Konrads",
+        "en": "Squire in Konrad's court"
+      },
+      {
+        "name": "Hartmut",
+        "de": "Knappe und Freund Gunthers",
+        "en": "Squire and friend of Gunther"
+      },
+      {
+        "name": "* Heinrich Jasomirgott",
+        "de": "Babenberger, Halbbruder von Konrad, Bruder von Otto. Die Legende sagt, dass er seinen Beinamen von der Neigung ‚Ja, so mir Gott helfe’ zu sagen bekommen hat. Genauso gut ist es jedoch möglich, dass Jasomirgott die Verballhornung eines arabischen Beinamens ist, den er während des Zuges erworben hatte.",
+        "en": "Babenberg, half-brother of Konrad, brother of Otto. Legend has it that he got his epithet from the inclination to say 'Yes, so help me God'. However, it is just as possible that Jasomirgott is a corruption of an Arabic byname that he acquired during the migration."
+      },
+      {
+        "name": "* Welf VI",
+        "de": "Sohn Heinrich des Schwarzen, Oberhaupt der Welfen, bis Heinrich der Löwe übernimmt, Herzog von Spoleto, Markgraf von Tuscien u.v.m.",
+        "en": "Son of Henry the Black, head of the Guelphs until Henry the Lion takes over, Duke of Spoleto, Margrave of Tuscia and many more"
+      },
+      {
+        "name": "* Ludwig",
+        "de": "Genannt der Junge, König von Frankreich, war ursprünglich für die kirchliche Laufbahn bestimmt und konnte sich davon nie so ganz lösen",
+        "en": "Called the Boy, King of France, he was originally destined for a career in the church and was never quite able to break away from it"
+      },
+      {
+        "name": "* Eleonore",
+        "de": "von Aquitanien, Tochter des Herzogs Wilhelm X. von Aquitanien (1099-1137) und der Aenòr de Chateleràud (1105-1130). Ihr Name Alienor (Eleonore) bedeutet vermutlicht „die andere Aenor“, um sie von ihrer Mutter zu unter­scheiden. Sie war die reichste Erbin ihrer Zeit, Königin von Frankreich, ließ sich nach dem Kreuzzug von Ludwig scheiden, heiratete Heinrich Plantagenet und wurde somit Königin von England",
+        "en": "of Aquitaine, Daughter of Duke William X of Aquitaine (1099-1137) and Aenòr de Chateleràud (1105-1130). Her name Alienor (Eleonore) presumably means 'the other Aenor', to distinguish her from her mother. She was the richest heiress of her time, Queen of France, divorced Louis after the Crusade, married Henry Plantagenet and thus became Queen of England"
+      }
+    ]
+  },
+  {
+    "groupId": "turks",
+    "de": "Die „Türken“",
+    "en": "The „Turks“",
+    "members": [
+      {
+        "name": "* Zengi †",
+        "de": "Atabeg von Mosul, erobert 1144 Edessa",
+        "en": "Atabeg of Mosul, conquers Edessa in 1144"
+      },
+      {
+        "name": "* Saif ad-Din",
+        "de": "Ältester Sohn von Zengi, nach dessen Tod Statthalter von Mosul",
+        "en": "Eldest son of Zengi, governor of Mosul after his death"
+      },
+      {
+        "name": "* Nur ad-Din (Nureddin)",
+        "de": "Jüngerer Sohn von Zengi, nach dessen Tod Statthalter von Aleppo",
+        "en": "Younger son of Zengi, governor of Aleppo after his death"
+      }
+    ]
+  },
+  {
+    "groupId": "damaskus",
+    "de": "Damaskus",
+    "en": "Damascus",
+    "members": [
+      {
+        "name": "* Ayyub",
+        "de": "Kurde, bis 1146 Statthalter von Baalbek, dann in Damaskus (voller Name Najm ad-Din Ayyub bin Shadhi), Stammvater der Ayyubiden",
+        "en": "Kurd, governor of Baalbek until 1146, then in Damascus (full name al-Malik al-Afdal Najm al-Dīn Ayyūb ibn Shādhi ibn Marwān), progenitor of the Ayyubids"
+      },
+      {
+        "name": "* Schirkuh",
+        "de": "Kurde, General in Nureddins Diensten (voller Name Asad ad-Din Schirkuh bin Shahdi)",
+        "en": "Kurd, general in Nureddin's service (full name Asad ad-Dīn Shīrkūh bin Shādhī)"
+      },
+      {
+        "name": "* Turanschah",
+        "de": "Sohn Ayyubs (voller Name al-Malik al-Mu'azzam Shams ad-Dawla Turanshah bin Ayyub)",
+        "en": "Son of Ayyub (full name Shams ad-Din Turanshah ibn Ayyub al-Malik al-Mu'azzam Shams ad-Dawla Fakhr ad-Din)"
+      },
+      {
+        "name": "* Yusuf",
+        "de": "Sohn Ayyubs, später Saladin (voller Name Salah ad-Din Yusuf bin Ayyub)",
+        "en": "Son of Ayyub, later Saladin (full name Salah ad-Din Yusuf bin Ayyub ad-Dawīnī)"
+      },
+      {
+        "name": "* Nur ad-Din Shahanshah",
+        "de": "Ältester Sohn Ayyubs",
+        "en": "Eldest son of Ayyub"
+      },
+      {
+        "name": "Ahmad",
+        "de": "Turanschahs Diener",
+        "en": "Turanschah's servant"
+      },
+      {
+        "name": "Otto",
+        "de": "Ein fränkischer Sklave in Ayyubs Haus",
+        "en": "A Frankish slave in Ayyub's house"
+      },
+      {
+        "name": "* Unur",
+        "de": "Emir von Damaskus",
+        "en": "Emir of Damascus"
+      }
+    ]
+  },
+  {
+    "groupId": "outremer",
+    "de": "Outremer",
+    "en": "Outremer",
+    "members": [
+      {
+        "name": "* Balduin III.",
+        "de": "Minderjähriger König von Jerusalem",
+        "en": "Minor King of Jerusalem"
+      },
+      {
+        "name": "* Raimund ",
+        "de": "Fürst von Antiochia, Onkel von Eleonore von Aquitanien",
+        "en": "Prince of Antioch, uncle of Eleanor of Aquitaine"
+      },
+      {
+        "name": "* Josselin II.",
+        "de": "Graf von Edessa, aus Edessa von Zengi vertrieben",
+        "en": "Count of Edessa, expelled from Edessa by Zengi"
+      },
+      {
+        "name": "* Raimund II.",
+        "de": "Graf von Tripolis, Schwager von Melisande",
+        "en": "Count of Tripoli, Melisande's brother-in-law"
+      },
+      {
+        "name": "* Bertrand",
+        "de": "Bastardsohn des Raimund von Toulouse, dem ersten Grafen von Tripolis; Großvater von Raimund II.",
+        "en": "Bastard son of Raimund of Toulouse, the first Count of Tripoli; grandfather of Raimund II."
+      },
+      {
+        "name": "Johannes",
+        "de": "Ein Templer",
+        "en": "A Templar"
+      },
+      {
+        "name": "Gerwin von Vilbel",
+        "de": "Ein Priester vom Crac des Chevalier, ursprünglich aus Frankfurt",
+        "en": "A priest from the Crac des Chevalier, originally from Frankfurt"
+      },
+      {
+        "name": "Georg",
+        "de": "Johannes’ Bruder, Kaufmann in Jerusalem",
+        "en": "Johannes's brother, merchant in Jerusalem"
+      },
+      {
+        "name": "Alice",
+        "de": "Georgs Tochter",
+        "en": "Georgs Tochter"
+      },
+      {
+        "name": "Rainald",
+        "de": "Georgs Sohn",
+        "en": "Georg's son"
+      },
+      {
+        "name": "Muriella",
+        "de": "Georgs Schwester",
+        "en": "Georg's sister"
+      },
+      {
+        "name": "Eleyne",
+        "de": "Georgs Schwägerin",
+        "en": "Georg's sister-in-law"
+      },
+      {
+        "name": "Bert",
+        "de": "Hausknecht in Georgs Haushalt",
+        "en": "Domestic servant in Georg's household"
+      },
+      {
+        "name": "Tillmann",
+        "de": "Verlobter von Alice",
+        "en": "Alice's fiancé"
+      }
+    ]
+  },
+  {
+    "groupId": "byzanz",
+    "de": "Die Byzantiner",
+    "en": "The Byzantines",
+    "members": [
+      {
+        "name": "* Manuel I.",
+        "de": "Kaiser von Byzanz, aus dem Geschlecht der Komnenen",
+        "en": "Emperor of Byzantium, from the family of the Komnenes"
+      },
+      {
+        "name": "* Anna Komnena",
+        "de": "Tochter von Alexios I., Tante Manuels, schrieb die Alexiade über den ersten Kreuzzug",
+        "en": "Alexios I's daughter, Manuel's aunt, wrote the Alexiad about the First Crusade"
+      },
+      {
+        "name": "* Bertha von Sulzbach / Irene",
+        "de": "Tochter des Sulzbacher Grafen Berengar II. († 3. Dezember 1125) und der Adelheid von Wolfratshausen. 1142 nach Byzanz, um das Bündnis zu stärken, 1146 Hochzeit mit Manuel, nimmt danach den Namen Irene an",
+        "en": "Daughter of Count Berengar II of Sulzbach († December 3, 1125) and Adelheid of Wolfratshausen. 1142 to Byzantium to strengthen the alliance, 1146 marriage to Manuel, then takes the name Irene"
+      },
+      {
+        "name": "Sophia",
+        "de": "Näherin/Stickerin im Konvent der Prinzessin Anna",
+        "en": "Seamstress/embroiderer in the convent of Princess Anna"
+      }
+    ]
+  },
+  {
+    "groupId": "occident",
+    "de": "Namhafte Personen im Okzident",
+    "en": "Notable people in the Occident",
+    "members": [
+      {
+        "name": "* Eugen III.",
+        "de": "Papst, der den Zweiten Kreuzzug ausruft",
+        "en": "Pope who proclaims the Second Crusade"
+      },
+      {
+        "name": "* Bernhard de Clairvaux",
+        "de": "Zisterzienser-Abt, galt schon zu seiner Zeit als heilig",
+        "en": "Cistercian abbot, was already considered holy in his time"
+      },
+      {
+        "name": "* Abt Suger de St. Denis",
+        "de": "Ziehvater Ludwig von Frankreichs, „Vater des Vaterlandes“",
+        "en": "Foster father of Louis of France, 'father of the fatherland'"
+      },
+      {
+        "name": "* Gertrud von Sulzbach †",
+        "de": "Tochter des Grafen von Sulzbach, Berthas Schwester, Konrads Frau",
+        "en": "Daughter of the Count of Sulzbach, Bertha's sister, Konrad's wife"
+      },
+      {
+        "name": "* Agnes von Waiblingen †",
+        "de": "Tochter Heinrichs IV, in erster Ehe mit Friedrich von Hohenstaufen, in zweiter mit Leopold von Österreich vermählt, damit Stammmutter der Staufer und Babenberger",
+        "en": "Daughter of Henry IV, first marriage to Frederick of Hohenstaufen, second marriage to Leopold of Austria, thus progenitor of the Hohenstaufen and Babenberg dynasties"
+      },
+      {
+        "name": "* Heinrich V. †",
+        "de": "Letzter deutscher Kaiser aus dem Geschlecht der Salier",
+        "en": "Last German emperor from the Salian dynasty"
+      },
+      {
+        "name": "* Friedrich †",
+        "de": "der Einäugige. Ältester Sohn Friedrichs von Hohenstaufen und Agnes von Waiblingens, heiratet 1120 Judith, Tochter des Welfen Heinrich der Schwarze; Vater Barbarossas",
+        "en": "the One-Eyed. Eldest son of Frederick of Hohenstaufen and Agnes of Waiblingen, marries Judith, daughter of Henry the Black, Guelph; father of Barbarossa, in 1120"
+      },
+      {
+        "name": "* Heinrich-Berengar",
+        "de": "Konrads Erstgeborener, März 1147 in Aachen zum König gekrönt",
+        "en": "Konrad's first-born, crowned king in Aachen in March 1147"
+      },
+      {
+        "name": "* Heinrich",
+        "de": "der Schwarze, Herzog von Bayern",
+        "en": "the Black, Duke of Bavaria"
+      },
+      {
+        "name": "* Heinrich",
+        "de": "der Stolze, Herzog von Sachsen und Bayern, heiratet Lothars Tochter Gertrud von Sachsen",
+        "en": "the Proud, Duke of Saxony and Bavaria, marries Lothar's daughter Gertrud of Saxony"
+      },
+      {
+        "name": "* Heinrich",
+        "de": "der Löwe, Sohn Heinrichs des Stolzen",
+        "en": "the Lion, Son of Henry the Proud"
+      },
+      {
+        "name": "* Lothar III. von Supplinburg †",
+        "de": "ab 1106 Herzog von Sachsen, ab 1125 deutscher König, ab 1133 Kaiser des Heiligen Römischen Reiches",
+        "en": "from 1106 Duke of Saxony, from 1125 German king, from 1133 Holy Roman Emperor"
+      },
+      {
+        "name": "* Roger II.",
+        "de": "König von Sizilien, Normanne",
+        "en": "King of Sicily, Norman"
+      },
+      {
+        "name": "* Géza II.",
+        "de": "König von Ungarn",
+        "en": "King of Hungary"
+      }
+    ]
+  },
+  {
+    "groupId": "wayHome",
+    "de": "Auf dem Heimweg",
+    "en": "On the way home",
+    "members": [
+      {
+        "name": "Irmina",
+        "de": "Heilerin der Fahrenden",
+        "en": "Healer of the Travelers"
+      },
+      {
+        "name": "Aziza",
+        "de": "Tochter in der fahrenden Familie",
+        "en": "Daughter of the Travelers"
+      },
+      {
+        "name": "Yul",
+        "de": "Azizas Bruder",
+        "en": "Aziza's brother"
+      },
+      {
+        "name": "Rachild",
+        "de": "Weissagerin der Fahrenden",
+        "en": "Fortune teller of the Travelers"
+      },
+      {
+        "name": "Bertram",
+        "de": "Deutscher Priester im westlichen Ungarn",
+        "en": "German priest in western Hungary"
+      }
+    ]
+  },
+  {
+    "groupId": "wiesbaden",
+    "de": "Wiesbaden",
+    "en": "Wiesbaden",
+    "members": [
+      {
+        "name": "Hilde",
+        "de": "Magd der Wiesbadener Händlerfamilie",
+        "en": "Maid of the Wiesbaden merchant family"
+      },
+      {
+        "name": "Peer Musenbauer",
+        "de": "Max’ Onkel",
+        "en": "Max's uncle"
+      },
+      {
+        "name": "Trude Musenbauer",
+        "de": "Max’ Tante",
+        "en": "Max's aunt"
+      },
+      {
+        "name": "Stefan Musenbauer †",
+        "de": "Max’ leiblicher Vater",
+        "en": "Max's biological father"
+      }
+    ]
+  },
+  {
+    "groupId": "mainz",
+    "de": "Mainz",
+    "en": "Mainz",
+    "members": [
+      {
+        "name": "Wulfhart",
+        "de": "Zunftmeister der Gold-/Silberschmiede und angeschlossenen Feinschläger, Metallspinnerinnen und Hämmerer in Mainz",
+        "en": "Guild master of the gold/silversmiths and associated fine beaters, metal spinners and hammerers in Mainz"
+      },
+      {
+        "name": "Meisterin Wulfhart",
+        "de": "Seine Frau",
+        "en": "His wife"
+      },
+      {
+        "name": "Adalbert von Ingelheim",
+        "de": "Bewerber um Katjas Hand",
+        "en": "Suitor for Katja's hand"
+      },
+      {
+        "name": "Erwin aus Offenbach",
+        "de": "Bewerber um Katjas Hand",
+        "en": "Suitor for Katja's hand"
+      },
+      {
+        "name": "Leopold aus Mainz",
+        "de": "Bewerber um Katjas Hand",
+        "en": "Suitor for Katja's hand"
+      },
+      {
+        "name": "Meister Halbig †",
+        "de": "Drechsler in Frankfurt, Max' offizieller Vater",
+        "en": "Wood turner in Frankfurt, Max' official father"
+      },
+      {
+        "name": "Maximiliane Halbig",
+        "de": "Seine Frau, Max' Mutter",
+        "en": "His wife, Max's mother"
+      },
+      {
+        "name": "Richenza †",
+        "de": "Maximilianes jüngere Schwester",
+        "en": "Maximiliane's younger sister"
+      },
+      {
+        "name": "Radegunde",
+        "de": "Richenzas Tochter",
+        "en": "Richenza's daughter"
+      },
+      {
+        "name": "Heinrich",
+        "de": "Richenzas Sohn",
+        "en": "Richenza's son"
+      },
+      {
+        "name": "Hans/Hänschen",
+        "de": "Richenzas Sohn",
+        "en": "Richenza's son"
+      },
+      {
+        "name": "Liesbet",
+        "de": "Richenzas Tochter",
+        "en": "Richenza's daughter"
+      }
+    ]
+  }
+]

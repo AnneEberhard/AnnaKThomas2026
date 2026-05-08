@@ -1,0 +1,556 @@
+[
+  {
+    "groupId": "fictional",
+    "de": "Erfundene Personen",
+    "en": "Fictional Characters",
+    "members": [
+      {
+        "name": "Caterina Castini",
+        "de": "Tochter von Benedetta di Cammino, Frau von Umberto Castini, nach der Geburt der einzigen Tochter verstorben",
+        "en": "Daughter of Benedetta di Cammino, wife of Umberto Castini. Deceased after the birth of the only daughter"
+      },
+      {
+        "name": "Susanna Castini",
+        "de": "Einziges Kind von Umberto Castini und dessen verstorbener Frau Caterina",
+        "en": "Only child of Umberto Castini and his late wife Caterina"
+      },
+      {
+        "name": "Umberto Castini",
+        "de": "Ein Kaufherr in Florenz",
+        "en": "A merchant in Florence"
+      },
+      {
+        "name": "Netta",
+        "de": "Susannas Zofe",
+        "en": "Susanna's maid"
+      },
+      {
+        "name": "Lucia",
+        "de": "Cousine von Susanna, Tochter von Umbertos Schwester",
+        "en": "Cousin of Susanna, daughter of Umberto's sister"
+      },
+      {
+        "name": "Antonia",
+        "de": "Cousine von Susanna, Tochter von Umbertos Schwester",
+        "en": "Cousin of Susanna, daughter of Umberto's sister"
+      },
+      {
+        "name": "Luca di Cammino",
+        "de": "Enkelsohn von Rosalba",
+        "en": "Grandson of Rosalba"
+      },
+      {
+        "name": "Rosalba di Cammino",
+        "de": "Susannas Großtante",
+        "en": "Susanna's great aunt"
+      },
+      {
+        "name": "Benedetta di Cammino",
+        "de": "Susannas Großmutter, Schwester von Rosalba",
+        "en": "Susanna's grandmother, sister of Rosalba"
+      },
+      {
+        "name": "Francesco Montecaldo",
+        "de": "Ein Kaufherr in Florenz",
+        "en": "A merchant in Florence"
+      },
+      {
+        "name": "Cesare Montecaldo",
+        "de": "Ältester Sohn des Francesco Montecaldos",
+        "en": "Eldest son of Francesco Montecaldo"
+      },
+      {
+        "name": "Minerva Montecaldo",
+        "de": "Tochter des Francesco Montecaldos",
+        "en": "Daughter of Francesco Montecaldo"
+      },
+      {
+        "name": "Sebastiano Montecaldo",
+        "de": "Mittlerer Sohn des Francesco Montecaldos",
+        "en": "Middle son of Francesco Montecaldo"
+      },
+      {
+        "name": "Gianni Montecaldo",
+        "de": "Jüngster Sohn des Francesco Montecaldos",
+        "en": "Youngest son of Francesco Montecaldo"
+      },
+      {
+        "name": "Angelica Montecaldo",
+        "de": "Frau des Cesare Montecaldo",
+        "en": "Wife of Cesare Montecaldo"
+      },
+      {
+        "name": "Paolo Montecaldo",
+        "de": "Überlebender Sohn von Angelica und Cesare",
+        "en": "Surviving son of Angelica and Cesare"
+      },
+      {
+        "name": "Andrea Montecaldo",
+        "de": "Verstorbener Sohn von Angelica und Cesare",
+        "en": "Deceased son of Angelica and Cesare"
+      },
+      {
+        "name": "Carlo",
+        "de": "Leibwache der Montecaldos",
+        "en": "Bodyguard of the Montecaldos"
+      },
+      {
+        "name": "Luigi",
+        "de": "Leibwache der Montecaldos",
+        "en": "Bodyguard of the Montecaldos"
+      },
+      {
+        "name": "Paolo Malipiero",
+        "de": "Verwandter der Frau des Francesco Montecaldos",
+        "en": "Relative of Francesco Montecaldos wife"
+      },
+      {
+        "name": "Renaldo de’ Pazzi",
+        "de": "Neffe von Jacopo de’ Pazzi",
+        "en": "Nephew of Jacopo de' Pazzi"
+      },
+      {
+        "name": "Cristina de’ Pazzi",
+        "de": "Renaldos Schwester",
+        "en": "Renaldo's sister"
+      }
+    ]
+  },
+  {
+    "groupId": "historical",
+    "de": "Historische Personen",
+    "en": "Historical Characters",
+    "members": [
+      {
+        "name": "Agnolo Ambrogini, gen. Poliziano",
+        "de": "Florentinischer Gelehrter, Humanist und Dichter, Sohn eines Juristen aus Montepulciano, der dort für Piero de’ Medici sein Leben ließ. Seit 1470 Hausgast der Medici",
+        "en": "Florentine scholar, humanist and poet, son of a lawyer from Montepulciano who gave his life there for Piero de' Medici. Since 1470 house guest of the Medici"
+      },
+      {
+        "name": "Alessandra Macinghi",
+        "de": "Florentiner Bürgerin, schrieb ihren Söhnen im Exil (u.a. Filippo Strozzi) viele heute sehr aufschlussreiche Briefe",
+        "en": "Florentine citizen, wrote many letters to her sons in exile (among others Filippo Strozzi)"
+      },
+      {
+        "name": "Amerigo Vespucci",
+        "de": "Später Seefahrer; der Kontinent Amerika wird nach ihm benannt, obwohl Christoph Columbus ihn entdeckte. Amerigo kam als erster Europäer auf die Idee, nicht in Indien, sondern auf einem ganz neuen Kontinent gelandet zu sein",
+        "en": "Later navigator; the continent of America is named after him, although Christopher Columbus discovered it. Amerigo was the first European to get that he had landed not in India but on a whole new continent"
+      },
+      {
+        "name": "Andrea del Verrocchio, eigentlich Andrea di Michele Cioni",
+        "de": "Goldschmied, Maler und Bildhauer, führte eine der einflussreichsten Werkstätten von Florenz",
+        "en": "Goldsmith, painter and sculptor, led one of the most influential workshops of Florence at the time"
+      },
+      {
+        "name": "Andrea Gritti",
+        "de": "Späterer Doge von Venedig, verbrachte einen Großteil seines frühen Lebens in Konstantinopel",
+        "en": "Later Doge of Venice, spent much of his early life in Constantinople"
+      },
+      {
+        "name": "Antonio del Pollaiolo",
+        "de": "\tMaler und Bildhauer, führte mit seinem Bruder eine angesehene Werkstatt in Florenz",
+        "en": "Painter and sculptor, ran a prestigious workshop in Florence with his brother"
+      },
+      {
+        "name": "Bernardo Bandini Baroncelli",
+        "de": "Florentiner Bürger, eines der Mitglieder der Pazzi-Verschwörung",
+        "en": "Florentine citizen, one of the members of the Pazzi conspiracy"
+      },
+      {
+        "name": "Bernardo Cennini",
+        "de": "Evtl. der erste Florentiner Drucker",
+        "en": "Possibly the first Florentine printer"
+      },
+      {
+        "name": "Bernardo Rucellai",
+        "de": "Florentiner Bürger und Gelehrter, Schwager von Lorenzo dem Prächtigen",
+        "en": "Florentine citizen and scholar, brother-in-law of Lorenzo the Magnificent"
+      },
+      {
+        "name": "Bona von Savoyen",
+        "de": "Zweite Ehefrau des Galeazzo Maria Sforza",
+        "en": "Second wife of Galeazzo Maria Sforza"
+      },
+      {
+        "name": "Braccio Martelli",
+        "de": "Florentiner Bürger, Freund Lorenzos",
+        "en": "Florentine citizen, friend of Lorenzo"
+      },
+      {
+        "name": "Caterina Cornaro",
+        "de": "Venezianerin, Königin von   Zypern",
+        "en": "Venetian, Queen of Cyprus"
+      },
+      {
+        "name": "Caterina Sforza",
+        "de": "Illegitime Tochter des Herzogs von Mailand (Galeazzo Maria), in erster Ehe mit Girolamo Riario verheiratet",
+        "en": "Illegitimate daughter of the Duke of Milan (Galeazzo Maria), married to Girolamo Riario in first marriage"
+      },
+      {
+        "name": "Cesare Petrucci",
+        "de": "Podesta von Prato zum Zeitpunkt des Angriffs von Nardi",
+        "en": "Podesta of Prato at the time of the attack of Nardi"
+      },
+      {
+        "name": "Clarice Orsini",
+        "de": "Römerin, Frau von Lorenzo dem Prächtigen",
+        "en": "Roman, wife of Lorenzo the Magnificent"
+      },
+      {
+        "name": "Cosimo di Giovanni de' Medici, genannt il vecchio (der Alte)",
+        "de": "herrschte als Erster aus der Medici-Dynastie inoffiziell über Florenz (1389-1464)",
+        "en": "was the first of the Medici dynasty to unofficially rule Florence"
+      },
+      {
+        "name": "Domenico Ghirlandaio",
+        "de": "Florentinischer Maler und Bildhauer, älterer Bruder von Davide und Benedetto; wenn von Ghirlandaio die Rede ist, ist in der Regel er gemeint",
+        "en": "Florentine painter and sculptor, older brother of Davide and Benedetto; when Ghirlandaio is mentioned, he is usually meant"
+      },
+      {
+        "name": "Donatello (Donato di Niccolò di Betto Bardi)",
+        "de": "Florentiner Künstler, bekannt v.a. durch seinen David",
+        "en": "Florentine artist, known especially for his David"
+      },
+      {
+        "name": "Ercole I d'Este",
+        "de": "Herzog von Ferrara, Condottiere",
+        "en": "CDuke of Ferrara, Condottiere"
+      },
+      {
+        "name": "Federico da Montefeltro",
+        "de": "Graf, bzw. Herzog von Urbino, war für seine Bildung bekannt, aber gleichzeitig ein berühmter Söldnerführer",
+        "en": "Count or Duke of Urbino, was known for his education, but at the same time a famous mercenary leader"
+      },
+      {
+        "name": "Ferrante (Ferdinand) von Neapel",
+        "de": "König von Neapel",
+        "en": "King of Naples"
+      },
+      {
+        "name": "Filippino Lippi",
+        "de": "Sohn des Fra Filippo Lippi und der Lucrezia Buti, Maler",
+        "en": "Son of Fra Filippo Lippi and Lucrezia Buti, painter "
+      },
+      {
+        "name": "Filippo Strozzi der Ältere",
+        "de": "Florentiner Bürger, Sohn der Alessandra Macinghi, war zeitweise aus Florenz verbannt, kehrte aber zu Lorenzos Lebzeiten zurück. Den wuchtigen Palazzo Strozzi in Florenz hat er gebaut.",
+        "en": "Florentine citizen, son of Alessandra Macinghi, was temporarily exiled from Florence, but returned during Lorenzo's lifetime. He built the Palazzo Strozzi in Florence."
+      },
+      {
+        "name": "Fra Domenico da Pistoia",
+        "de": "Prokurator eines Domenikanerinnenklosters in Florenz, vermutlich Initiator der sog. Ripoli-Druckerei",
+        "en": "Procurator of a convent of Dominican nuns in Florence, probably initiator of the so-called Ripoli printing house"
+      },
+      {
+        "name": "Fra Filippo Tommaso Lippi",
+        "de": "Florentiner Maler, eigentlich ein Mönch, führte aber ein wenig religiöses Leben und bekam von einer Nonne namens Lucrezia Buti einen Sohn (Filippino Lippi)",
+        "en": "Florentine painter, actually a monk, but led a little religious life and had a son by a nun named Lucrezia Buti (Filippino Lippi)"
+      },
+      {
+        "name": "Francesco de Madiis",
+        "de": "Um 1480 Buchhändler in Venedig",
+        "en": "Around 1480 bookseller in Venice"
+      },
+      {
+        "name": "Francesco de’ Pazzi",
+        "de": "Florentiner Bürger, wegen seiner geringen Größe auch Franceschino genannt, Verschwörer von 1478, einer der Mörder von Giuliano de’ Medici",
+        "en": "Florentine citizen, also called Franceschino because of his small size, conspirator of 1478, one of the assassins of Giuliano de' Medici"
+      },
+      {
+        "name": "Francesco di Tommaso Soderini",
+        "de": "Sohn von Tommaso Soderini, der Lorenzo langjährig zur Seite stand",
+        "en": "Son of Tommaso Soderini, who assisted Lorenzo for many years"
+      },
+      {
+        "name": "Francesco Petrarca",
+        "de": "Berühmter Dichter der Toskana (1304-1374)",
+        "en": "Famous poet of Tuscany (1304-1374)"
+      },
+      {
+        "name": "Francesco Salviati Riario",
+        "de": "Erzbischof von Pisa, einer der Hauptakteure bei der Pazzi-Verschwörung",
+        "en": "Archbishop of Pisa, one of the main actors in the Pazzi conspiracy"
+      },
+      {
+        "name": "Friedrich III von Habsburg",
+        "de": "Römischer Kaiser",
+        "en": "Roman emperor"
+      },
+      {
+        "name": "Galeazzo Maria Sforza",
+        "de": "Sohn des Francesco Sforza, Herzog von Mailand",
+        "en": "Son of Francesco Sforza, Duke of Milan "
+      },
+      {
+        "name": "Gaspar van Weerbeke",
+        "de": "Flämischer Sänger und Chorleiter",
+        "en": "Flemish singer and choir director"
+      },
+      {
+        "name": "Gentile de’ Becchi",
+        "de": "Lehrer von Lorenzo und Giuliano de’ Medici",
+        "en": "Teacher of Lorenzo and Giuliano de' Medici"
+      },
+      {
+        "name": "Gionigi Pucci",
+        "de": "Florentiner Bürger, Freund Lorenzos",
+        "en": "Florentine citizen, friend of Lorenzo"
+      },
+      {
+        "name": "Giovan Battista da Montesecco",
+        "de": "Condottiere, der den Riarios nahestand und Teil der Pazzi-Verschwörung war. Anscheinend weigerte er sich, an einem Mord in einer Kirche teilzuhaben. Gefasst wurde er dennoch, legte ein umfangreiches Geständnis ab, das u.a. den Papst belastete, und wurde geköpft",
+        "en": "Condottiere, who was close to the Riario and part of the Pazzi conspiracy. Apparently, he refused to take part in a murder in a church. He was nevertheless caught, made an extensive confession incriminating, among others, the Pope, and was beheaded"
+      },
+      {
+        "name": "Giovanfrancesco Venturi",
+        "de": "Florentiner Bürger, Freund Lorenzos",
+        "en": "Florentine citizen, friend of Lorenzo"
+      },
+      {
+        "name": "Giovanni Boccaccio",
+        "de": "Berühmter Dichter der Toskana, Autor des Dekamerone (1313 - 1375)",
+        "en": "Famous poet of Tuscany, author of the Decameron (1313 - 1375)"
+      },
+      {
+        "name": "Giovanni Borromei",
+        "de": "Mailänder Kaufmann",
+        "en": "Milan merchant"
+      },
+      {
+        "name": "Giovanni Cavalcanti",
+        "de": "Florentiner Dichter, Mitglied einer bedeutenden Florentiner Familie und spezieller Freund von Marsilio Ficino",
+        "en": "Florentine poet, member of an important Florentine family and special friend of Marsilio Ficino "
+      },
+      {
+        "name": "Giovanni de' Medici, bekannt als il Popolano",
+        "de": "Florentiner aus der jüngeren Linie der Medici, begründet die Linie der Großherzöge der Toskana",
+        "en": "Florentine from the younger Medici line, founded the line of the Grand Dukes of Tuscany"
+      },
+      {
+        "name": "Giovanni de’ Pazzi",
+        "de": "\tHeiratet Beatrice de’ Borromei, die Tochter eines reichen Mailänder Kaufmannes. Wird nach der Pazzi-Verschwörung unter teilweise wohl unmenschlichen Bedingungen in Volterra eingesperrt. Stirbt kurz nach seiner Befreiung",
+        "en": "Married Beatrice de' Borromei, the daughter of a rich Milanese merchant. Imprisoned in Volterra after the Pazzi conspiracy under inhumane conditions. Died shortly after his liberation"
+      },
+      {
+        "name": "Giovanni di Giovanni",
+        "de": "Minderjähriger, der aufgrund von homosexuellen Aktivitäten grausam hingerichtet wird (1350-1365)",
+        "en": "Minor cruelly executed for homosexual activity (1350-1365)"
+      },
+      {
+        "name": "Girolamo Riario",
+        "de": "Ein Neffe des Papstes Sixtus IV, heiratet Caterina Sforza, vermutlich einer der Mit-Initiatoren der Pazzi-Verschwörung",
+        "en": "A nephew of Pope Sixtus IV, marries Caterina Sforza, probably one of the co-initiators of the Pazzi Conspiracy"
+      },
+      {
+        "name": "Girolamo Savonarola",
+        "de": "Dominikanermönch, der nach der Vertreibung der älteren Linie der Medici einen Gottesstaat in Florenz errichtet und schließlich selbst auf der Piazza verbrannt wird",
+        "en": "Dominican friar who, after the expulsion of the older Medici line, established a divine state in Florence and was eventually burned in the Piazza"
+      },
+      {
+        "name": "Giuliano della Rovere",
+        "de": "Neffe von Sixtus IV., späterer Papst Julius II.",
+        "en": "Nephew of Sixtus IV, later Pope Julius II."
+      },
+      {
+        "name": "Giuliano de’ Medici",
+        "de": "Florentiner Bürger, Bruder von Lorenzo dem Prächtigen",
+        "en": "Florentine citizen, brother of Lorenzo the Magnificent"
+      },
+      {
+        "name": "Guglielmo de’ Pazzi",
+        "de": "Angehöriger der Florentiner Pazzi-Familie, Ehemann von Bianca de’ Medici, vermutlich nicht in die Verschwörung eingeweiht",
+        "en": "Member of the Florentine Pazzi family, husband of Bianca de' Medici, presumably not privy to the conspiracy "
+      },
+      {
+        "name": "Jacopo de’ Pazzi",
+        "de": "Patriach der Pazzi-Familie",
+        "en": "Patriach of the Pazzi family"
+      },
+      {
+        "name": "Jacopo Saltarelli",
+        "de": "Geistig behinderter (?) Malerbursche des Andrea del Verrocchio bzw. Modell und Prostituierter (?); 1476 wird Leonardo vorgeworfen, sich an dem damals 17j. Jacopo sexuell vergangen zu haben. Die Anklage wird schließlich fallen gelassen",
+        "en": "Mentally handicapped (?) painter boy of Andrea del Verrocchio or model and prostitute (?); in 1476 Leonardo is accused of having had sexual intercourse with Jacopo, then 17 years old. The charge is finally dropped"
+      },
+      {
+        "name": "Jean Cordier",
+        "de": "Flämischer Sänger, der für kurze Zeit in Florenz weilte",
+        "en": "Flemish singer who stayed for a short time in Florence"
+      },
+      {
+        "name": "Johann von Speyer",
+        "de": "oder Giovanni da Spira, Goldschmied, erster Buchdrucker in Venedig",
+        "en": "or Giovanni da Spira, goldsmith, first printer in Venice"
+      },
+      {
+        "name": "Leonardo da Vinci",
+        "de": "Unehelicher Sohn eines Notars und eines Bauernmädchens. Neben Michaelangelo das Inbild des „Universalgenies“ der Renaissance – Mathematiker, Maler, Bildhauer, Architekt etc. etc. Leonardo war für sein gewinnendes Wesen und seine absolute Undiszipliniertheit bekannt. Nur wenige seiner Werke vervollständigte er. Das berühmteste davon ist sicherlich die Mona Lisa.",
+        "en": "Illegitimate son of a notary and a peasant girl. Along with Michaelangelo, the epitome of the Renaissance 'universal genius' - mathematician, painter, sculptor, architect, etc., etc. Leonardo was known for his winning nature and absolute indiscipline. He completed only few works. The most famous of them is certainly the Mona Lisa."
+      },
+      {
+        "name": "Lorenzo de' Medici, genannt Il Magnifico (Der Prächtige)",
+        "de": "Florentiner Bürger, herrschte de facto von 1469 bis zu seinem Tod 1492 über die Stadt. Die Florentiner gaben ihm den Beinamen selbst.",
+        "en": "Florentine citizen, ruled the city de facto from 1469 until his death in 1492. The Florentines themselves gave him the nickname."
+      },
+      {
+        "name": "Lorenzo di Credi",
+        "de": "Florentiner Künstler und „Erbe“ des Andrea del Verrocchio",
+        "en": "Florentine artist and 'heir' of Andrea del Verrocchio"
+      },
+      {
+        "name": "Lorenzo di Pierfrancesco de' Medici, genannt il Popolano",
+        "de": "Florentiner aus der jüngeren Linie der Medici",
+        "en": "Florentine from the younger Medici line"
+      },
+      {
+        "name": "Louis XI von Frankreich, genannt die Spinne",
+        "de": "Französischer König",
+        "en": "French king"
+      },
+      {
+        "name": "Luca Landucci",
+        "de": "Florentiner Händler. Sein Tagebuch, dass er bis zu seinem Tode geführt hat, ist bis heute erhalten",
+        "en": "Florentine merchant. His diary, which he kept until his death, is preserved to this day."
+      },
+      {
+        "name": "Luca Pitti",
+        "de": "\tFlorentiner Bürger und Politiker, er herrscht in der Endzeit von Cosimos Leben beinahe wie ein Regent. Er beteiligt sich nach Cosimos Tod an der Verschwörung gegen Piero de’ Medici, was ihn seine Ehre kostet, auch wenn er, im Gegensatz zu den anderen, in Florenz bleiben darf",
+        "en": "Florentine citizen and politician, he ruled almost like a regent in the final period of Cosimo's life. He took part in the conspiracy against Piero de' Medici after Cosimo's death, which cost him his honor, even if, unlike the others, he was allowed to stay in Florence"
+      },
+      {
+        "name": "Lucrezia Tornabuoni",
+        "de": "Ehefrau von Piero dem Gichtigen",
+        "en": "Wife of Piero the Gouty"
+      },
+      {
+        "name": "Ludovico Sforza genannt il Moro 'Der Moor'",
+        "de": "Ergreift nach dem Tod Galezzo Maria Sforzas die Regentschaft in Mailand (übernimmt sie anstelle der Herzogin Bona für ihren Sohn). Nach dem Tod des eigentlichen Erben wird er Herzog von Mailand. 1499 wird er durch Ludwig von Frankreich vertrieben. Mäzen von Leonardo",
+        "en": "Seized the regency of Milan after the death of Galeazzo Maria Sforza (took over for her son in place of Duchess Bona). After the death of the actual heir, he became Duke of Milan. In 1499 he was expelled by Louis of France. Later patron of Leonardo"
+      },
+      {
+        "name": "Luigi Pulci",
+        "de": "Italienischer Schriftsteller, berühmt für sein Epos „Morgante“ und seinen beißenden Humor",
+        "en": "Italian writer, famous for his epic 'Morgante' and his biting humor"
+      },
+      {
+        "name": "Marco Vespucci",
+        "de": "Ehemann der schönen Simonetta, Cousin von Amerigo Vespucci, wird nach der Pazzi Verschwörung verbannt",
+        "en": "Husband of the beautiful Simonetta, cousin of Amerigo Vespucci, exiled after the Pazzi conspiracy"
+      },
+      {
+        "name": "Marsilio Ficino",
+        "de": "Einer der einflussreichsten Humanisten der italienischen Renaissance, Mittelpunkt des seit dem 17. Jhdt. genannten Gesprächskrei- ses der Platonischen Akademie unter dem Schutz der Medici und der Pazzi",
+        "en": "One of the most influential humanists of the Italian Renaissance, center of the discussion circle of the Platonic Academy under the protection of the Medici and the Pazzi since the 17th century"
+      },
+      {
+        "name": "Michelangelo di Lodovico Buonarroti Simoni",
+        "de": "Maler und Bildhauer, gilt als der größte Konkurrent Leonardos, bekannt für sein unwirsches Wesen; der steinerne David von Florenz ist von ihm, ebenso das Grabmal für Lorenzo und Giuliano de’ Medici",
+        "en": "Painter and sculptor, considered Leonardo's greatest rival, known for his gruff nature; the stone David of Florence is by him, as well as the tomb for Lorenzo and Giuliano de' Medici"
+      },
+      {
+        "name": "Niccolò di Bernardo dei Machiavelli",
+        "de": "Florentiner Bürger und Politiker, schrieb später Der Fürst, wobei er sich sowohl an Lorenzo de’ Medici als auch an Cesare Borgia orientierte. Seine teilweise sehr pragmatische Einstellung zur Politik schuf den Begriff des Machiavellismus",
+        "en": "Florentine citizen and politician, later wrote The Prince, taking his cue from both Lorenzo de' Medici and Cesare Borgia. His sometimes very pragmatic approach to politics created the concept of Machiavellianism "
+      },
+      {
+        "name": "Pasquale Malipiero",
+        "de": "Doge von Venedig, 1457-1462",
+        "en": "Doge of Venice, 1457-1462"
+      },
+      {
+        "name": "Piero Benci Pollaiolo",
+        "de": "italienischer Maler und wahrscheinlich auch Bildhauer und Goldschmied, jüngerer Bruder von Antonio",
+        "en": "Italian painter and probably also sculptor and goldsmith, younger brother of Antonio"
+      },
+      {
+        "name": "Piero de′ Medici; genannt il Gottoso („der Gichtige“)",
+        "de": "Sohn von Cosimo dem Alten, Vater von Lorenzo dem Prächtigen. De facto Herrscher über Florenz von 1466 bis 1469",
+        "en": "Son of Cosimo the Old, father of Lorenzo the Magnificent. De facto ruler of Florence from 1466 to 1469"
+      },
+      {
+        "name": "Piero di Lorenzo de’ Medici, genannt il sfortunato (Der Unglückliche) oder il fatuo (Der Eitle)",
+        "de": "Sohn von Lorenzo de’ Medici, verspielt die Macht der älteren Linie",
+        "en": "Son of Lorenzo de' Medici, gambled away the power of the elder line"
+      },
+      {
+        "name": "Piero di Tommaso Soderini",
+        "de": "Politiker, Sohn von Tommaso Soderini, der Lorenzo langjährig zur Seite stand",
+        "en": "Politician, son of Tommaso Soderini, who assisted Lorenzo for many years"
+      },
+      {
+        "name": "Piero Vespucci",
+        "de": "Vater von Marco Vespucci, wird nach der Pazzi-Verschwörung zunächst eingesperrt, weil er einem Freund zur Flucht verhalf",
+        "en": "Father of Marco Vespucci, initially imprisoned after the Pazzi conspiracy for helping a friend escape"
+      },
+      {
+        "name": "Pietro Perugino",
+        "de": "Maler",
+        "en": "Painter"
+      },
+      {
+        "name": "Pietro Riario",
+        "de": "Neffe des Papstes, Erzbischof von Florenz. Starb unter etwas obskuren Umständen, wobei man heute eher von einem Magendarminfekt infolge Völlerei und nicht von Gift ausgeht",
+        "en": "Nephew of the Pope, Archbishop of Florence. Died under somewhat obscure circumstances, although today one assumes rather a gastrointestinal infection as a result of gluttony and not poison"
+      },
+      {
+        "name": "Raffaele Sansoni Galeoti Riario",
+        "de": "Ein Großneffe von Papst Sixtus, mit sechzehn Kardinal",
+        "en": "A grandnephew of Pope Sixtus, cardinal at sixteen"
+      },
+      {
+        "name": "Rinaldo Orsini",
+        "de": "Verwandter von Clarice Orsini, auf Lorenzo de’ Medicis Betreiben Erzbischof von Florenz, hat die Stadt allerdings niemals gesehen",
+        "en": "Relative of Clarice Orsini, Archbishop of Florence at Lorenzo de' Medici's instigation, but never saw the city"
+      },
+      {
+        "name": "Sandro Botticelli, eigentlich Alessandro di Mariano Filipepi",
+        "de": "Berühmter florentinischer Maler, u.a. „der Frühling“ und „die Geburt der Venus.“ Botticelli bedeutet das Fässchen. Nach Vasari verdankt er seinen Spitznamen Leonardo da Vinci, nach anderen Quellen jedoch seinem ältesten Bruder",
+        "en": "Famous Florentine painter, including 'The Spring' and 'The Birth of Venus'. Botticelli means the little barrel. According to Vasari, he owes his nickname to Leonardo da Vinci, but according to other sources to his eldest brother / father"
+      },
+      {
+        "name": "Sigismondo della Stufa",
+        "de": "Florentiner Bürger, Freund Lorenzos",
+        "en": "Florentine citizen, friend of Lorenzo"
+      },
+      {
+        "name": "Sigismondo Pandolfo Malatesta, genannt der Wolf von Rimini",
+        "de": "Gefürchteter Söldnerführer seiner Zeit",
+        "en": "Feared mercenary leader of his time"
+      },
+      {
+        "name": "Simone del Pollaiolo",
+        "de": "Italienischer Architekt, jüngster Bruder (?) von Antonio und Piero",
+        "en": "Italian architect, youngest brother (?) of Antonio and Piero"
+      },
+      {
+        "name": "Simonetta Cattaneo de Vespucci, bekannt als la bella Simonetta",
+        "de": "Genuesin, durch Heirat mit Marco Vespucci Florentiner Bürgerin",
+        "en": "Genoese, Florentine citizen by marriage to Marco Vespucci"
+      },
+      {
+        "name": "Taddeo Manfredi",
+        "de": "Herr von Imola, verkauft es wegen Schulden an Mailand",
+        "en": "Lord of Imola, sold it to Milan because of debts"
+      },
+      {
+        "name": "Tommaso Portarini",
+        "de": "Leitete die Brügger Medici-Niederlassung zu Zeit von Piero und Lorenzo",
+        "en": "Managed the Medici branch in Bruges at the time of Piero and Lorenzo"
+      },
+      {
+        "name": "Tommaso Soderini",
+        "de": "Florentiner Bürger, Freund und Helfer der Medici",
+        "en": "Florentine citizen, friend and helper of Medici"
+      },
+      {
+        "name": "Vespasiano da Bisticci",
+        "de": "Florentiner Buchhändler und Verleger",
+        "en": "Florentine bookseller and publisher"
+      },
+      {
+        "name": "Wendelin von Speyer",
+        "de": "oder Vendelino da Spira, Johanns jüngerer Bruder, führt nach dessen Tod die Druckerei mit Johann von Köln fort",
+        "en": "or Vendelino da Spira, Johann's younger brother, continues the printing business with Johann of Cologne after his death"
+      }
+    ]
+  }
+]

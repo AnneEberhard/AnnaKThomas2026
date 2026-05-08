@@ -1,0 +1,476 @@
+{
+  "mainSites": [
+    {
+      "path": "/fantasy.html",
+      "params": [
+        "fantasy"
+      ]
+    },
+    {
+      "path": "/historical.html",
+      "params": [
+        "historical"
+      ]
+    },
+    {
+      "path": "/novellas.html",
+      "params": [
+        "novellas"
+      ]
+    },
+    {
+      "path": "/about-me.html",
+      "params": [
+        "aboutMe"
+      ]
+    },
+    {
+      "path": "/imprint.html",
+      "params": []
+    },
+    {
+      "path": "/privacy-policy.html",
+      "params": []
+    }
+  ],
+  "bookSites": [
+    {
+      "path": "/sites-html/booksites/odyssey.html",
+      "params": [
+        "historical",
+        "odyssey",
+        false
+      ]
+    },
+    {
+      "path": "/sites-html/booksites/mind-on-fire.html",
+      "params": [
+        "historical",
+        "mind",
+        false
+      ]
+    },
+    {
+      "path": "/sites-html/booksites/alster-diamonds.html",
+      "params": [
+        "historical",
+        "alster",
+        false
+      ]
+    },
+    {
+      "path": "/sites-html/booksites/counts-servant.html",
+      "params": [
+        "historical",
+        "counts",
+        false
+      ]
+    },
+    {
+      "path": "/sites-html/booksites/masks-of-florence.html",
+      "params": [
+        "historical",
+        "masks",
+        false
+      ]
+    },
+    {
+      "path": "/sites-html/booksites/counts-servants.html",
+      "params": [
+        "historical",
+        "counts",
+        false
+      ]
+    },
+    {
+      "path": "/sites-html/booksites/frida.html",
+      "params": [
+        "historical",
+        "frida",
+        false
+      ]
+    },
+    {
+      "path": "/sites-html/booksites/children-of-angels.html",
+      "params": [
+        "fantasy",
+        "children",
+        true
+      ]
+    },
+    {
+      "path": "/sites-html/booksites/of-elves-and-wolves.html",
+      "params": [
+        "fantasy",
+        "elves",
+        true
+      ]
+    },
+    {
+      "path": "/sites-html/booksites/bards-of-thuran.html",
+      "params": [
+        "fantasy",
+        "bards",
+        true
+      ]
+    },
+    {
+      "path": "/sites-html/booksites/time-curves.html",
+      "params": [
+        "fantasy",
+        "time",
+        false
+      ]
+    }
+  ],
+  "personSites": [
+    {
+      "path": "/sites-html/subsitesFrida/frida-persons.html",
+      "params": [
+        "fantasy",
+        "frida",
+        "fridaPersons",
+        "personsFrida"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesTime/time-persons.html",
+      "params": [
+        "fantasy",
+        "time",
+        "timePersons",
+        "personsTime"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesElves/elves-persons.html",
+      "params": [
+        "fantasy",
+        "elves",
+        "elvesPersons",
+        "personsElves"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesAlster/alster-persons.html",
+      "params": [
+        "historical",
+        "alster",
+        "alsterPersons",
+        "personsAlster"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesMind/mind-persons.html",
+      "params": [
+        "historical",
+        "mind",
+        "mindPersons",
+        "personsMind"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesCounts/counts-persons.html",
+      "params": [
+        "historical",
+        "counts",
+        "countsPersons",
+        "personsCounts"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesOdyssey/odyssey-persons.html",
+      "params": [
+        "historical",
+        "odyssey",
+        "odysseyPersons",
+        "personsOdyssey"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesMasks/masks-persons.html",
+      "params": [
+        "historical",
+        "masks",
+        "masksPersons",
+        "personsMasks"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesBards/bards-persons.html",
+      "params": [
+        "fantasy",
+        "bards",
+        "bardsPersons",
+        "personsBards"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesChildren/children-persons.html",
+      "params": [
+        "fantasy",
+        "children",
+        "childrenPersons",
+        "personsChildren"
+      ]
+    }
+  ],
+  "backgroundSites": [
+    {
+      "path": "/sites-html/subsitesFrida/frida-background.html",
+      "params": [
+        "historical",
+        "frida"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesAlster/alster-background.html",
+      "params": [
+        "historical",
+        "alster"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesCounts/counts-background.html",
+      "params": [
+        "historical",
+        "counts"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesBards/bards-background.html",
+      "params": [
+        "fantasy",
+        "bards"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesChildren/children-background.html",
+      "params": [
+        "fantasy",
+        "children"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesElves/elves-background.html",
+      "params": [
+        "fantasy",
+        "elves"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesMasks/masks-background.html",
+      "params": [
+        "historical",
+        "masks"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesMind/mind-background.html",
+      "params": [
+        "historical",
+        "mind"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesOdyssey/odyssey-background.html",
+      "params": [
+        "historical",
+        "odyssey"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesTime/time-background.html",
+      "params": [
+        "fantasy",
+        "time"
+      ]
+    }
+  ],
+  "familyTreeSites": [
+    {
+      "path": "/sites-html/subsitesOdyssey/odyssey-familytrees.html",
+      "params": [
+        "historical",
+        "odyssey"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesMasks/masks-familytrees.html",
+      "params": [
+        "historical",
+        "masks"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesAlster/alster-familytrees.html",
+      "params": [
+        "historical",
+        "alster"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesElves/elves-familytrees.html",
+      "params": [
+        "fantasy",
+        "elves"
+      ]
+    }
+  ],
+  "sourcesSites": [
+    {
+      "path": "/sites-html/subsitesFrida/frida-sources.html",
+      "params": [
+        "historical",
+        "frida"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesMasks/masks-sources.html",
+      "params": [
+        "historical",
+        "masks"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesCounts/counts-sources.html",
+      "params": [
+        "historical",
+        "counts"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesOdyssey/odyssey-sources.html",
+      "params": [
+        "historical",
+        "odyssey"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesAlster/alster-sources.html",
+      "params": [
+        "historical",
+        "alster"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesMind/mind-sources.html",
+      "params": [
+        "historical",
+        "mind"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesChildren/children-sources.html",
+      "params": [
+        "fantasy",
+        "children"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesTime/time-sources.html",
+      "params": [
+        "fantasy",
+        "time"
+      ]
+    }
+  ],
+  "timelineSites": [
+    {
+      "path": "/sites-html/subsitesMasks/masks-timeline.html",
+      "params": [
+        "historical",
+        "masks"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesOdyssey/odyssey-timeline.html",
+      "params": [
+        "historical",
+        "odyssey"
+      ]
+    }
+  ],
+  "bonusChapterSites": [
+    {
+      "path": "/sites-html/subsitesChildren/children-bonus.html",
+      "params": [
+        "fantasy",
+        "children",
+        "zach"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesElves/elves-bonus-diana.html",
+      "params": [
+        "fantasy",
+        "elves",
+        "diana"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesElves/elves-bonus-noel.html",
+      "params": [
+        "fantasy",
+        "elves",
+        "noel"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesMind/mind-bonus-curtius.html",
+      "params": [
+        "historical",
+        "mind",
+        "curtius"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesMind/mind-bonus-danton.html",
+      "params": [
+        "historical",
+        "mind",
+        "danton"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesMind/mind-bonus-henri.html",
+      "params": [
+        "historical",
+        "mind",
+        "henri"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesCounts/counts-bonus-chapter2.html",
+      "params": [
+        "historical",
+        "counts",
+        "chapter2"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesCounts/counts-bonus-rome.html",
+      "params": [
+        "historical",
+        "counts",
+        "rome"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesOdyssey/odyssey-bonus.html",
+      "params": [
+        "historical",
+        "odyssey",
+        "radegunde"
+      ]
+    },
+    {
+      "path": "/sites-html/subsitesMasks/masks-bonus.html",
+      "params": [
+        "historical",
+        "masks",
+        "susanna"
+      ]
+    }
+  ]
+}

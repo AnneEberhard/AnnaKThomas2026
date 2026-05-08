@@ -1,0 +1,641 @@
+[
+  {
+    "groupId": "fictional",
+    "de": "Erfundene Personen",
+    "en": "Fictional Characters",
+    "members": [
+      {
+        "name": "Gabriel Zurmühlen",
+        "de": "Findelkind aus Berlin",
+        "en": "Foundling from Berlin"
+      },
+      {
+        "name": "Hagen",
+        "de": "Leibwächter des Grafen von Winsterburg, Gabriels Freund",
+        "en": "Bodyguard of Count von Winsterburg, Gabriel's friend"
+      },
+      {
+        "name": "Ottokar von Winsterburg",
+        "de": "Brandenburgischer Graf",
+        "en": "Brandenburg Count"
+      },
+      {
+        "name": "Anton",
+        "de": "Leibdiener des Grafen von Winsterburg",
+        "en": "Servant of Count von Winsterburg"
+      },
+      {
+        "name": "Clemens von Winsterburg",
+        "de": "Einziges überlebendes Kind des Grafen von Winsterburg",
+        "en": "Only surviving child of Count von Winsterburg"
+      },
+      {
+        "name": "Mathilda von Winsterburg, geb. Grendeling",
+        "de": "Ehefrau von Clemens, Tochter eines reichen Kaufmanns",
+        "en": "Wife of Clemens, daughter of a wealthy merchant"
+      },
+      {
+        "name": "Clélie Béllion",
+        "de": "Tochter der Wirtin in Paris",
+        "en": "Daughter of the landlady in Paris"
+      },
+      {
+        "name": "Madame Béllion",
+        "de": "Wirtin in Paris",
+        "en": "Landlady in Paris"
+      },
+      {
+        "name": "Linot",
+        "de": "Lakai im Palais Royal",
+        "en": "Footman at the Palais Royal"
+      },
+      {
+        "name": "Babette",
+        "de": "Blumenbinderin",
+        "en": "Florist"
+      },
+      {
+        "name": "Minette",
+        "de": "Blumenbinderin",
+        "en": "Florist"
+      },
+      {
+        "name": "Marcel",
+        "de": "Lakai im Palais Royal",
+        "en": "Footman at the Palais Royal"
+      },
+      {
+        "name": "Jacques",
+        "de": "Waffelverkäufer an Les Halles",
+        "en": "Waffle vendor at Les Halles"
+      },
+      {
+        "name": "Pauline Canouche",
+        "de": "Mathildas Zofe in Paris",
+        "en": "Mathilda's maid in Paris"
+      },
+      {
+        "name": "Baronin von Halen",
+        "de": "Mathildas Patentante",
+        "en": "Mathilda's godmother"
+      },
+      {
+        "name": "Sylvie Gringe",
+        "de": "Lehrerin und Protegée von Ninon de Lenclos",
+        "en": "Teacher and protégé of Ninon de Lenclos"
+      },
+      {
+        "name": "Karl von Dramberg",
+        "de": "Ritter aus der Gegend um Nürnberg",
+        "en": "Knight from the area around Nuremberg"
+      },
+      {
+        "name": "Perotte",
+        "de": "Ninons Diener",
+        "en": "Ninon’s servant"
+      },
+      {
+        "name": "Bertrand",
+        "de": "Waffelverkäufer am Palais Royal",
+        "en": "Waffle vendor at the Palais Royal"
+      },
+      {
+        "name": "Trina",
+        "de": "Mathildas Zofe in Cölln",
+        "en": "Mathilda's maid in Cölln"
+      },
+      {
+        "name": "Fritz Bense",
+        "de": "Gastwirt bei Berlin, Gabriels Pflegevater",
+        "en": "Innkeeper near Berlin, Gabriel's foster father"
+      },
+      {
+        "name": "Grete Bense",
+        "de": "Gastwirtin bei Berlin, Gabriels Pflegemutter",
+        "en": "Innkeeper near Berlin, Gabriel's foster mother"
+      },
+      {
+        "name": "Marie Bense",
+        "de": "Gabriels Pflegeschwester, einziges überlebendes Kind des Gastwirtpaares Bense",
+        "en": "Gabriel's foster sister, only surviving child of the innkeeper couple Bense"
+      },
+      {
+        "name": "Paul Bense",
+        "de": "Cousin zweiten Grades von Marie, später Ehemann, verstorben",
+        "en": "Second cousin of Marie, later husband, deceased"
+      },
+      {
+        "name": "Luise Bense",
+        "de": "Einziges Kind von Marie und Paul Bense",
+        "en": "Only child of Marie and Paul Bense"
+      },
+      {
+        "name": "Ulf",
+        "de": "Stummer, geistig behinderter Pflegebruder von Marie und Gabriel",
+        "en": "Mute, mentally disabled foster brother of Marie and Gabriel"
+      },
+      {
+        "name": "Melchior von Vospow",
+        "de": "Brandenburgischer Junker",
+        "en": "Brandenburg nobleman"
+      },
+      {
+        "name": "Else",
+        "de": "Nachbarstochter von Marie, hilft ihr in der Küche",
+        "en": "Marie's neighbor's daughter, helps her in the kitchen"
+      },
+      {
+        "name": "Pastor Lehmann",
+        "de": "Diakon von St. Nikolai",
+        "en": "Deacon of St. Nikolai"
+      },
+      {
+        "name": "Hannes Schreiner",
+        "de": "Schreiner in Berlin",
+        "en": "Carpenter in Berlin"
+      },
+      {
+        "name": "Witwe Kattin",
+        "de": "Wäscherin in Berlin",
+        "en": "Laundress in Berlin"
+      },
+      {
+        "name": "Georg Schmied",
+        "de": "Ratsherr in Berlin, mit Benses seit Jahren verbunden",
+        "en": "Councilman in Berlin, associated with the Benses for years"
+      },
+      {
+        "name": "Caroline von Trellow",
+        "de": "Tochter eines brandenburgischen Freiherrn",
+        "en": "Daughter of a Brandenburg baron"
+      },
+      {
+        "name": "Constantin von Trellow",
+        "de": "Sohn eines brandenburgischen Freiherrn",
+        "en": "Son of a Brandenburg baron"
+      }
+    ]
+  },
+  {
+    "groupId": "historical",
+    "de": "Historische Personen",
+    "en": "Historical Characters",
+    "members": [  
+      {
+        "name": "Anne of England",
+        "de": "jüngere Tochter James II von Englands, ab 1702 letzte Königin der Stuarts",
+        "en": "Younger daughter of James II of England, last Queen of the Stuarts from 1702"
+      },
+      {
+        "name": "Banks, Caleb",
+        "de": "englischer Politiker, Schüler von John Locke",
+        "en": "English politician, student of John Locke"
+      },
+      {
+        "name": "Bernard, Samuel",
+        "de": "französischer Finanzier, seit 1676 „Meistergroßhändler für Gold-, Silber- und Seidentücher aus Paris“",
+        "en": "French financier, 'Master Merchant for Gold, Silver, and Silk Cloths from Paris' since 1676"
+      },
+      {
+        "name": "Bernier, François",
+        "de": "französischer Arzt, Philosoph, Asienreisender und Schriftsteller.",
+        "en": "French doctor, philosopher, traveler to Asia, and writer"
+      },
+      {
+        "name": "Carlos II de España",
+        "de": "letzter König der Spanier aus dem Haus Habsburg",
+        "en": "Last King of Spain from the House of Habsburg"
+      },
+      {
+        "name": "Charles II of England",
+        "de": "ältester überlebender Sohn des geköpften Charles I und monarchistisch ab 1649, offiziell ab 1660 König von England",
+        "en": "Oldest surviving son of the executed Charles I and monarchist from 1649, officially King of England from 1660"
+      },
+      {
+        "name": "Chevalier de Lorraine",
+        "de": "Philippe de Lorraine; französischer Adliger und Militär. Er war ein Günstling und Liebhaber von Philippe I. de Bourbon, Duc d’Orléans",
+        "en": "Philippe de Lorraine; French nobleman and military leader. He was a favorite and lover of Philippe I de Bourbon, Duke of Orléans"
+      },
+      {
+        "name": "Colbert, Jean-Baptiste",
+        "de": "französischer Staatsmann und der Begründer des Merkantilismus",
+        "en": "French statesman and the founder of mercantilism"
+      },
+      {
+        "name": "Comte de Soissons",
+        "de": "Eugène-Maurice de Savoie-Carignan; savoyischer Offizier des französischen Heeres, Vater des späteren Feldherrn Prinz Eugen, 1673 verstorben",
+        "en": "Eugène-Maurice de Savoie-Carignan; Savoyard officer in the French army, father of the later general Prince Eugene, died in 1673"
+      },
+      {
+        "name": "Comte de Vermandois",
+        "de": "Louis de Bourbon; außerehelicher Sohn von König Louis XIV mit der La Vallière. In die confrérie d'italianisants verwickelt.",
+        "en": "Louis de Bourbon; illegitimate son of King Louis XIV with La Vallière. Involved in the confrérie d'italianisants."
+      },
+      {
+        "name": "Comtesse de Soissons",
+        "de": "Olympia Mancini; eine der sogenannten Mazarinetten und Mätresse des französischen Königs Louis XIV. Durch Heirat mit Eugen Moritz von Savoyen-Carignan war sie ab 1657 Comtesse de Soissons.",
+        "en": "Olympia Mancini; one of the so-called Mazarinettes and mistress of King Louis XIV of France. By marriage to Eugene Maurice of Savoy-Carignan, she became Countess of Soissons in 1657."
+      },
+      {
+        "name": "Condé le Fol",
+        "de": "Henri Jules de Bourbon, einziger Sohn des Großen Condés und sein Erbe. Zu dem Zeitpunkt der Geschichte eigentlich noch der Duc d’Enghien – den Namen Condé le Fol bekam er erst später. Vermutlich litt er an Lykomanie.",
+        "en": "Henri Jules de Bourbon, only son of the Great Condé and his heir. At the time of the story, he was still the Duke of Enghien – the name Condé le Fol was given to him later. Likely suffered from lycanthropy."
+      },
+      {
+        "name": "Corneille, Pierre",
+        "de": "französischer Autor, der vor allem als Dramatiker aktiv war. Gilt neben Molière und Jean Racine als einer der großen Theaterautoren der französischen Klassik",
+        "en": "French author, primarily active as a playwright. Along with Molière and Jean Racine, one of the great theater authors of French classicism"
+      },
+      {
+        "name": "Créquy, François de",
+        "de": "Marschall von Frankreich und einer der erfolgreichsten Heerführer seiner Zeit",
+        "en": "Marshal of France and one of the most successful military leaders of his time"
+      },
+      {
+        "name": "Danckelman, Daniel Ludolf",
+        "de": "Hauslehrer des Prinzen Ludwig von Brandenburg",
+        "en": "Private tutor of Prince Ludwig of Brandenburg"
+      },
+      {
+        "name": "Danckelman, Eberhard Christoph Balthasar",
+        "de": "Hauslehrer des Prinzen Friedrich von Brandenburg",
+        "en": "Private tutor of Prince Friedrich of Brandenburg"
+      },
+      {
+        "name": "de la Reynie, Gabriel Nicolas",
+        "de": "erster Generalleutnant der französischen Polizei, reformierte die Pariser Polizei und die Sauberkeit der Stadt",
+        "en": "First lieutenant general of the French police, reformed the Paris police and the cleanliness of the city"
+      },
+      {
+        "name": "Desgrez, François",
+        "de": "französischer Polizist, u.a. bekannt, weil er die Marquise de Brinvilliers aufspürte und verhaftete",
+        "en": "French policeman, known for tracking down and arresting the Marquise de Brinvilliers"
+      },
+      {
+        "name": "Duc de Vendôme",
+        "de": "Louis Joseph de Bourbon; französischer General und Marshall von Frankreich. In der Giftaffäre wurde ihm ein Verhältnis mit seiner Tante, der Duchesse de Bouillon nachgesagt. Vermutlich war er jedoch homosexuell, und die 'Affäre' entstand aus einem Spaß (so verteidigte sich die Herzogin im Verhör, zudem sie sowohl ihr Mann als auch Vendôme begleiteten).",
+        "en": "Louis Joseph de Bourbon; French general and Marshal of France. In the poison affair, rumors arose of an affair with his aunt, the Duchesse de Bouillon. However, he was likely homosexual, and the 'affair' was a playful misunderstanding (as the Duchess defended during her interrogation, with both her husband and Vendôme accompanying her)."
+      },
+      {
+        "name": "Duchesse de Bouillon",
+        "de": "Maria Anna Mancini; eine der sogenannten Mazarinetten, durch Heirat Herzogin von Bouillon",
+        "en": "Maria Anna Mancini; one of the so-called Mazarinettes, became Duchess of Bouillon by marriage"
+      },
+    {
+      "name": "Earl of Shaftesbury",
+      "de": "Anthony Ashley Cooper; englischer Staatsmann und Adeliger",
+      "en": "Anthony Ashley Cooper; English statesman and nobleman"
+    },
+    {
+      "name": "Elsholtz, Johann Sigismund",
+      "de": "deutscher Arzt, Botaniker, Chemiker und Naturforscher. Er war „Hofmedicus“, „Hofbotanicus“ und Alchemist am Hof des Kurfürsten Friedrich Wilhelm von Brandenburg.",
+      "en": "German physician, botanist, chemist, and naturalist. He served as 'court physician,' 'court botanist,' and alchemist at the court of Elector Friedrich Wilhelm of Brandenburg."
+    },
+    {
+      "name": "Eugène-Maurice de Savoie-Carignan, Prince de Savoie",
+      "de": "viertes Kind Olympia Mancinis, später berühmter General in Österreich (bekannt als „Prinz Eugen“)",
+      "en": "Fourth child of Olympia Mancini, later a famous general in Austria (known as 'Prince Eugene')."
+    },
+    {
+      "name": "Figuelotte",
+      "de": "eigentlich Sophie Charlotte, Prinzessin von Hannover; Tochter von Ernst August und Sophie von Hannover, später erste preußische Königin",
+      "en": "Born Sophie Charlotte, Princess of Hanover; daughter of Ernest Augustus and Sophia of Hanover, later the first Queen of Prussia."
+    },
+    {
+      "name": "Frau von Harburg",
+      "de": "Éléonore d’Olbreuse. Ab 1664 als Frau von Harburg Mätresse des Herzogs von Celle. Ab 1674 morganatische, ab 1676 offizielle Ehefrau des Herzogs von Celle. Sophie von Hannover weigerte sich lange, ihren Status anzuerkennen.",
+      "en": "Éléonore d’Olbreuse. Mistress of the Duke of Celle from 1664 as 'Frau von Harburg.' Became his morganatic wife in 1674 and official wife in 1676. Sophia of Hanover long refused to acknowledge her status."
+    },
+    {
+      "name": "Herzog von Celle",
+      "de": "Georg Wilhelm, Herzog zu Braunschweig-Lüneburg, von 1648 bis 1665 Fürst des Fürstentums Calenberg und von 1665 bis zu seinem Tode regierender Fürst des Fürstentums Lüneburg. Sophie von Hannovers Schwager",
+      "en": "Georg Wilhelm, Duke of Brunswick-Lüneburg, ruler of Calenberg from 1648 to 1665 and of Lüneburg from 1665 until his death. Brother-in-law of Sophia of Hanover."
+    },
+    {
+      "name": "Hooke, Robert",
+      "de": "englischer Universalgelehrter, der hauptsächlich durch das nach ihm benannte Elastizitätsgesetz bekannt ist",
+      "en": "English polymath best known for Hooke's Law of elasticity."
+    },
+    {
+      "name": "Huygens, Christiaan",
+      "de": "niederländischer Astronom, Mathematiker und Physiker",
+      "en": "Dutch astronomer, mathematician, and physicist."
+    },
+    {
+      "name": "James of England",
+      "de": "Jüngerer Bruder von Charles II, wurde ab 1685 König von England und 1688 durch die Glorious Revolution abgesetzt",
+      "en": "Younger brother of Charles II, became King of England in 1685 and was deposed in 1688 during the Glorious Revolution."
+    },
+    {
+      "name": "Julius de Savoie-Carignan, Cavaliere di Savoia",
+      "de": "drittes Kind Olympia Mancinis, gefallen gegen die Türken in der Schlacht von Petronell",
+      "en": "Third child of Olympia Mancini, killed fighting the Turks at the Battle of Petronell."
+    },
+    {
+      "name": "Kurfürst Friedrich Wilhelm von Brandenburg und Herzog in Preußen",
+      "de": "seit 1640 Kurfürst von Brandenburg und Herzog in Preußen, genannt der „Große Kurfürst“",
+      "en": "Elector of Brandenburg and Duke of Prussia since 1640, known as the 'Great Elector.'"
+    },
+    {
+      "name": "Kurfürstin Dorothea von Brandenburg",
+      "de": "Dorothea Sophie von Schleswig-Holstein-Sonderburg-Glücksburg; seit 1668 zweite Ehefrau des Kurfürsten Friedrich Wilhelm von Brandenburg",
+      "en": "Dorothea Sophie of Schleswig-Holstein-Sonderburg-Glücksburg; second wife of Elector Friedrich Wilhelm of Brandenburg since 1668."
+    },
+    {
+      "name": "Kurprinz Friedrich von Brandenburg",
+      "de": "dritter Sohn des Großen Kurfürsten und nach dem Tod seiner älteren Brüder Kurprinz. Wurde 1688 als Friedrich III. Kurfürst von Brandenburg und souveräner Herzog in Preußen. Letztendlich als Friedrich I. erster König in Preußen (man beachte das „in“)",
+      "en": "Third son of the Great Elector and heir after the death of his elder brothers. Became Friedrich III in 1688, Elector of Brandenburg and sovereign Duke of Prussia, ultimately crowned Friedrich I, the first King in Prussia."
+    },
+    {
+      "name": "Kurprinz Karl Emil von Brandenburg",
+      "de": "zweiter Sohn des Großen Kurfürsten, starb 1674 in Straßburg, vermutlich an der Ruhr",
+      "en": "Second son of the Great Elector, died in 1674 in Strasbourg, likely of dysentery."
+    },
+    {
+      "name": "La Bosse; eigentlich Marie Bosse",
+      "de": "französische Giftmischerin, Wahrsagerin und angebliche Hexe",
+      "en": "French poisoner, fortune teller, and alleged witch."
+    },
+    {
+      "name": "La Dodée",
+      "de": "französische Wahrsagerin, Okkultistin und angebliche Giftmischerin, Partnerin von La Trianon",
+      "en": "French fortune teller, occultist, and alleged poisoner, partner of La Trianon."
+    },
+    {
+      "name": "La Filastre; eigentlich Françoise Filastre",
+      "de": "französische Wahrsagerin, Okkultistin und angebliche Giftmischerin",
+      "en": "French fortune teller, occultist, and alleged poisoner."
+    },
+    {
+      "name": "La Lepère; eigentlich Catherine Lepère",
+      "de": "Hebamme und Engelmacherin",
+      "en": "Midwife and abortionist."
+    },
+    {
+      "name": "La Trianon, eigentlich Catherine Trianon",
+      "de": "französische Wahrsagerin, Okkultistin und angebliche Giftmischerin. Lebte vermutlich in einer lesbischen Beziehung mit La Dodée",
+      "en": "French fortune teller, occultist, and alleged poisoner. Likely in a lesbian relationship with La Dodée."
+    },
+    {
+      "name": "La Vigoreux; eigentlich Marie Vigoreux",
+      "de": "französische Wahrsagerin und angebliche Giftmischerin, eine der Schlüsselfiguren in der Gift-Affäre",
+      "en": "French fortune teller and alleged poisoner, one of the key figures in the poison affair."
+    },
+    {
+      "name": "Laura Mancini",
+      "de": "eine der sogenannten Mazarinetten, durch Heirat mit Louis I. de Bourbon Herzogin von Mercœur. 1657 verstorben",
+      "en": "One of the so-called Mazarinettes, became Duchess of Mercœur through marriage to Louis I de Bourbon. Died in 1657."
+    },
+    {
+      "name": "Leibniz, Gottfried Wilhelm",
+      "de": "war ein deutscher Philosoph, Mathematiker, Jurist, Historiker und politischer Berater der frühen Aufklärung",
+      "en": "German philosopher, mathematician, jurist, historian, and political advisor of the early Enlightenment."
+    },
+    {
+      "name": "Lémery, Nicolas",
+      "de": "französischer Chemiker und Mediziner",
+      "en": "French chemist and physician."
+    },
+    {
+      "name": "Leopold I. (HRR)",
+      "de": "von 1658 bis 1705 Kaiser des Heiligen Römischen Reiches aus dem Haus Habsburg",
+      "en": "Emperor of the Holy Roman Empire from the House of Habsburg from 1658 to 1705"
+    },
+    {
+      "name": "Lesage, Adam",
+      "de": "französischer Okkultist und Schlüsselfigur in der Giftaffäre. Auch wenn im Roman sein Name nicht fällt (Gabriel sieht ihn nur auf der Treppe), sollte er nicht erwähnt bleiben, denn auf seinen Aussagen beruhen neben denen von Marguerite Monvoisin viele der Anschuldigen aus der damaligen Affäre",
+      "en": "French occultist and key figure in the poison affair. His testimony, along with that of Marguerite Monvoisin, formed the basis for many accusations."
+    },
+    {
+      "name": "Liselotte, eigentlich Elisabeth Charlotte, Prinzessin von der Pfalz, Duchesse d’Orléans, gen. Madame",
+      "de": "heute umgangssprachlich Liselotte von der Pfalz genannt, deutsche Adelige am französischen Hof, v.a. bekannt durch ihre umfangreiche Korrespondenz",
+      "en": "commonly known as Liselotte of the Palatinate, German noblewoman at the French court, mainly known for her extensive correspondence"
+    },
+    {
+      "name": "Locke, John",
+      "de": "englischer Philosoph und Physiker, gilt als einer der einflussreichsten Denker der Aufklärung und wird gemeinhin als „Vater des Liberalismus“ bezeichnet",
+      "en": "English philosopher and physicist, considered one of the most influential thinkers of the Enlightenment, commonly known as the 'Father of Liberalism'"
+    },
+    {
+      "name": "Louis XIV, Roi de France",
+      "de": "französischer Prinz aus dem Haus Bourbon und von 1643 bis zu seinem Tod König von Frankreich und Navarra",
+      "en": "French prince from the House of Bourbon and king of France and Navarre from 1643 until his death"
+    },
+    {
+      "name": "Louise de La Vallière, eigentlich Françoise Louise de La Baume Le Blanc, Duchesse de La Vallière",
+      "de": "von 1661 bis 1667 Mätresse des französischen Königs Louis XIV. Sie gebar mehrere Kinder und wurde 1667 durch Madame de Montespan in seiner Gunst verdrängt. Danach musste sie noch als Deckmantel für die neue Affäre des Königs bis 1674 am Hof bleiben.",
+      "en": "from 1661 to 1667 mistress of King Louis XIV of France. She bore several children and was replaced in his favor by Madame de Montespan in 1667. She then had to remain at court as a cover for the king's new affair until 1674."
+    },
+    {
+      "name": "Ludwig von Brandenburg",
+      "de": "jüngster Prinz aus der 1. Ehe des Kurfürsten, Markgraf von Brandenburg",
+      "en": "youngest prince from the first marriage of the Elector, Margrave of Brandenburg"
+    },
+    {
+      "name": "Luise Henriette von Oranien-Nassau, Kurfürstin von Brandenburg",
+      "de": "Kurfürstin von Brandenburg und die erste Ehefrau des Großen Kurfürsten Friedrich Wilhelm von Brandenburg, 1667 verstorben",
+      "en": "Electress of Brandenburg and the first wife of the Great Elector Friedrich Wilhelm of Brandenburg, died in 1667"
+    },
+    {
+      "name": "Lully, Jean-Baptiste, geboren als Giovanni Battista Lulli",
+      "de": "italienisch-französischer Komponist, Geiger, Gitarrist und Tänzer, gilt allgemein als Vater des französischen Oper",
+      "en": "Italian-French composer, violinist, guitarist, and dancer, widely regarded as the father of French opera"
+    },
+    {
+      "name": "Madame",
+      "de": "siehe Liselotte",
+      "en": "see Liselotte"
+    },
+    {
+      "name": "Madame de Ludres, eigentlich Marie-Elisabeth Isabelle de Ludres",
+      "de": "genannt La belle Isabelle oder auch La belle chanoinesse de Poussay. Ehrendame am Königshof und kurzzeitig Mätresse von Louis XIV",
+      "en": "known as La belle Isabelle or La belle chanoinesse de Poussay. Lady-in-waiting at the royal court and briefly the mistress of Louis XIV"
+    },
+    {
+      "name": "Madeleine de Scudéry",
+      "de": "eine der bedeutendsten französische Schriftstellerinnen des 17. Jahrhunderts und die erste, die auch außerhalb Frankreichs ein größeres Publikum fand",
+      "en": "one of the most prominent French writers of the 17th century and the first to gain a significant audience outside France"
+    },
+    {
+      "name": "Mademoiselle de Fontanges",
+      "de": "Marie-Angélique de Scorailles; französische Adelige und eine der vielen Mätressen Louis XIV.",
+      "en": "Marie-Angélique de Scorailles; French noblewoman and one of the many mistresses of Louis XIV"
+    },
+    {
+      "name": "Maître Perrin",
+      "de": "Advokat, der als Gast bei La Vigoreux im Dezember eingeladen war und der Polizei von Marie Bosses Behauptungen berichtete",
+      "en": "Lawyer, invited as a guest at La Vigoreux in December and reported Marie Bosse's claims to the police"
+    },
+    {
+      "name": "Margot",
+      "de": "Hausmädchen bei Catherine Monvoisin",
+      "en": "Housemaid at Catherine Monvoisin's"
+    },
+    {
+      "name": "Marie Anne de Bourbon, erste Mademoiselle de Blois",
+      "de": "einzige uneheliche Tochter Louis XIV. und seiner Mätresse Louise de La Vallière. Durch Heirat mit Louis Armand I. de Bourbon, Prince de Conti wurde sie 1680 Fürstin von Conti.",
+      "en": "only illegitimate daughter of Louis XIV and his mistress Louise de La Vallière. She became Princess of Conti in 1680 after marrying Louis Armand I de Bourbon, Prince de Conti."
+    },
+    {
+      "name": "Marie-Thérèse d’Autriche, Reine de France",
+      "de": "spanische Prinzessin (Maria Teresa) und erste Ehefrau von Louis XIV",
+      "en": "Spanish princess (Maria Theresa) and first wife of Louis XIV"
+    },
+    {
+      "name": "Marquis de Dangeau",
+      "de": "Philippe de Courcillon; französischer Offizier und Autor, bekannt für seinen Erfolg im Kartenspiel",
+      "en": "Philippe de Courcillon; French officer and author, known for his success in card games"
+    },
+    {
+      "name": "Marquis de Louvois",
+      "de": "François Michel Le Tellier; französischer Staatsmann und Kriegsminister unter Louis XIV",
+      "en": "François Michel Le Tellier; French statesman and Minister of War under Louis XIV"
+    },
+    {
+      "name": "Marquis de Montespan",
+      "de": "Louis-Henri de Pardaillan de Gondrin; französischer Adliger und Ehemann der Madame de Montespan",
+      "en": "Louis-Henri de Pardaillan de Gondrin; French nobleman and husband of Madame de Montespan"
+    },
+    {
+      "name": "Marquis de Puyguilhem (oder Péguilin)",
+      "de": "Antonin Nompar de Caumont, Comte de Lauzun; französischer Hofedelmann und Offizier",
+      "en": "Antonin Nompar de Caumont, Comte de Lauzun; French court nobleman and officer"
+    },
+    {
+      "name": "Marquis d'Effiat",
+      "de": "Antoine II Coëffier de Ruzé; französischer Aristokrat und Favorit des Duc d‘Orléans",
+      "en": "Antoine II Coëffier de Ruzé; French aristocrat and favorite of the Duke of Orléans"
+    },
+    {
+      "name": "Marquise de Brinvilliers",
+      "de": "Marie-Madeleine Marguerite d’Aubray; eine der bekanntesten Giftmörderinnen der Kriminalgeschichte, 1676 hingerichtet",
+      "en": "Marie-Madeleine Marguerite d'Aubray; one of the most famous poisoners in criminal history, executed in 1676"
+    },
+    {
+      "name": "Marquise de Montespan",
+      "de": "Françoise de Rochechouart; langjährige Mätresse Louis XIV",
+      "en": "Françoise de Rochechouart; long-time mistress of Louis XIV"
+    },
+    {
+      "name": "Marquise de Sévigné",
+      "de": "Marie de Rabutin-Chantal; Angehörige des französischen Adels, Freundin von Ninon de l‘Enclos",
+      "en": "Marie de Rabutin-Chantal; member of the French nobility, friend of Ninon de l'Enclos"
+    },
+    {
+      "name": "Marquise d'Effiat",
+      "de": "Marie-Anne Olivier de Leuville; französische Adlige und Teil der Clique ihres Mannes",
+      "en": "Marie-Anne Olivier de Leuville; French noblewoman and part of her husband's clique"
+    },
+    {
+      "name": "Martin, Bernardin",
+      "de": "Apotheker von Louis II. de Bourbon, dem Prince de Condé. Chef von Nicolas Lémery",
+      "en": "Apothecary of Louis II de Bourbon, the Prince de Condé. Boss of Nicolas Lémery"
+    },
+    {
+      "name": "Mary of England",
+      "de": "Tochter James II von Englands, von 1689 bis zu ihrem Tod Königin von England, von Schottland und von Irland",
+      "en": "Daughter of James II of England, Queen of England, Scotland, and Ireland from 1689 until her death"
+    },
+    {
+      "name": "Molière, eigentlich Jean-Baptiste Poquelin",
+      "de": "französischer Schauspieler, Theaterdirektor und Dramatiker, 1673 verstorben",
+      "en": "French actor, theater director, and playwright, died in 1673"
+    },
+    {
+      "name": "Monsieur, eigentlich Philippe de France, Duc d‘Orléans",
+      "de": "Prinz von Frankreich und Navarra, Herzog von Anjou (1640–1668), Herzog von Orléans, Chartres und Valois sowie Pair von Frankreich (1660) und div. Andere Titel. Jüngerer Bruder des Königs",
+      "en": "Prince of France and Navarre, Duke of Anjou (1640–1668), Duke of Orléans, Chartres, and Valois, and various other titles. Younger brother of the king"
+    },
+    {
+      "name": "Monvoisin, Antoine",
+      "de": "französischer Juwelier, machte mehrfach Bankrott, verheiratet mit La Voisin, galt als Trunkenbold",
+      "en": "French jeweler, went bankrupt multiple times, married to La Voisin, known as a drunkard"
+    },
+    {
+      "name": "Monvoisin, Catherine; gen. La Voisin",
+      "de": "französische Wahrsagerin, angebliche Giftmischerin und Okkultistin",
+      "en": "French fortune teller, alleged poisoner and occultist"
+    },
+    {
+      "name": "Monvoisin, Marie Marguerite",
+      "de": "Tochter von La Voisin und Hauptzeugin in der Giftaffäre",
+      "en": "Daughter of La Voisin and key witness in the poison affair"
+    },
+    {
+      "name": "Morel de Volonne, Antoine",
+      "de": "zwischen 1673 und 1683 Haushofmeister von Liselotte von der Pfalz, ein Begünstigter von Monsieur",
+      "en": "Between 1673 and 1683, chamberlain of Liselotte of the Palatinate, a favored individual of Monsieur"
+    },
+    {
+      "name": "Newton, Isaac",
+      "de": "englischer Universalgelehrter",
+      "en": "English polymath"
+    },
+    {
+      "name": "Ninon (eigentlich Anne) de L‘Enclos",
+      "de": "französische Gesellschaftsdame",
+      "en": "French socialite"
+    },
+    {
+      "name": "Philippe de Savoie-Carignan, Abbé de Soissons",
+      "de": "zweites Kind Olympia Mancinis, unverheiratet",
+      "en": "second child of Olympia Mancini, unmarried"
+    },
+    {
+      "name": "Primi Visconti, eigentlich Jean-Baptiste Primi Visconti Fassola de Rasa",
+      "de": "italienischer Schriftsteller des 17. Jahrhunderts, Chronist und Historiker des Lebens am Hof des Königs von Frankreich",
+      "en": "Italian 17th-century writer, chronicler, and historian of life at the court of the King of France"
+    },
+    {
+      "name": "Prince de Condé",
+      "de": "Louis II. de Bourbon; auch als „Le Grand Condé“ bekannt, erster Prinz von Geblüt des französischen Königshauses Bourbon",
+      "en": "Louis II de Bourbon; also known as 'Le Grand Condé', first prince of the blood of the French royal family of Bourbon"
+    },
+    {
+      "name": "Prince de Conti",
+      "de": "Louis Armand I. de Bourbon; französischer Adeliger, ab 1666 Fürst von Conti. Freund von Eugen von Savoyen, verheiratet mit Marie Anne de Bourbon",
+      "en": "Louis Armand I de Bourbon; French nobleman, Prince of Conti from 1666. Friend of Eugene of Savoy, married to Marie Anne de Bourbon"
+    },
+    {
+      "name": "Princesse de Carignan",
+      "de": "Marie-Anne de Bourbon, Schwiegermutter Olympia Mancinis und Großmutter des Prinzen Eugen",
+      "en": "Marie-Anne de Bourbon, mother-in-law of Olympia Mancini and grandmother of Prince Eugene"
+    },
+    {
+      "name": "Princesse de Monaco",
+      "de": "Catherine Charlotte de Gramont; durch Heirat Fürstin von Monaco und Herzogin de Valentinois, Vertraute von Monsieur und die Einzige aus seinem Zirkel, die auch Madame befreundete",
+      "en": "Catherine Charlotte de Gramont; became Princess of Monaco and Duchess of Valentinois by marriage, confidante of Monsieur, the only one from his circle who was also friends with Madame"
+    },
+    {
+      "name": "Sévigné, Charles de",
+      "de": "französischer Aristokrat und Sohn der Marquise de Sévigné. Geliebter von Ninon de l'Enclos, wie sein Vater vor ihm",
+      "en": "French aristocrat and son of the Marquise de Sévigné. Lover of Ninon de l'Enclos, like his father before him"
+    },
+    {
+      "name": "Siebmacher, Johann Ambrosius",
+      "de": "deutscher Wappenmaler, Kupferstecher, Radierer und Verleger, wird auch Begründer der Heraldik genannt",
+      "en": "German heraldic artist, engraver, and publisher, also known as the founder of heraldry"
+    },
+    {
+      "name": "Sophie von Hannover, Herzogin zu Braunschweig-Lüneburg",
+      "de": "Prinzessin von der Pfalz, wurde durch ihre Heirat mit Ernst August zur Herzogin und ab 1679 Kurfürstin von Braunschweig-Lüneburg. Durch den Act of Settlement war sie ab 1701 die designierte Thronfolgerin der britischen Monarchie.",
+      "en": "Princess of the Palatinate, became Duchess through her marriage to Ernest Augustus, and from 1679 Electress of Brunswick-Lüneburg. Through the Act of Settlement, she became the designated heir to the British throne in 1701."
+    },
+    {
+      "name": "Spanheim, Ezekiel",
+      "de": "Genfer Diplomat in pfälzischen und später brandenburgischen Diensten",
+      "en": "Genevan diplomat in the services of the Palatinate and later Brandenburg"
+    },
+    {
+      "name": "Turenne, Vicomte de",
+      "de": "Henri de La Tour d’Auvergne; französischer Heerführer und Marschall von Frankreich, verwüstete 1674 die Pfalz, weil Kurfürst Karl Ludwig nicht dem französischen Bündnis beitreten wollte. 1675 verstorben",
+      "en": "Henri de La Tour d'Auvergne; French military leader and Marshal of France, devastated the Palatinate in 1674 because Elector Charles Louis refused to join the French alliance. Died in 1675"
+    },
+    {
+      "name": "Willem III. van Oranje, Statthalter der republikanischen Niederlande",
+      "de": "ab 1650 Fürst von Oranien, ab 1672 Statthalter von Holland, Zeeland und Utrecht, ab 1675 auch von Overijssel und Gelderland und ab 1698 auch von Drenthe. Zudem ab 1688/1689 nach der Glorious Revolution König von England und Irland und als William II. König von Schottland.",
+      "en": "From 1650, Prince of Orange, from 1672 Stadtholder of Holland, Zeeland, and Utrecht, from 1675 also of Overijssel and Gelderland, and from 1698 also of Drenthe. After the Glorious Revolution, became King of England and Ireland in 1688/1689 and King of Scotland as William II."
+    }
+  ]
+}]
+  

@@ -1,0 +1,204 @@
+[
+  {
+    "groupId": "all",
+    "de": "",
+    "en": "",
+    "members": [
+      {
+        "name": "Amiaz",
+        "de": "Mitglied des Rates, der Krieger",
+        "en": "Member of the Council, the Warrior"
+      },
+      {
+        "name": "Andie",
+        "de": "Ein Mensch, Freundin von Flo",
+        "en": "Human; friend of Flo"
+      },
+      {
+        "name": "Arbacattho",
+        "de": "Wandlerin, die einst die Hölle schuf und ihr Leben dafür gab; Arbac=vier; attho=Frau (aramäisch)",
+        "en": "Channeler who once created hell and gave her life for it; arbac=four; attho=woman (Aramaic), deceased"
+      },
+      {
+        "name": "Asmodeus",
+        "de": "Fürst der Dämonen und Dämon der Begierde, Zachs leiblicher Vater",
+        "en": "Demon lord and Prince of Passion, Zach's biologi-cal father"
+      },
+      {
+        "name": "Baal",
+        "de": "Kommandierender General der höllischen Armeen, Vater von Liliths Kindern",
+        "en": "Commanding general of the infernal armies, father of Lilith's children "
+      },
+      {
+        "name": "Bell",
+        "de": "Halb Fee, halb Lichtwandler",
+        "en": "Half fairy, half light channeler"
+      },
+      {
+        "name": "Daniel",
+        "de": "Ein Mensch, Zachs jüngerer Halbbruder – hat einen Hauch Jägerblut durch die Mutter in sich; wird zu Conversio, der verwandelte Mensch",
+        "en": "Human, Zach's younger half-brother - has a touch of hunter's blood in him through his mother; becomes Conversio, the transformed human"
+      },
+      {
+        "name": "Deborah",
+        "de": "Mitglied des Rates, die Richterin",
+        "en": "Member of the Council, the Judge"
+      },
+      {
+        "name": "Ezekiel",
+        "de": "Miriams Großvater und Vorsitzender des Rates; der Priester",
+        "en": "Miriam's grandfather and chairman of the Council; the Priest"
+      },
+      {
+        "name": "Florian",
+        "de": "Compassio – die Empathie, eigentlich ebenfalls auf die Urform zurückgezüchtet, aber auch zu einem Teil Dämon, weil der Rat ansonsten kein Gegenstück zu Miriam hätte schaffen können; der Schützer",
+        "en": "Compassio - one of the promised ones, bred back to the original form, but also part demon, because otherwise the Council could not have created a counterpart to Miriam; the protector"
+      },
+      {
+        "name": "Gabriel",
+        "de": "Einer der Erzengel, schuf die Jäger, Bruder Michaels",
+        "en": "One of the archangels, founded the hunters, broth-er of Michael, deceased"
+      },
+      {
+        "name": "George",
+        "de": "Ein Jäger, extrem intelligent, sarkastisch und bemüht, sich zu schützen. Er ist schwul und entkommt der Verpflichtung, Kinder zu zeugen, indem er sich dem Rat als Ratgeber unentbehrlich gemacht hat",
+        "en": "Hunter, extremely intelligent, sarcastic and eager to protect himself. He is gay and escapes the obli-gation to father children by making himself indis-pensable to the Council as a counselor"
+      },
+      {
+        "name": "Gintas",
+        "de": "Saga",
+        "en": "Saga"
+      },
+      {
+        "name": "Isa",
+        "de": "Eine Jägerin, Jacobs jüngere Schwester",
+        "en": "Huntress, Jacob's younger sister"
+      },
+      {
+        "name": "Ishmael",
+        "de": "Mitglied des Rates; der Archivar",
+        "en": "Member of the Council; the Archivist"
+      },
+      {
+        "name": "Jacob",
+        "de": "Ein Jäger, Isas älterer Bruder",
+        "en": "Hunter, Isa's older brother"
+      },
+      {
+        "name": "Judith",
+        "de": "Miriams Hauptbehüterin nach dem Verlust ihrer Jungfräu­lichkeit; später Majordomus der Burg",
+        "en": "Miriam's main guardian after losing her virginity; later majordomo of the castle"
+      },
+      {
+        "name": "Keren",
+        "de": "Mitglied des Rates; die Heilerin",
+        "en": "Member of the Council; the Healer"
+      },
+      {
+        "name": "Leah",
+        "de": "Miriams Mutter, Ezekiels ältere Tochter",
+        "en": "Miriam's mother, Ezekiel's older daughter, deceased"
+      },
+      {
+        "name": "Lemuel",
+        "de": "Mitglied des Rates; der Forscher",
+        "en": "Member of the Council; the Researcher"
+      },
+      {
+        "name": "Maggie",
+        "de": "Ein Mensch, Mitglied der okkulten Sozietät",
+        "en": "Human, member of the Occult Society"
+      },
+      {
+        "name": "Mara",
+        "de": "Miriams Hauptbehüterin bis zum Verlust ihrer Jungfräulich­keit, jüngere Tochter von Ezekiel und damit ihre Tante",
+        "en": "Miriam's main guardian until the loss of her virginity, younger daughter of Ezekiel and thus her aunt"
+      },
+      {
+        "name": "Melchom",
+        "de": "Dämon des Geldes, Zahlmeister der Unterwelt, steht für Gier nach Reichtum",
+        "en": "Demon of money, paymaster of the underworld, represents greed for wealth"
+      },
+      {
+        "name": "Michael (Mika’l)",
+        "de": "Nach dem Tanach ein Erzengel und kommt in den Traditionen des Judentums, Christentums und Islams vor; Bells Vater",
+        "en": "According to the Tanakh, an archangel and occurs in the traditions of Judaism, Christianity, and Is-lam; Bell's father"
+      },
+      {
+        "name": "Miriam",
+        "de": "Cognitio – die Erkenntnis; eigentlich die ultimative, praktisch auf den Ursprung zurückgezüchtete Jägerin, Nachfahrin Gabriels; Seherin und Sucherin",
+        "en": "Cognitio - one of the promised ones; the ultimate huntress, practically bred back to the origin, de-scendant of Gabriel; seer and seeker"
+      },
+      {
+        "name": "Naomi",
+        "de": "Flos Mutter, Luzifers Enkelin",
+        "en": "Flo's mother, Lucifer's granddaughter, deceased"
+      },
+      {
+        "name": "Nathan",
+        "de": "Saga, Eremit, lebt sehr zurückgezogen am Rand des Toten Meeres",
+        "en": "Saga, hermit, lives very secluded on the edge of the Dead Sea, deceased"
+      },
+      {
+        "name": "Paul",
+        "de": "Ein Mensch, Mitglied der okkulten Sozietät",
+        "en": "Human, member of the Occult Society"
+      },
+      {
+        "name": "Peter",
+        "de": "Ein Mensch, Mitglied der okkulten Sozietät",
+        "en": "Human, member of the Occult Society"
+      },
+      {
+        "name": "Sammael",
+        "de": "Ursprünglicher Wandler, starb bei der Schaffung der Hölle, Vater von Liliths Kindern",
+        "en": ""
+      },
+      {
+        "name": "Seere",
+        "de": "Dämonischer Prinz in Gestalt eines schönen Mannes, der in Sekunden an jedem Ort erscheinen kann, sowie beliebige Dinge von überall her erscheinen und verschwinden lassen kann",
+        "en": "Original channeler, died at the creation of hell, father of Lilith's children"
+      },
+      {
+        "name": "Serena",
+        "de": "Jägerin, deren Energie verschwindend gering ist - außerdem starb ihr Zwillingsbruder bei der Geburt, so dass sie nie als Paar kämpfen konnte. Sie ist lesbisch und entgeht dem Zwang zum Gebären nur, weil ihre Energie so schwach ist und sie sich um Florian kümmert",
+        "en": "Huntress whose energy is vanishingly low - moreover, her twin brother died in childbirth, so she could never fight as a pair. She is a lesbian and escapes the obligation to give birth only because her energy is so weak and she takes care of Florian"
+      },
+      {
+        "name": "Thia",
+        "de": "Saga – ein Mischwesen aus Jäger, Dämon und Mensch, aber vor allem Mensch. Sie gehört zu den Bewahrern der Geheimnisse und ist die Inkarnation des Versteckes von Koro",
+        "en": "Saga - a hybrid of hunter, demon and human, but above all human. She belongs to the keepers of the secrets and is the incarnation of the hiding place of Koro"
+      },
+      {
+        "name": "Tobias",
+        "de": "Flos Ziehvater (und leiblicher Vater); Mitglied des Rates: Der Wächter",
+        "en": "Flo's foster father (and biological father); member of the Council: The Custodian"
+      },
+      {
+        "name": "Ukopach",
+        "de": "Dämon geringer Ordnung, dessen Körper gerötet ist. Erfinder des Feuerwerks und beauftragt, sich um die Höllenfeuer zu kümmer",
+        "en": "Demon of low order whose body is reddened. In-ventor of the fireworks and charged to take care of the hell fires"
+      },
+      {
+        "name": "Uriel",
+        "de": "Einer der Erzengel, Michaels Bruder",
+        "en": "One of the archangels, Michael's brother, deceased"
+      },
+      {
+        "name": "Vanth",
+        "de": "Schattenwandlerin",
+        "en": "Shadow channeler"
+      },
+      {
+        "name": "Vassago",
+        "de": "Schattenwandler, Prinz der Finsternis, verkündet Vergangenes und Zukünftiges und entdeckt verlorene Dinge wieder",
+        "en": "Shadow channeler, prince of darkness, proclaims past and future and rediscovers lost things"
+      },
+      {
+        "name": "Zach",
+        "de": "Saga – Mischwesen, zu einer Hälfte Dämon, zu fast einer Hälfte Mensch und ein wenig Jäger; sein Vater ist Asmodeus, der Fürst von Lust und Leidenschaft",
+        "en": "Saga - hybrid creature, half demon, almost half human and a little bit hunter; his father is Asmode-us, the prince of lust and passion"
+      }
+    ]
+  }
+]

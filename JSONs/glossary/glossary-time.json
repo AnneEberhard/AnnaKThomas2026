@@ -1,0 +1,102 @@
+[
+  {
+    "name": {
+      "de": "Chronologi-sche Zeit",
+      "en": "Chronological Time"
+    },
+    "description": {
+      "de": "Zeitlinie der Zeitreisen. Jahr Null entsprich dem Datum der Errichtung des Zentrums in der Zeitenmitte. Alles davor ist negativ",
+      "en": "Time of time travel. The date of the set-up of the center is count 0. Everything before is negative"
+    }
+  },
+   {
+    "name": {
+      "de": "Erdzeit",
+      "en": "Earth Time"
+    },
+    "description": {
+      "de": "Zeitlinie der Erde, so, wie wir sie verstehen. Früher wurde sie in Minuten gemessen, wobei Null der Punkt war, an dem das Zentrum der errichtet wurde",
+      "en": "Time passing on Earth as we understand it. Formerly, it was measured in minutes with zero being the point the center of time was set up"
+    }
+  },
+  {
+   "name": {
+     "de": "Lebenszeit",
+     "en": "Life Time "
+   },
+   "description": {
+     "de": "Zeitlinie eines Individuums. Wurde lange als identisch mit der biologischen Zeit angesehen",
+     "en": "How long an individual has been alive. Was considered identical to biological time for a long time"
+   }
+ },
+ {
+  "name": {
+    "de": "Biologische Zeit",
+    "en": "Biological Time "
+  },
+  "description": {
+    "de": "Alter eines Körpers",
+    "en": "Age of a body"
+  }
+},
+{
+ "name": {
+   "de": "Zeit Energie (ZE) ",
+   "en": "Time Energy (TE)"
+ },
+ "description": {
+   "de": "Energie, die benötigt wird, um durch die Zeit zu reisen. Jeder Mensch wird mit einem bestimmten Niveau geboren, das zu Beginn der Pubertät erreicht wird. Sie kann je nach Zeitreise und Aufenthalt an bestimmten Orten (z. B. im Zentrum der Zeit) abnehmen und wieder ansteigen",
+   "en": "Energy needed to travel through time. Everybody is born with a specific level that is reached by puberty. It can decrease and recover accord-ing to time travel and time spent at certain places (such as the center of time)"
+ }
+},
+{
+  "name": {
+    "de": "Herums Theorem ",
+    "en": "Herum's Theorem "
+  },
+  "description": {
+    "de": "Die Vergangenheit ruiniert die Zukunft. Es wurden zu viele Fehler gemacht, die nicht korrigiert werden können, ohne neue Fehler zu begehen. Der Weltfrieden ist daher mit unserer Vergangenheit unerreichbar",
+    "en": "The past ruins the future. To many mistakes have been made and cannot be corrected without committing new mistakes. World peace is therefore unattainable with our past"
+  }
+ },
+{
+ "name": {
+   "de": "Zentrum der Zeit",
+   "en": "Center of Time"
+ },
+ "description": {
+   "de": "Auch sogenannte Zeitenmitte, zwischen den Zeitkurven und außerdhalb der Erdzeit. Hier wurde von den ersten Menschen, die mit Zeitreisen arbeiteten, eine Station geschaffen ",
+   "en": "A place outside of the time curves, basically in its center and outside Earth Time. Here, a station was created by the first people working with time travel"
+ }
+},
+{
+ "name": {
+   "de": "Zeitkomitee",
+   "en": "Time Committee"
+ },
+ "description": {
+   "de": "Die Verantwortlichen des Zentrums und der Zeitreisen bis zur Revolution",
+   "en": "People in charge of the center and time travel until the revolution"
+ }
+},
+{
+ "name": {
+   "de": "Die Revolution",
+   "en": "The revolution"
+ },
+ "description": {
+   "de": "Ein Ereignis unbekanntenUrsprungs, das viele Erdzeiten blockierte",
+   "en": "An event of unknown origin that locked many Earth Times"
+ }
+},
+{
+ "name": {
+   "de": "Wachband",
+   "en": "Watcher"
+ },
+ "description": {
+   "de": "Gerät zur Messung der Erdzeit (auf konventio-nelle Art), der Chrono-Zeit (in Minuten) und des ZE-Levels des Trägers",
+   "en": "Device that measures Earth Time (in conven-tional measurements), Chrono Time (in minutes), and TE level of the wearer"
+ }
+}
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "groupId": "wolves",
+    "de": "Die \"Wölfe\"",
+    "en": "The \"Wolves\"",
+    "members": [
+      {
+        "name": "Lucie Martin",
+        "de": "Ein Viertel Wolf, ein Viertel Hexe und ganz viel Mensch, Tochter von Paul und Penelope",
+        "en": "A quarter wolf, a quarter witch and a whole lot of human, daughter of Paul and Penelope"
+      },
+      {
+        "name": "Paul Martin",
+        "de": "Lucies Vater, nur zur Hälfte Wolf (das Gen ist nicht aktiv), unehelicher Sohn des alten Wolfs",
+        "en": "Lucie`s father, only half wolf (the gene is not active), illegitimate son of the old wolf"
+      },
+      {
+        "name": "John Martin",
+        "de": "Sohn von Theo und Jenni, Janes Zwilling",
+        "en": "Son of Theo and Jenni, Jane's twin "
+      },
+      {
+        "name": "Jane Martin",
+        "de": "Tochter von Theo und Jenni, Zwilling von John",
+        "en": "Daughter of Theo and Jenni, twin of John"
+      },
+      {
+        "name": "Markus Martin",
+        "de": "Sohn von Ben und Charlotte",
+        "en": "Son of Ben and Charlotte "
+      },
+      {
+        "name": "Ben Martin",
+        "de": "Ältester Sohn von Wolf, amtierender Alpha, Ehemann von Charlotte, Vater von Markus, Sophie und Frederick",
+        "en": "Eldest son of Wolf, sitting alpha, husband of Charlotte, father of Markus, Sophie, and Frederick"
+      },
+      {
+        "name": "Charlotte Martin",
+        "de": "Ehefrau von Ben, Mutter von Markus, Sophie und Frederick",
+        "en": "Wife of Ben, mother of Markus, Sophie, and Frederick"
+      },
+      {
+        "name": "Sophie Martin",
+        "de": "Tochter von Ben und Charlotte, Schwester von Markus und Frederick",
+        "en": "Daughter of Ben and Charlotte, sister of Markus and Frederick"
+      },
+      {
+        "name": "Kyra Martin",
+        "de": "Tochter von Ilse und Robert, Schwester von Joseph und Johann",
+        "en": "Daughter of Ilse and Robert, sister of Joseph and Johann"
+      },
+      {
+        "name": "Frederick Martin",
+        "de": "Jüngster Sohn von Ben und Charlotte, Bruder von Markus und Sophie",
+        "en": "Youngest son of Ben and Charlotte, brother of Markus and Sophie"
+      },
+      {
+        "name": "Wolf Sr. Martin",
+        "de": "verstorbener Vater von Ben, Ilse, Theo und Paul",
+        "en": "Deceased father of Ben, Ilse, Theo, and Paul"
+      },
+      {
+        "name": "Ilse Martin",
+        "de": "Einzige Tochter von Wolf Martin, Mutter von Kyra, Johann und Joseph, Ehefrau von Robert",
+        "en": "Daughter of Wolf Martin, mother of Kyra, Johann, and Joseph"
+      },
+      {
+        "name": "Robert Martin",
+        "de": "Mann von Ilse, eines Tages spurlos verschwunden",
+        "en": "Ilse's husband, disappeared one day without a trace"
+      },
+      {
+        "name": "Joseph Martin",
+        "de": "Sohn von Ilse, Bruder von Kyra und Johann",
+        "en": "Son of Ilse, brother of Kyra and Johann"
+      },
+      {
+        "name": "Johann Martin",
+        "de": "Sohn von Ilse, Bruder von Kyra und Joseph",
+        "en": "Son of Ilse, brother of Kyra and Joseph"
+      },
+      {
+        "name": "Theo Martin",
+        "de": "Sohn von Wolf, Ehemann von Jenni, Vater von John und Jane",
+        "en": "Son of Wolf, husband of Jenni, father of John and Jane"
+      },
+      {
+        "name": "Jenni Martin",
+        "de": "Ehefrau von Theo, Mutter von John und Jane",
+        "en": "Wife of Theo, mother of John and Jane"
+      },
+      {
+        "name": "Wolf Jr. Martin",
+        "de": "Erstgeborener von Wolf d. Ä. Martin",
+        "en": "Firstborn son of Wolf Sr. Martin"
+      }
+    ]
+  },
+  {
+    "groupId": "elves",
+    "de": "Die \"Elfen\"",
+    "en": "The \"Elves\"",
+    "members": [
+      {
+        "name": "Noel Tyll",
+        "de": "Weißhaariger Pflegesohn von Oliver und Sandra, Prinz der Waldelfen, Sohn von Mab",
+        "en": "White-haired foster son of Oliver and Sandra, Prince of the Wood Elves, son of Mab"
+      },
+      {
+        "name": "Robin Cyd-dda",
+        "de": "Beschützer von Noel, Wächter des Waldes",
+        "en": "Protector of Noel, guardian of the Forest"
+      },
+      {
+        "name": "Flora",
+        "de": "Herrin der Waldnymphen",
+        "en": "Mistress of the wood nymphs"
+      },
+      {
+        "name": "Mab",
+        "de": "Königin der Elfen, Noels Mutter",
+        "en": "Queen of the elves, Noel's mother"
+      },
+      {
+        "name": "Beere",
+        "de": "neugierige Waldnymphe",
+        "en": "Curious wood nymph"
+      },
+      {
+        "name": "Mai",
+        "de": "Scheue Waldnymphe",
+        "en": "Shy wood nymph"
+      },
+      {
+        "name": "Cianán ban Eisling",
+        "de": "Waldelf",
+        "en": "Wood Elf"
+      },
+      {
+        "name": "Krumm",
+        "de": "Kobold",
+        "en": "Goblin"
+      },
+      {
+        "name": "Nara",
+        "de": "Nebelgeist",
+        "en": "Mist Spirit"
+      },
+      {
+        "name": "Lilie",
+        "de": "Verstorbene Waldnymphe, Schwester von Flora",
+        "en": "Deceased wood nymph, sister of Flora"
+      },
+      {
+        "name": "Puck Cyd-dda",
+        "de": "Waldelf, ehemaliger Wächter, Vater von Robin",
+        "en": "Wood Elf, former guardian, father of Robin"
+      },
+      {
+        "name": "Lyn à Tuath",
+        "de": "Elfenfürst aus dem Norden, Bruder eines Königs, Noels Vater",
+        "en": "Elf prince from the north, brother of a king, Noel's father"
+      },
+      {
+        "name": "Trixie ban Eisling",
+        "de": "Jüngere Schwester von Robin und Cianán",
+        "en": "Younger sister of Robin and Cianán"
+      },
+      {
+        "name": "Deanna ban Eisling",
+        "de": "Mutter von Cianán, Robin und Trixie",
+        "en": "Mother of Cianán, Robin, and Trixie"
+      },
+      {
+        "name": "Knorr",
+        "de": "Waldschrat",
+        "en": "Hobgoblin"
+      }
+    ]
+  },
+  {
+    "groupId": "human",
+    "de": "Die \"Menschen\"",
+    "en": "The \"Humans\"",
+    "members": [
+      {
+        "name": "Cara Becker",
+        "de": "Noels Pflegeschwester, Tochter von Sandra und Oliver",
+        "en": "Noels foster sister, daughter of Sandra and Oliver"
+      },
+      {
+        "name": "Oliver Becker",
+        "de": "Caras Vater, Pflegevater von Noel",
+        "en": "Cara's father, Noel's foster father"
+      },
+      {
+        "name": "Sandra Becker",
+        "de": "Caras Mutter, Pflegemutter von Noel",
+        "en": "Cara's mother, Noel's foster mother"
+      },
+      {
+        "name": "Mika",
+        "de": "Noels bester Freund",
+        "en": "Noel's best friend"
+      },
+      {
+        "name": "Lena Meyer",
+        "de": "Noels jüngere Pflegeschwester",
+        "en": "Noel's younger foster sister"
+      },
+      {
+        "name": "Mona Meyer",
+        "de": "Lenas Zwilling",
+        "en": "Lena's twin"
+      },
+      {
+        "name": "Melina",
+        "de": "Bauerntochter, Rogers Schwester",
+        "en": "Farmer's daughter, Roger's younger sister"
+      },
+      {
+        "name": "Roger",
+        "de": "Bauersohn, Melinas älterer Bruder",
+        "en": "Farmer's son, Melina's older brother"
+      },
+      {
+        "name": "Judith",
+        "de": "Lucies erste neue Freundin",
+        "en": "Lucie's first new friend"
+      },
+      {
+        "name": "Leonie",
+        "de": "Leadgitarristin der Fairytales",
+        "en": "Lead guitarist of the Fairytales"
+      },
+      {
+        "name": "Sam",
+        "de": "Drummer der Fairytales",
+        "en": "Drummer of the Fairytales"
+      },
+      {
+        "name": "Frank",
+        "de": "Bassist der Fairytales",
+        "en": "Bassist of the Fairytales"
+      },
+      {
+        "name": "Christine",
+        "de": "Freundin von Lucie und Judith",
+        "en": "Lucie and Judith's friend"
+      },
+      {
+        "name": "Tom",
+        "de": "Lucies und Noels erster Mitbewohner",
+        "en": "Lucie and Noel's first roommate"
+      },
+      {
+        "name": "Dr. Scholl",
+        "de": "Museumsdirektor",
+        "en": "Museum Director"
+      },
+      {
+        "name": "Henri Patel",
+        "de": "Drama-Magier, Neffe von Philippe Patel",
+        "en": "Drama mage, nephew of Philippe Patel"
+      },
+      {
+        "name": "Philippe Patel",
+        "de": "Drama-Magier, der in den Diensten des alten Wolfs stand und für ihn Hexen Lebenszeit stahl; wollte dem über den Fluch entkommen und starb bei einem Freak-Unfall (auf einer Bananenschale ausgerutscht und vor einen einfahrenden Zug gestürzt)",
+        "en": "Drama mage who was in the service of the old Wolf and stole witches' lives for him; died in a freak accident "
+      },
+      {
+        "name": "Nils",
+        "de": "Mitbewohner von Lena",
+        "en": "Lena's roommate"
+      },
+      {
+        "name": "Roxanne",
+        "de": "Mitbewohnerin von Lena, studiert Ethnologie",
+        "en": "Roommate of Lena, studies ethnology"
+      },
+      {
+        "name": "Ilona Pfefferkorn",
+        "de": "Dozentin in Ethnologie und Expertin des Paranormalen",
+        "en": "Lecturer in ethnology and expert on the paranormal, Jörg’s ex-wife"
+      },
+      {
+        "name": "Walter Meyer",
+        "de": "Lenas Vater",
+        "en": "Lena's father"
+      },
+      {
+        "name": "Melanie Meyer",
+        "de": "Lenas Mutter",
+        "en": "Lena's mother, in prison"
+      },
+      {
+        "name": "Jörg Pfefferkorn",
+        "de": "Polizist, Oberkommissar, Exmann von Ilona",
+        "en": "Policeman, chief inspector, Ilona's ex-husband"
+      },
+      {
+        "name": "Diana Dengel",
+        "de": "Malachis Ex-Freundin",
+        "en": "Malachi's ex-girlfriend"
+      },
+      {
+        "name": "Valentin Hagedold",
+        "de": "Dianas Ehemann",
+        "en": "Diana's husband"
+      },
+      {
+        "name": "Johnny Maier",
+        "de": "Malachis Deckname als Callboy",
+        "en": "Malachi's alias as a callboy"
+      },
+      {
+        "name": "Dietrich Hagedold",
+        "de": "Valentin Hagedolds Vater",
+        "en": "Valentin Hagedold's father"
+      }
+    ]
+  },
+  {
+    "groupId": "witches",
+    "de": "Die \"Hexen\"",
+    "en": "The \"Witches\"",
+    "members": [
+      {
+        "name": "Penelope Martin",
+        "de": "Lucies künstlerische Mutter, Hexentochter",
+        "en": "Lucie's artistic mother, witch's daughter"
+      },
+      {
+        "name": "Caroline de Beauvoir",
+        "de": "Penelopes ältere Schwester, Hexentochter",
+        "en": "Penelope's older sister, witch's daughter"
+      },
+      {
+        "name": "Vita de Beauvoir",
+        "de": "Verstorbene Tante von Caroline und Penelope",
+        "en": "Deceased aunt of Caroline and Penelope"
+      },
+      {
+        "name": "Sebastian Levinski",
+        "de": "Lucies Cousin vierten oder fünften Grades",
+        "en": "Lucie's fourth or fifth cousin"
+      },
+      {
+        "name": "Anton Levinski",
+        "de": "Lucies Cousin vierten oder fünften Grades",
+        "en": "Lucie's fourth or fifth cousin"
+      },
+      {
+        "name": "Bina Birnbaum",
+        "de": "Arabellas jüngere Schwester",
+        "en": "Arabella's younger sister"
+      },
+      {
+        "name": "William Eyebottom",
+        "de": "Hexer, Eigentümer der Agentur Magic Eye",
+        "en": "Owner of the Magic Eye agency"
+      },
+      {
+        "name": "Arabella Birnbaum",
+        "de": "Amtierende Oberhexe",
+        "en": "Sitting head witch"
+      },
+      {
+        "name": "Sylteriana Birnbaum",
+        "de": "Oberhexe zu ihrer Zeit, Vorgängerin von Arabella, Schwester von Elvira",
+        "en": "Head witch in her time, prede-cessor of Arabella, sister of Elvira"
+      },
+      {
+        "name": "Humperdinck Birnbaum",
+        "de": "Sohn von Elvira Birnbaum",
+        "en": "Son of Elvira Birnbaum"
+      },
+      {
+        "name": "Elvira Birnbaum",
+        "de": "Großmutter von Arabella und Bina, Sylterianas Schwester",
+        "en": "Grandmother of Arabella and Bina, Sylteriana’s sister"
+      },
+      {
+        "name": "Dennis Meyer",
+        "de": "Mitbewohner von Lena, Sohn von Pamela",
+        "en": "Roommate of Lena, son of Pamela, quarter witch"
+      },
+      {
+        "name": "Pamela Meyer",
+        "de": "Mutter von Dennis und Celine, Walters Ehefrau",
+        "en": "Dennis and Celine's mother, Wal-ter's wife, half witch"
+      },
+      {
+        "name": "Celine Meyer",
+        "de": "Dennis‘ Zwillingsschwester, Pamelas Tochter",
+        "en": "Dennis' twin sister, Pamela's daugh-ter, quarter witch"
+      }
+    ]
+  },
+  {
+    "groupId": "vampires",
+    "de": "Die \"Vampire\"",
+    "en": "The \"Vampires\"",
+    "members": [
+      {
+        "name": "Virgilia Lamprecht",
+        "de": "Lucies und Noels zweite Mitbewohnerin",
+        "en": "Lucie and Noel's second roommate"
+      },
+      {
+        "name": "Björn Lamprecht",
+        "de": "Chef des Lamprecht-Clans",
+        "en": "King of the clan"
+      },
+      {
+        "name": "Harald Lamprecht",
+        "de": "Björns Enkel",
+        "en": "Björn's grandson"
+      },
+      {
+        "name": "Victoria Lamprecht",
+        "de": "Björns Enkelin",
+        "en": "Björn's granddaughter"
+      },
+      {
+        "name": "Kris Lamprecht",
+        "de": "Freund von Victoria",
+        "en": "Ally of Victoria"
+      },
+      {
+        "name": "Malachi Lamprecht",
+        "de": "Victorias Cousin, Erbe von Perdita",
+        "en": "Victoria's cousin, vampire witch, heir to Perdita"
+      },
+      {
+        "name": "Perdita Lamprecht",
+        "de": "Malachis Tante, Vampirhexe",
+        "en": "Malachi's aunt, vampire witch"
+      }
+    ]
+  }
+]

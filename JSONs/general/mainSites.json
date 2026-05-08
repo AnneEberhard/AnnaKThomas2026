@@ -1,0 +1,308 @@
+[
+  {
+    "siteId": "home",
+    "translationExists": "true",
+    "languages": {
+      "de": {
+        "title": "Hallo!",
+        "paragraphs": [
+          "Und willkommen auf meiner Webseite!",
+          "Ich schreibe schon seit Jahrzehnten Geschichten, aber 2017 habe ich mich nach draußen in die Welt getraut und angefangen, online Bücher zu veröffentlichen. Da ich so viel drum herum geschrieben und gebaut habe, und auch noch so vieles plane, entstand die Idee zu dieser Webseite, um ein wenig mehr Info zu geben, ein bisschen mehr zu teilen - und vielleicht ebenso ein bisschen mehr zu hören ...",
+          "Ich schreibe auf deutsch, aber mittlerweile gibt es englische Übersetzungen einiger meiner Werke. Wo dies der Fall ist, könnt Ihr Euch die englischen Texte anzeigen lassen.",
+          ""
+        ],
+        "sections": [
+          {
+            "paragraphs": [
+              "",
+              ""
+            ],
+            "subtitle": "Der Überblick über meine Bücher:",
+            "links": [
+              {
+                "text": "",
+                "url": ""
+              }
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Hello!",
+        "paragraphs": [
+          "And welcome to my website!",
+          "I've been writing stories for decades, but in 2017 I ventured out into the world and started publishing books online. Since I've written and built so much around it, and still have so much planned, the idea for this website was born to give a little more info, a little more to share - and maybe a little more to hear ...",
+          "I write in German, but in some case, English translations of my works are available. Whenever this is the case, you'll find English texts as well.",
+          ""
+        ],
+        "sections": [
+          {
+            "paragraphs": [
+              "",
+              ""
+            ],
+            "subtitle": "The overview of my books:",
+            "links": [
+              {
+                "text": "",
+                "url": "/sites-html/booksites/"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "siteId": "fantasy",
+    "translationExists": "true",
+    "languages": {
+      "de": {
+        "title": "Fantasy",
+        "paragraphs": [
+          "An dem Genre Fantasy fasziniert mich, dass einem keine Grenzen gesetzt sind - außer irgendwann die Grenzen der Logik innerhalb einer Geschichte. Ich habe drei Trilogien geschrieben, davon zwei Urban Fantasy und eine klassische Fantasy.",
+          "Die Von Elfen und Wölfen Trilogie ist ins Englische übersetzt worden und wurde dort zu neun Büchern.",
+          "Auch Die Kinder der Engel Trilogie ist mittlerweile auf Englisch verfügbar.",
+          "In meiner neuesten Geschichte geht es um Zeitreisen - in Kurven der Zeit begegnet man allerdings auch einigen Figuren aus meinen historischen Romanen.",
+          "Auf jeder der nachfolgenden Seiten findet Ihr Links zu den Büchern, Hintergrundinfos, Bonuskapitel und vieles mehr."
+        ],
+        "sections": [
+          {
+            "paragraphs": [
+              "",
+              ""
+            ],
+            "subtitle": "Zeitreisen",
+            "links": [
+              {
+                "text": "Kurven der Zeit",
+                "url": "/sites-html/booksites/time-curves.html"
+              }
+            ]
+          },
+          {
+            "paragraphs": [
+              "",
+              ""
+            ],
+            "subtitle": "Klassische Fantasy",
+            "links": [
+              {
+                "text": "Die Sänger von Thurán",
+                "url": "/sites-html/booksites/bards-of-thuran.html"
+              }
+            ]
+          },
+          {
+            "paragraphs": [
+              "",
+              ""
+            ],
+            "subtitle": "Urban Fantasy",
+            "links": [
+              {
+                "text": "Die Kinder der Engel",
+                "url": "/sites-html/booksites/children-of-angels.html"
+              },
+              {
+                "text": "Von Elfen und Wölfen",
+                "url": "/sites-html/booksites/of-elves-and-wolves.html"
+              }
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Fantasy",
+        "paragraphs": [
+          "What fascinates me about the fantasy genre is that there are no limits - except at some point the limits of logic within a story. I have written three trilogies, two of them urban fantasy and one classic fantasy.",
+          "The Of Elves and Wolves trilogy has been translated into English, turning into nine books in three arcs.",
+          "The Children of the Angels trilogy is now also available in English.",
+          "My newest story is about time travel - in Time Curves, you will also encounter some characters from my historical novels.",
+          "On each of the following pages you will find links to the books, background information, bonus chapters and much more."
+        ],
+        "sections": [
+          {
+            "paragraphs": [
+              "",
+              ""
+            ],
+            "subtitle": "Time travel",
+            "links": [
+              {
+                "text": "Time Curves",
+                "url": "/sites-html/booksites/time-curves.html"
+              }
+            ]
+          },
+          {
+            "paragraphs": [
+              "",
+              ""
+            ],
+            "subtitle": "Classic fantasy",
+            "links": [
+              {
+                "text": "The Bards of Thurán",
+                "url": "/sites-html/booksites/bards-of-thuran.html"
+              }
+            ]
+          },
+          {
+            "paragraphs": [
+              "",
+              ""
+            ],
+            "subtitle": "Urban Fantasy",
+            "links": [
+              {
+                "text": "Children Of Angels",
+                "url": "/sites-html/booksites/children-of-angels.html"
+              },
+              {
+                "text": "Of Elves and Wolves",
+                "url": "/sites-html/booksites/of-elves-and-wolves.html"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "siteId": "historical",
+    "translationExists": "true",
+    "languages": {
+      "de": {
+        "title": "Historische Romane",
+        "paragraphs": [
+          "Ich liebe historische Romane - vorausgesetzt, sie sind gut recherchiert. Für die meinen bin ich tief in die jeweiligen Zeiten eingestiegen und habe mir hoffentlich keine groben Patzer geleistet. Solltet Ihr etwas finden, lasst es mich wissen!",
+          "Meine historischen Bücher sind mitterweile alle ins Englische übersetzt worden.",
+          "Auf jeder der nachfolgenden Seiten findet Ihr Links zu den Büchern, Hintergrundinfos, Bonuskapitel und vieles mehr."
+        ],
+        "sections": [
+          {
+            "paragraphs": [
+              "",
+              ""
+            ],
+            "subtitle": "Historische Romane",
+            "links": [
+              {
+                "text": "Irrfahrt ins Gelobte Land",
+                "url": "/sites-html/booksites/odyssey.html"
+              },
+              {
+                "text": "Die Masken von Florenz",
+                "url": "/sites-html/booksites/masks-of-florence.html"
+              },
+              {
+                "text": "Alsterdiamanten",
+                "url": "/sites-html/booksites/alster-diamonds.html"
+              },
+              {
+                "text": "Der Geist in Brand",
+                "url": "/sites-html/booksites/mind-on-fire.html"
+              },
+              {
+                "text": "Der Diener des Grafen",
+                "url": "/sites-html/booksites/counts-servant.html"
+              },
+              {
+                "text": "Frida Von Hameln",
+                "url": "/sites-html/booksites/frida.html"
+              }
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Historical novels",
+        "paragraphs": [
+          "I love historical novels - provided they are well researched. For mine, I delved deep into the respective periods and hopefully didn't make any major blunders. If you find anything, let me know!",
+          "My historical books have now all been translated into English.",
+          "On each of the following pages you will find links to the books, background information, bonus chapters and much more."
+        ],
+        "sections": [
+          {
+            "paragraphs": [
+              "",
+              ""
+            ],
+            "subtitle": "Historical novels",
+            "links": [
+              {
+                "text": "Odyssey to the Promised Land",
+                "url": "/sites-html/booksites/odyssey.html"
+              },
+              {
+                "text": "The Masks of Florence",
+                "url": "/sites-html/booksites/masks-of-florence.html"
+              },
+              {
+                "text": "Alster Diamonds",
+                "url": "/sites-html/booksites/alster-diamonds.html"
+              },
+              {
+                "text": "The Mind on Fire",
+                "url": "/sites-html/booksites/mind-on-fire.html"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "siteId": "novellas",
+    "translationExists": "true",
+    "languages": {
+      "de": {
+        "title": "Novellen und Kurzgeschichten",
+        "paragraphs": [
+          "Mit Kurzgeschichten fing es an - unser Start in die Welt der Veröffentlichungen. Zwei Kurzgeschichten gab ich her, damit wir ausprobieren konnten, wie alles funktionierte, bevor wir uns an die größeren Werke wagten. Am liebsten hätte ich sie umsonst angeboten, aber das war nicht erlaubt.",
+          "Beide veröffentlichte Geschichten sind ins Englische übersetzt worden.",
+          "Und als Bonus gibt es noch eine Geschichte, die ich nach einem Traum niederschrieb. Wie so viele Geschichten, die ich eigentlich geträumt habe, hat auch diese sich ein wenig verselbständigt."
+        ],
+        "sections": [
+          {
+            "paragraphs": [
+              "",
+              ""
+            ],
+            "subtitle": "Veröffentlichte Novellen und Kurzgeschichten",
+            "links": [
+              {
+                "text": "",
+                "url": ""
+              }
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Novellas and short stories",
+        "paragraphs": [
+          "It all began with short stories - our start in the world of publishing. I gave away two short stories so that we could try out how everything worked before we ventured into the larger works. I would have preferred to offer them for free, but that wasn't allowed.",
+          "Both published stories have been translated into English.",
+          "And as a bonus, there's another story that I wrote down after a dream (but only in German). Like so many stories that I actually dreamt, this one also took on a life of its own. Please be aware that this story in only available in German at the moment."
+        ],
+        "sections": [
+          {
+            "paragraphs": [
+              "",
+              ""
+            ],
+            "subtitle": "Published novellas and short stories",
+            "links": [
+              {
+                "text": "",
+                "url": ""
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

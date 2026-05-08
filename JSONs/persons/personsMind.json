@@ -1,0 +1,677 @@
+[
+  {
+    "groupId": "fictional",
+    "de": "Erfundene Personen",
+    "en": "Fictional Characters",
+    "members": [
+      {
+        "name": "Henri Berlingen",
+        "de": "Baron von Satten, Niklas Ziehvater, Nicolettes Vater",
+        "en": "Baron von Satten, Niklas' foster father, Nicolette's natural father"
+      },
+      {
+        "name": "Graf Freilheim",
+        "de": "Reichsunmittelbarer Graf. Freund und Herr des Baron von Sattens",
+        "en": "Imperial immediate count, friend and superior of Baron von Satten"
+      },
+      {
+        "name": "Nikolaus von Altenmark",
+        "de": "gen. Niklas, Nicolas, Nico, Nicholas, Nicky, Nikolai, Kolja, Nicola. Junker von Altenmark, adoptierter Baron von Satten",
+        "en": "called Niklas, Nicolas, Nico, Nicholas, Nicky, Nikolai, Kolja, Nicola. Junker von Altenmark, adopted Baron von Satten"
+      },
+      {
+        "name": "Heinrich von Altenmark",
+        "de": "Ritter, Niklas' leiblicher Vater",
+        "en": "Knight, Niklas' natural father"
+      },
+      {
+        "name": "Andreas von Altenmark",
+        "de": "Niklas' ältester überlebender Bruder",
+        "en": "Niklas' oldest surviving brother"
+      },
+      {
+        "name": "Georg von Altenmark",
+        "de": "Niklas' zweitältester Bruder",
+        "en": "Niklas' second oldest brother"
+      },
+      {
+        "name": "Johannes von Altenmark",
+        "de": "Niklas' jüngerer Bruder",
+        "en": "Niklas' younger brother"
+      },
+      {
+        "name": "Greta-Lina von Suttburg",
+        "de": "Niklas' Freundin",
+        "en": "Niklas' childhood friend"
+      },
+      {
+        "name": "Ludorff",
+        "de": "Leibdiener des Barons",
+        "en": "Baron von Satten's body servant"
+      },
+      {
+        "name": "Mamsell Gehrau",
+        "de": "Köchin des Barons",
+        "en": "Baron von Satten's cook"
+      },
+      {
+        "name": "Rieke",
+        "de": "Dienstmädchen",
+        "en": "Maid"
+      },
+      {
+        "name": "Señor Alvarez",
+        "de": "Reisemarschall bis Paris",
+        "en": "Travel marshal to Paris"
+      },
+      {
+        "name": "Elise",
+        "de": "Dienstmädchen, verschwindet in der Revolution",
+        "en": "Maid, disappears in the revolution"
+      },
+      {
+        "name": "Pierre Vagot",
+        "de": "Niklas' Lehrer und Revolutionär",
+        "en": "Niklas' teacher and revolutionary"
+      },
+      {
+        "name": "Jean-Jacques",
+        "de": "Revolutionär",
+        "en": "Revolutionary"
+      },
+      {
+        "name": "Louis-Marie Babou",
+        "de": "Philosoph und Revolutionär",
+        "en": "Philosopher and revolutionary"
+      },
+      {
+        "name": "Pieter van Krammart",
+        "de": "Musiker, Lehrer Henri von Sattens",
+        "en": "Musician, teacher of Henri von Satten"
+      },
+      {
+        "name": "Ella van Krammart",
+        "de": "verh. Isabella Adamante, Gräfin Talbrosa, Tochter Pieter van Krammarts",
+        "en": "married Isabella Adamante, Countess Talbrosa, Pieter van Krammarts' daughter"
+      },
+      {
+        "name": "Tristan von Bergen",
+        "de": "einarmiger Reisemarschall",
+        "en": "one-armed travel marshal"
+      },
+      {
+        "name": "John O'Toonen",
+        "de": "irischer Lehrer von Niklas",
+        "en": "Irish teacher of Niklas"
+      },
+      {
+        "name": "Nicolette Dubâton",
+        "de": "uneheliche Tochter des Barons",
+        "en": "illegitimate daughter of the baron"
+      },
+      {
+        "name": "Claude Dubâton",
+        "de": "Kurtisane und ehemalige Geliebte des Barons",
+        "en": "Courtesan and former mistress of the baron"
+      },
+      {
+        "name": "Manon",
+        "de": "Nicolettes Amme / Köchin von Claude",
+        "en": "Nicolette's nurse / Claude's cook"
+      },
+      {
+        "name": "Fifi",
+        "de": "Claudes Zofe und Vertraute",
+        "en": "Claude's maid and confidante"
+      },
+      {
+        "name": "Monsieur Turbel",
+        "de": "Pariser Unternehmer, bringt Colette zum Baron",
+        "en": "Parisian entrepreneur, brings Colette to the Baron"
+      },
+      {
+        "name": "Miss Simpson",
+        "de": "Nicolettes Gouvernante",
+        "en": "Nicolette's governess"
+      },
+      {
+        "name": "Grigorij Tobatschekow",
+        "de": "Russe, Reisegenosse",
+        "en": "Russian, travel companion"
+      },
+      {
+        "name": "Nuremkows",
+        "de": "Personal in Sankt Petersburg",
+        "en": "Personal in Saint Petersburg"
+      },
+      {
+        "name": "Kyra",
+        "de": "Tochter des Verwalters in Sankt Petersburg",
+        "en": "Daughter of the manager in Saint Petersburg"
+      },
+      {
+        "name": "Dimitri Stepanowitsch Golitzyn",
+        "de": "gen. Mitja, Niklas' Freund",
+        "en": "called Mitya, Niklas' friend"
+      },
+      {
+        "name": "Pawel Stepanowitsch Golitzyn",
+        "de": "gen. Paschka, Mitjas älterer Bruder",
+        "en": "gen. Pashka, Mitja's older brother"
+      },
+      {
+        "name": "Mikhail Petrowitsch Golitzyn",
+        "de": "Mitjas und Pawels entfernter älterer Cousin",
+        "en": "Mitya and Pavel's distant older cousin"
+      },
+      {
+        "name": "Andrej Petrowitsch Golitzyn",
+        "de": "Mitjas und Pawels entfernter jüngerer Cousin",
+        "en": "Mitja and Pavel's distant younger cousin"
+      },
+      {
+        "name": "Guiseppe Constantino, Conte di Visi",
+        "de": "Bekannter des Barons, Gastgeber bei Rom",
+        "en": "Acquaintance of the Baron, host at Rome"
+      },
+      {
+        "name": "Lukasz",
+        "de": "Polnischer Reitbursche von Niklas",
+        "en": "Polish riding boy of Niklas"
+      },
+      {
+        "name": "Sophia (Sofie) Dell'Arga",
+        "de": "Niklas' Geliebte in Rom",
+        "en": "Niklas' lover in Rome"
+      },
+      {
+        "name": "Amalia von Altenmark",
+        "de": "geb. Lichterberg, Andreas' Ehefrau",
+        "en": "born Lichterberg, Andreas' wife"
+      }
+    ]
+  },
+  {
+    "groupId": "historical",
+    "de": "Historische Personen",
+    "en": "Historical Characters",
+    "members": [
+      {
+        "name": "François Marie Voltaire †",
+        "de": "einer der einflussreichsten Autoren der französischen und europäischen Aufklärung",
+        "en": "one of the most influential authors of the French and European Enlightenment"
+      },
+      {
+        "name": "Jean-Jacques Rousseau †",
+        "de": "Genfer Schriftsteller, Philosoph, Pädagoge, Naturforscher und Komponist",
+        "en": "Genevan writer, philosopher, educator, naturalist and composer"
+      },
+      {
+        "name": "Denis Diderot †",
+        "de": "französischer Schriftsteller, Enzyklopedist. Zu Lebzeiten weniger bekannt als etwa Voltaire oder Rousseau, gilt Diderot heute als einer der originellsten Köpfe der europäischen Aufklärung.",
+        "en": "French writer and encyclopedist. Less well-known during his lifetime than Voltaire or Rousseau, Diderot is now considered one of the most original minds of the European Enlightenment."
+      },
+      {
+        "name": "Friedrich Wilhelm II.",
+        "de": "König von Preußen, im Volk Der dicke Lüderjahn genannt",
+        "en": "King of Prussia, popularly known as the fat Lüderjahn"
+      },
+      {
+        "name": "Wilhelmine Enke (Encke)",
+        "de": "Gräfin von Lichtenau, ehemalige Mätresse Friedrich Wilhelms II. von Preußens",
+        "en": "Gräfin von Lichtenau, former mistress of Frederick William II of Prussia"
+      },
+      {
+        "name": "Friedrich Wilhelm Moritz Alexander von der Mark ('Anderchen')",
+        "de": "illegitimer Sohn König Friedrich Wilhelms II. von Preußen und seiner Geliebten, der Gräfin Wilhelmine von Lichtenau",
+        "en": "illegitimate son of King Frederick William II of Prussia and his mistress, Gräfin Wilhelmine von Lichtenau"
+      },
+      {
+        "name": "François Alexandre Frédéric de La Rochefoucauld",
+        "de": "Duc de Liancourt (später Duc de La Rochefoucauld), französischer Politiker, Wissenschaftler und Philanthrop",
+        "en": "Duc de Liancourt (later Duc de La Rochefoucauld), French politician, scientist and philanthropist"
+      },
+      {
+        "name": "René Louis de Girardin, Marquis de Vauvré",
+        "de": "Künstlername auch René Louis Gérardin, französischer Marquis, Schöpfer des Parks von Ermenonville und Schriftsteller. Er vertrat sozialreformerische Ideen und war ein Freund Jean-Jacques Rousseaus.",
+        "en": "Also known as René Louis Gérardin, French marquis, creator of the Ermenonville park and writer. He advocated social reformist ideas and was a friend of Jean-Jacques Rousseau."
+      },
+      {
+        "name": "Anne Louise Germaine de Staël-Holstein, Baronesse de Staël",
+        "de": "französische Schriftstellerin, Tochter Neckers. Von ihr stammt die Bezeichnung Deutschlands als „Land der Dichter und Denker“.",
+        "en": "French writer, daughter of Necker. She is the origin of Germany's des-ignation as the 'land of poets and thinkers'."
+      },
+      {
+        "name": "Elisabeth Françoise Sophie de Lalive de Bellegarde, Comtesse d'Houdetot",
+        "de": "durch Heirat mit dem General d'Houdetot 1748 Gräfin von Houdetot, geistreiche Französin, verbunden mit dem Kreis der Enzyklopedisten",
+        "en": "by marriage to General d'Houdetot in 1748, Countess of Houdetot, witty Frenchwoman, associated with the circle of encyclopedists"
+      },
+      {
+        "name": "Jacques Necker",
+        "de": "Schweizer Bankier und Finanzminister unter Ludwig XVI., Vater von Baronin Anne Louise Germaine de Staël-Holstein",
+        "en": "Swiss banker and finance minister under Louis XVI, father of Baroness Anne Louise Germaine de Staël-Holstein"
+      },
+      {
+        "name": "Marie-Jeanne (Rose) Bertin",
+        "de": "Modemacherin des 18. Jahrhunderts, die es zu ihrer Zeit zu großem Ruhm brachte",
+        "en": "Fashion designer of the 18th century who achieved great fame in her time"
+      },
+      {
+        "name": "Ludwig Philipp II. Joseph, Duc d’Orléans",
+        "de": "genannt Philippe Égalité, Mitglied der französischen Königsfamilie aus dem Haus Bourbon-Orléans und der Vater von König Ludwig Philipp I. von Frankreich",
+        "en": "called Philippe Égalité, member of the French royal family from the House of Bourbon-Orléans and the father of King Louis Philip I of France"
+      },
+      {
+        "name": "Marie Louise Élisabeth Vigée-Lebrun",
+        "de": "französische Malerin, die zahlreiche Porträts europäischer Adliger anfertigte. Ihre Werke sind dem Klassizismus zuzuordnen.",
+        "en": "French painter who painted numerous portraits of European aristocrats. Her works can be attributed to classicism."
+      },
+      {
+        "name": "Marie Thérèse Louise de Bourbon, Princesse de Savoyen-Carignan (Princesse de Lamballe)",
+        "de": "französische Hofdame und Intendantin des Hauses der Königin Marie Antoinette. Sie war eine der engsten Vertrauten der Königin und folgte ihr freiwillig in die Gefangenschaft",
+        "en": "French lady-in-waiting and Intendant of the House of Queen Marie Antoinette. She was one of the queen's closest confidants and voluntarily followed her into captivity"
+      },
+      {
+        "name": "Yolande Martine Gabrielle de Polastron, Comtesse/Duchesse de Polignac",
+        "de": "auch als Madame de Polignac bekannt, war lange Zeit Favoritin der französischen Königin Marie Antoinette und galt ihren Kritikern am Vorabend der Französischen Revolution als Prototyp des egoistischen und verschwendungssüchtigen Aristokraten des Ancien Régime",
+        "en": "also known as Madame de Polignac, was for a long time a favorite of the French queen Marie Antoinette and was regarded by her critics on the eve of the French Revolution as the prototype of the selfish and wasteful aristocrat of the Ancien Régime"
+      },
+      {
+        "name": "Joseph de Bourbon, Prince de Conti Louis François II.",
+        "de": "einziges eheliches Kind des Louis François I., Prince de Conti und seiner Frau Louise Diane de Bourbon-Orléans",
+        "en": "only legitimate child of Louis François I, Prince de Conti and his wife Louise Diane de Bourbon-Orléans"
+      },
+      {
+        "name": "Louis XVI. Auguste de Bourbon, Roi de France",
+        "de": "als Louis Auguste zunächst Herzog von Berry und wurde nach dem Tode seines Vaters 1765 Dauphin sowie nach dem Tode seines Großvaters 1774 schließlich König von Frankreich und Navarra",
+        "en": "as Louis Auguste, he was initially Duke of Berry and became Dauphin after the death of his father in 1765 and finally King of France and Navarre after the death of his grandfather in 1774"
+      },
+      {
+        "name": "Marie Antoinette, Reine de France",
+        "de": "als Maria Antonia Josepha Johanna Erzherzogin von Österreich sowie Prinzessin von Ungarn, Böhmen, der Toskana usw. und entstammte dem Haus Habsburg-Lothringen",
+        "en": "as Maria Antonia Josepha Johanna Archduchess of Austria and Princess of Hungary, Bohemia, Tuscany etc. and descended from the House of Habsburg-Lorraine"
+      },
+      {
+        "name": "Louis Joseph Xavier François, Dauphin",
+        "de": "(Titular-)Herzog der Bretagne und als Dauphin von Viennois Kronprinz von Frankreich",
+        "en": "(Titular) Duke of Brittany and, as Dauphin of Viennois, Crown Prince of France"
+      },
+      {
+        "name": "Georges Jacques Danton",
+        "de": "einer der Führer der unteren Volksschichten in der Französischen Revolution und Leiter des ersten Wohlfahrtsausschusses",
+        "en": "one of the leaders of the lower classes in the French Revolution and head of the first Welfare Committee"
+      },
+      {
+        "name": "Benoît Camille Desmoulins",
+        "de": "Rechtsanwalt, Journalist und von Beginn an einer der Führer der Französischen Revolution",
+        "en": "Lawyer, journalist and one of the leaders of the French Revolution from the very beginning"
+      },
+      {
+        "name": "Jacques-Pierre Brissot de Warville",
+        "de": "genannt Brissot, Publizist und Journalist, ein Führer der Girondisten, einer moderaten bürgerlichen Gruppierung während der Französischen Revolution",
+        "en": "called Brissot, Publicist and journalist, a leader of the Girondists, a moderate bourgeois group during the French Revolution"
+      },
+      {
+        "name": "Honoré Gabriel Victor de Riqueti, Marquis de Mirabeau",
+        "de": "französischer Politiker, Physiokrat, Schriftsteller und Publizist",
+        "en": "French politician, physiocrat, writer and publicist"
+      },
+      {
+        "name": "Jean-Sylvain Bailly",
+        "de": "französischer Astronom und erster Bürgermeister von Paris",
+        "en": "French astronomer and first mayor of Paris"
+      },
+      {
+        "name": "François-Joachim de Pierre, Kardinal de Bernis, Comte de Lyon",
+        "de": "französischer Politiker, Dichter und Kardinal",
+        "en": "French politician, poet and cardinal"
+      },
+      {
+        "name": "Charles-Maurice de Talleyrand-Périgord",
+        "de": "einer der bekanntesten französischen Staatsmänner sowie Diplomat während der Französischen Revolution, der Napoleonischen Kriegen und beim Wiener Kongress",
+        "en": "one of the most famous French statesmen and diplomat during the French Revolution, the Napoleonic Wars and the Congress of Vienna"
+      },
+      {
+        "name": "Marie-Joseph-Paul-Yves-Roch-Gilbert du Motier, Marquis de La Fayette",
+        "de": "französischer General und Politiker, kämpfte im Amerikanischen Unabhängigkeitskrieg",
+        "en": "French general and politician, fought in the American War of Independence"
+      },
+      {
+        "name": "Marie Josephe Rose (Joséphine) de Tascher de la Pagerie, Vicomtesse de Beauharnais",
+        "de": "später Kaiserin der Franzosen und wurde berühmt als Ehefrau Napoleons",
+        "en": "later Empress of the French and became famous as the wife of Napoleon"
+      },
+      {
+        "name": "Jeanne Marie Ignace Thérésia Cabarrus, Madame de Fontenay",
+        "de": "nach dem Umsturz vom 9. Thermidor (27. Juli 1794) bekannt als „Madame Tallien“ oder „Notre-Dame de Thermidor“, einflussreiche und bekannte Kurtisane des spätrevolutionären Frankreichs",
+        "en": "known as 'Madame Tallien' or 'Notre-Dame de Thermidor' after the overthrow of 9 Thermidor (July 27, 1794), influential and well-known courtesan of late-revolutionary France"
+      },
+      {
+        "name": "Alexandre, Vicomte de Beauharnais",
+        "de": "kurz nach der Revolution Präsident der französischen Nationalversammlung, erster Ehemann der späteren Kaiserin Joséphine",
+        "en": "President of the French National Assembly shortly after the Revolution, first husband of the future Empress Joséphine"
+      },
+      {
+        "name": "Louis XVIII Stanislas Xavier, Conte de Provence",
+        "de": "Jüngerer Bruder von Louis XIV, von 1814 bis 1824 König von Frankreich",
+        "en": "Younger brother of Louis XIV, King of France from 1814 to 1824"
+      },
+      {
+        "name": "Emmanuel Joseph Abbé de Sieyès",
+        "de": "französischer Priester und Staatsmann, einer der Haupttheoretiker der Französischen Revolution und der Ära des Französischen Konsulats",
+        "en": "French priest and statesman, one of the main theorists of the French Revolution and the era of the French Consulate"
+      },
+      {
+        "name": "Peter Viktor von Besenval, Baron de Besenval",
+        "de": "Freiherr von Brunnstatt, ein Schweizer Militär in französischen Dienst",
+        "en": "Baron von Brunnstatt, a Swiss military man in French service"
+      },
+      {
+        "name": "Bernard-René Jourdan, Marquis de Launay",
+        "de": "französischer Adliger aus Paris und der letzte Kommandant der Bastille in Paris (1776–1789)",
+        "en": "French nobleman from Paris and the last commander of the Bastille in Paris (1776-1789)"
+      },
+      {
+        "name": "Jacques de Flesselles",
+        "de": "französischer Vogt (Prévot), Vorsteher der Pariser Kaufleute und Stadtoberhaupt von Paris",
+        "en": "French bailiff (Prévot), head of the Parisian merchants and head of the city of Paris"
+      },
+      {
+        "name": "Hans Axel",
+        "de": "Graf von Fersen, schwedischer Staatsmann und ein Favorit der französischen Königin Marie Antoinette. In Schweden wird er als „Axel von Fersen der Jüngere“ bezeichnet, um ihn von seinem gleichnamigen Vater (Axel von Fersen d. Ä.) zu unterscheiden.",
+        "en": "Count Fersen, Swedish statesman and a favorite of the French queen Marie Antoinette. In Sweden, he is referred to as 'Axel the Younger' to distinguish him from his father of the same name (Axel the Elder)."
+      },
+      {
+        "name": "Charles X Philippe, Conte d‘Artois",
+        "de": "Jüngster Bruder von Louis XIV., König von Frankreich von 1824–1830",
+        "en": "Youngest brother of Louis XIV, King of France from 1824-1830"
+      },
+      {
+        "name": "Olympe de Gouges",
+        "de": "eigentlich Marie Gouze, Revolutionärin, Frauenrechtlerin, Schriftstellerin und Autorin von Theaterstücken. Sie ist die Verfasserin der Erklärung der Rechte der Frau und Bürgerin von 1791",
+        "en": "actually Marie Gouze, Revolutionary, women's rights activist, writer and author of plays. She is the author of the Declaration of the Rights of Women and Citizens of 1791"
+      },
+      {
+        "name": "Élisabeth Philippine Marie Hélène de Bourbon",
+        "de": "französische Prinzessin, jüngste Schwester von Louis XVI.",
+        "en": "French princess, youngest sister of Louis XVI."
+      },
+      {
+        "name": "Stéphanie-Félicité Du Crest, Comtesse de Genlis, Marquise de Sillery",
+        "de": "französische Hofdame, Erzieherin der Kinder des Duc d‘Orléans, und Schriftstellerin.",
+        "en": "French lady-in-waiting, tutor to the children of the Duc d'Orléans, and writer."
+      },
+      {
+        "name": "Joseph Fouché",
+        "de": "französischer Politiker während der französischen Revolution und Polizeiminister in der Kaiserzeit und der Restauration, später Duc d‘Otranto",
+        "en": "French politician during the French Revolution and Minister of Police during the imperial era and the Restoration, later Duc d'Otranto"
+      },
+      {
+        "name": "Maximilien Marie Isidore de Robespierre",
+        "de": "vom Volk „der Unbestechliche“ genannt, französischer Politiker und einer der einflussreichsten Männer während der Französischen Revolution",
+        "en": "nicknamed 'the incorruptible' by the people, French politician and one of the most influential men during the French Revolution"
+      },
+      {
+        "name": "Napoléon I Bonaparte, geb. Buonaparte",
+        "de": "französischer General, Erster Konsul, später Kaiser",
+        "en": "French General, First Consul, later Emperor"
+      },
+      {
+        "name": "William Henry Cavendish-Bentinck, Duke of Portland",
+        "de": "britischer Politiker der Whigs und der Tories und Premierminister",
+        "en": "British politician of the Whigs and the Tories and Prime Minister"
+      },
+      {
+        "name": "Frederick Cavendish-Bentinck",
+        "de": "Vierter Sohn des Duke of Portland",
+        "en": "Fourth son of the Duke of Portland"
+      },
+      {
+        "name": "Charlotte Cavendish-Bentinck",
+        "de": "Tochter des Duke of Portland",
+        "en": "Daughter of the Duke of Portland"
+      },
+      {
+        "name": "George Bryan Brummell",
+        "de": "später genannt Beau, tonangebend in der Herrenmode im britischen Regency-Zeitalter und ein Freund des Prinzregenten, des späteren Königs Georg IV",
+        "en": "later called Beau, a leading figure in men's fashion in the British Regency period and a friend of the Prince Regent, later King George IV"
+      },
+      {
+        "name": "William Brummell",
+        "de": "älterer Bruder von George Brummell",
+        "en": "older brother of George Brummell"
+      },
+      {
+        "name": "Francis Hodgson",
+        "de": "reformorientierter Propst von Eton, Pädagoge, Geistlicher, Verseschreiber und Freund von Byron",
+        "en": "reform-minded provost of Eton, educator, clergyman, verse writer and friend of Byron"
+      },
+      {
+        "name": "William Lamb",
+        "de": "britischer Adliger und Politiker. Er gilt als Mentor Königin Victorias",
+        "en": "British nobleman and politician. He is considered Queen Victoria's mentor"
+      },
+      {
+        "name": "Frederick North, Earl of Guilford",
+        "de": "ab 1752 bekannt unter dem Höflichkeitstitel Lord North, Premierminister von Großbritannien und einer der Hauptakteure der amerikanischen Unabhängigkeitsbewegung",
+        "en": "From 1752 known by the courtesy title Lord North, Prime Minister of Great Britain and one of the main protagonists of the American independence movement"
+      },
+      {
+        "name": "Charles James Fox",
+        "de": "englischer Staatsmann und Redner",
+        "en": "English statesman and speaker"
+      },
+      {
+        "name": "William Pitt the Younger",
+        "de": "britischer Politiker des späten achtzehnten und frühen neunzehnten Jahrhunderts. Er wurde 1783 im Alter von 24 Jahren zum jüngsten Premierminister. Er schied 1801 aus dem Amt, war aber von 1804 bis zu seinem Tod erneut Premierminister",
+        "en": "British politician of the late eighteenth and early nineteenth centuries. He became the youngest Prime Minister in 1783 at the age of 24. He left office in 1801, but was Prime Minister again from 1804 until his death"
+      },
+      {
+        "name": "Sophie Charlotte, Herzogin zu Mecklenburg, Queen of England",
+        "de": "Deutsche Prinzessin, wurde durch Heirat mit König Georg III. als Königin Charlotte Königin von Großbritannien und Irland (ab 1801 des Vereinigten Königreichs von Großbritannien und Irland) und Kurfürstin von Braunschweig-Lüneburg und später Königin von Hannover.",
+        "en": "German princess, by marriage to King George III as Queen Charlotte became Queen of Great Britain and of Ireland (from 1801 of the United Kingdom of Great Britain and Ireland) and Electress of Brunswick-Lüneburg and later Queen of Hanover"
+      },
+      {
+        "name": "Augusta Sophia",
+        "de": "Britisch-hannoversche Prinzessin, sechstes Kind von König Georg III. und Königin Charlotte.",
+        "en": "British-Hanoverian princess, sixth child of King George III and Queen Charlotte."
+      },
+      {
+        "name": "Georg IV. August Friedrich, Prince of Wales",
+        "de": "von 1820 bis 1830 König des Vereinigten Königreichs von Großbritannien und Irland und König von Hannover",
+        "en": "King of the United Kingdom of Great Britain and Ireland and King of Hanover from 1820 to 1830"
+      },
+      {
+        "name": "George III. Wilhelm Frederick",
+        "de": "von 1760 bis 1801 König von Großbritannien und Irland, danach bis zu seinem Tod König des Vereinigten Königreichs von Großbritannien und Irland",
+        "en": "King of Great Britain and Ireland from 1760 to 1801, then King of the United Kingdom of Great Britain and Ireland until his death"
+      },
+  
+      {
+        "name": "Georgiana Dorothy Cavendish, Duchess of Devonshire",
+        "de": "britische Adlige, zählte zu den einflussreichsten Frauen ihrer Zeit",
+        "en": "British noblewoman, was one of the most influential women of her time"
+      },
+      {
+        "name": "Elizabeth Hervey, Lady Foster",
+        "de": "war eine britische Adlige, Freundin der Duchess of Devonshire, langjährige Geliebte und nach deren Tod Ehefrau deren Ehemannes",
+        "en": "was a British noblewoman, friend of the Duchess of Devonshire, longtime mistress and after her death wife of her husband"
+      },
+      {
+        "name": "Julia Storer / Johnstone",
+        "de": "Jugendfreundin von Beau Brummell, zunächst mit dem Hof verbunden, wurde aber zur Kurtisane",
+        "en": "Childhood friend of Beau Brummell, initially associated with the court, but became a courtesan"
+      },
+      {
+        "name": "Captain Josiah Cottin",
+        "de": "englischer Armeeoffizier. Heute erinnert man sich an ihn wegen seiner Verbindung mit der Kurtisane, die den Namen Julia Johnstone annahm",
+        "en": "English army officer. Today he is remembered for his association with the courtesan who took the name Julia Johnstone"
+      },
+      {
+        "name": "(Franz) Joseph/Josef Haydn",
+        "de": "Einer der führenden österreichischer Komponist der Wiener Klassik",
+        "en": "One of the leading Austrian composers of the Viennese Classical period"
+      },
+      {
+        "name": "Wolfgang Amadeus Mozart",
+        "de": "Komponist der Wiener Klassik. Sein umfangreiches Werk genießt weltweite Popularität und gehört zum bedeutendsten Repertoire der Klassik. Er selbst nannte sich meist Wolfgang Amadé Mozart.",
+        "en": "Composer of the Viennese classical period. His extensive oeuvre enjoys worldwide popularity and belongs to the most important repertoire of classical music. He usually called himself Wolfgang Amadé Mozart."
+      },
+      {
+        "name": "Mary, Lady Coke",
+        "de": "Englische Adlige und eifrige Briefeschreiberin",
+        "en": "English noblewoman and avid letter writer"
+      },
+      {
+        "name": "Henry Herbert, Earl of Pembroke, Earl of Montgomery",
+        "de": "Sohn des neunten Grafen von Pembroke, nach seinem Vater benannt",
+        "en": "Son of the ninth Earl of Pembroke, named after his father"
+      },
+      {
+        "name": "George Harry Grey, Earl of Stamford",
+        "de": "von 1739 bis 1768 genannt Lord Grey, englischer Adliger",
+        "en": "from 1739 to 1768 called Lord Grey, English nobleman"
+      },
+      {
+        "name": "Katharina II",
+        "de": "Zarin / Kaiserin, genannt Katharina die Große, ab dem 9. Juli 1762 Zarin des Russischen Reiches und außerdem Herzogin von Schleswig-Holstein-Gottorf",
+        "en": "Tsarina / Empress, called Catherine the Great, from July 9, 1762 Tsarina of the Russian Empire and also Duchess of Schleswig-Holstein-Gottorf"
+      },
+      {
+        "name": "Charles Whitworth",
+        "de": "Britischer Diplomat und Politiker",
+        "en": "British diplomat and politician"
+      },
+      {
+        "name": "Paul I. Romanow",
+        "de": "Großfürst, aus der Familie Romanow-Holstein-Gottorp stammender Zar von Russland (1796 bis 1801) sowie Herzog von Schleswig-Holstein-Gottorp (1762 bis 1773)",
+        "en": "Grand Duke, Tsar of Russia (1796 to 1801) from the Romanov-Holstein-Gottorp family and Duke of Schleswig-Holstein-Gottorp (1762 to 1773)"
+      },
+      {
+        "name": "Alexander I. Pawlowitsch Romanow",
+        "de": "Großfürst, Zar von Russland (1801–1825) und erster russischer Großfürst von Finnland (1809–1825) aus dem Haus Romanow-Holstein-Gottorp ",
+        "en": "Grand Duke, Tsar of Russia (1801-1825) and first Russian Grand Duke of Finland (1809-1825) from the House of Romanov-Holstein-Gottorp"
+      },
+      {
+        "name": "Giuseppe Sarti",
+        "de": "italienischer Opernkomponist, lange Zeit tätig in Russland",
+        "en": "Italian opera composer, active in Russia for a long time"
+      },
+      {
+        "name": "Jekaterina Romanowna Woronzowa-Daschkowa",
+        "de": "Fürstin Daschkowa, ",
+        "en": "Princess Dashkova, "
+      },
+      {
+        "name": "Maria Anna (Nannerl) Walburga Ignatia Mozart",
+        "de": "später Maria Anna Freifrau von Berchtold zu Sonnenburg, ältere Schwester von Wolfgang Amadeus Mozart",
+        "en": "later Maria Anna Baroness von Berchtold zu Sonnenburg, older sister of Wolfgang Amadeus Mozart"
+      },
+      {
+        "name": "Friedrich Wilhelm III",
+        "de": "Kronprinz, ab 1797 König von Preußen und Kurfürst von Brandenburg",
+        "en": "Crown Prince, from 1797 King of Prussia and Elector of Brandenburg"
+      },
+      {
+        "name": "Friederike Luise Karoline Sophie Charlotte Alexandrine von Mecklenburg-Strelitz",
+        "de": "Kronprinzessin, ab 1797 Königin von Preußen und Kurfürst von Brandenburg",
+        "en": "Crown Princess, from 1797 Queen of Prussia and Elector of Brandenburg"
+      },
+      {
+        "name": "Friederike Luise Karoline Sophie Charlotte Alexandrine von Mecklenburg-Strelitz",
+        "de": "durch Heirat Prinzessin von Preußen (genannt Prinzessin Louis), dann Prinzessin zu Solms-Braunfels und später Königin von Hannover",
+        "en": "by marriage Princess of Prussia (called Princess Louis), then Princess of Solms-Braunfels and later Queen of Hanover"
+      },
+      {
+        "name": "Sophie Wilhelmine Charlotte Marie von Pannwitz, Gräfin von Voß",
+        "de": "lebte neunundsechzig Jahre am preußischen Hof und war über Jahrzehnte Gesprächspartnerin, Beraterin und Hofdame von Königinnen und Königen",
+        "en": "lived at the Prussian court for sixty-nine years and was an interlocutor, advisor and lady-in-waiting to kings and queens for decades"
+      },
+      {
+        "name": "Friedrich Ludwig Karl von Preußen",
+        "de": "preußischer Prinz, jüngerer Bruder von Friedrich Wilhelm III., erster Ehemann von Friederike von Mecklenburg-Strelitz",
+        "en": "Prussian prince, younger brother of Frederick William III, first husband of Friederike of Mecklenburg-Strelitz"
+      },
+      {
+        "name": "Johann Gottfried Schadow",
+        "de": "preußischer Zeichner und Bildhauer. Zu seinen Hauptwerken gehören u.a. das Grabmal des Grafen Alexander von der Mark (1790), die Quadriga auf dem Brandenburger Tor (1793) und die Prinzessinnengruppe (1797)",
+        "en": "Prussian draughtsman and sculptor. His major works include the tomb of Count Alexander von der Mark (1790), the quadriga on the Brandenburg Gate (1793) and the group of princesses (1797)"
+      },
+      {
+        "name": "Ludwig van Beethoven",
+        "de": "deutscher Komponist der Wiener Klassik. Er gilt als der Komponist, der die Musik dieser Stilepoche zu ihrer höchsten Entwicklung geführt und der Romantik den Weg bereitet hat",
+        "en": "German composer of the Viennese Classical period. He is regarded as the composer who led the music of this stylistic period to its highest development and paved the way for Romanticism"
+      },
+      {
+        "name": "Johann Georg Albrechtsberger",
+        "de": "österreichischer Musiktheoretiker, Komponist und vor allem gelehrter Kontrapunktist",
+        "en": "Austrian music theorist, composer and, above all, learned contrapuntalist"
+      },
+      {
+        "name": "Friedrich Wilhelm, Prinz zu Solms-Braunfels",
+        "de": "preußischer Generalmajor und zweiter Ehemann von Friederike von Mecklenburg-Strelitz",
+        "en": "Prussian major general and second husband of Friederike of Mecklenburg-Strelitz"
+      },
+      {
+        "name": "Louis 'Ferdinand' Friedrich Ludwig Christian von Preußen",
+        "de": "preußischer Prinz aus dem Hause Hohenzollern, Feldherr, Komponist und Pianist, auch genannt der preußische Apoll",
+        "en": "Prussian prince from the House of Hohenzollern, military commander, composer and pianist, also known as the Prussian Apollo"
+      },
+      {
+        "name": "Henriette Julie Herz",
+        "de": "Schriftstellerin und eine der führenden Berliner Salonnièren der Frühromantik",
+        "en": "Writer and one of the leading Berlin salonnières of the early Romantic period"
+      },
+      {
+        "name": "Rahel Varnhagen von Ense",
+        "de": "geb. Levin, angenommener Familienname ab Mitte der 1790er-Jahre Robert bzw. Robert-Tornow, deutsche Schriftstellerin und Salonnière jüdischer Herkunft",
+        "en": "born Levin, assumed surname from the mid-1790s Robert or Robert-Tornow, German writer and salonnière of Jewish origin"
+      },
+      {
+        "name": "Wilhelm von Humboldt",
+        "de": "preußischer Gelehrter, Schriftsteller und Staatsmann",
+        "en": "Prussian scholar, writer and statesman"
+      },
+      {
+        "name": "Alexander von Humboldt",
+        "de": "deutscher Forschungsreisender mit einem weit über Europa hinausreichenden Wirkungsfeld",
+        "en": "German explorer with an impact that extended far beyond Europe"
+      },
+      {
+        "name": "Abraham Mendelssohn Bartholdy",
+        "de": "gehört der deutsch-jüdischen Familie Mendelssohn an",
+        "en": "belongs to the German-Jewish Mendelssohn family"
+      },
+      {
+        "name": "Pauline Wiesel",
+        "de": "Persönlichkeit der Berliner Gesellschaft um 1800, Freundin der Rahel Varnhagen und Lebensgefährtin des Prinzen Louis Ferdinand von Preußen",
+        "en": "Berlin society figure around 1800, friend of Rahel Varnhagen and companion of Prince Louis Ferdinand of Prussia"
+      },
+      {
+        "name": "Frederica Charlotte von Preußen, Duchess of York and Albany",
+        "de": "preußische und britische Prinzessin, älteste Tochter von König Friedrich Wilhelm II. von Preußen, Frau von Prinz Friedrich, Herzog von York und Albany, dem zweiten Sohn von König Georg III. des Vereinigten Königreichs",
+        "en": "Prussian and British princess, eldest daughter of King Frederick William II of Prussia, wife of Prince Frederick, Duke of York and Albany, second son of King George III of the United Kingdom"
+      },
+      {
+        "name": "Robinson",
+        "de": "Beau Brummels langjähriger Diener",
+        "en": "Beau Brummel's longtime servant"
+      },
+      {
+        "name": "Frances Villiers, Countess of Jersey",
+        "de": "Mätresse des Prince of Wales",
+        "en": "Mistress of the Prince of Wales"
+      },
+      {
+        "name": "Frederick James Lamb",
+        "de": "bekannt als Lord Beauvale von 1839 bis 1848, war ein britischer Diplomat und Liebhaber von Harriette Wilson",
+        "en": "known as Lord Beauvale from 1839 to 1848, was a British diplomat and lover of Harriette Wilson"
+      },
+      {
+        "name": "Harriette Wilson",
+        "de": "berühmte britische Regency-Kurtisane, die im Alter von 15 Jahren die Geliebte von Lord Craven wurde",
+        "en": "famous British Regency courtesan who became the mistress of Lord Craven at the age of 15"
+      }
+    ]
+  }
+]

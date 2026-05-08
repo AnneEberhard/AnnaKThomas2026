@@ -1,0 +1,118 @@
+    [
+      {
+        "backgroundId": "elves",
+        "languages": {
+          "de": {
+            "headline": "Stammbäume für Von Elven und Wölfen",
+            "subheader": "Da ich irgendwann anfing, den Überblick zu verlieren, habe ich mir Stammbäume gezeichnet - ich hoffe, sie helfen euch so, wie sie mir geholfen haben.",
+            "images": [
+              {
+                "subheaderImages": "",
+                "imageUrl": "/assets/img/family-tree-martins-lamprechts-de.PNG"
+              },
+              {
+                "subheaderImages": "",
+                "imageUrl": "/assets/img/family-tree-birnbaums-others-de.PNG"
+              }
+            ]
+          },
+          "en": {
+            "headline": "Family Trees for Of Elves and Wolves",
+            "subheader": "As I started to lose track at some point, I drew family trees - I hope they help you as much as they helped me.",
+            "images": [
+              {
+                "subheaderImages": "",
+                "imageUrl": "/assets/img/family-tree-martins-lamprechts-en.PNG"
+              },
+              {
+                "subheaderImages": "",
+                "imageUrl": "/assets/img/family-tree-birnbaums-others-en.PNG"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "backgroundId": "odyssey",
+        "languages": {
+          "de": {
+            "headline": "Staufer/Welfen/Salier/Babenberger",
+            "subheader": "Status 1147",
+            "images": [
+              {
+                "subheaderImages": "",
+                "imageUrl": "/assets/img/family-tree-odyssey-de.PNG"
+              }
+            ]
+          },
+          "en": {
+            "headline": "Staufer/Welfen/Salier/Babenberger",
+            "subheader": "Stand 1147",
+            "images": [
+              {
+                "subheaderImages": "",
+                "imageUrl": "/assets/img/family-tree-odyssey-en.PNG"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "backgroundId": "masks",
+        "languages": {
+          "de": {
+            "headline": "Stammbäume für Die Masken von Florenz",
+            "subheader": "Um den Überblick über die verschachtelten Zweige nicht zu verlieren, legte ich mir diesen Stammbaum an. Ich hoffe, er hilft Euch ebenfalls.",
+            "images": [
+              {
+                "subheaderImages": "Ältere Linie der Medici (Auszüge)",
+                "imageUrl": "/assets/img/family-tree-medici1-de.PNG"
+              },
+              {
+                "subheaderImages": "Jüngere Linie der Medici (Auszüge)",
+                "imageUrl": "/assets/img/family-tree-medici2-de.PNG"
+              }
+            ]
+          },
+          "en": {
+            "headline": "Family Trees for The Masks of Florence",
+            "subheader": "In order not to lose track of the nested branches, I created this family tree. I hope it helps you too.",
+            "images": [
+              {
+                "subheaderImages": "Older line of the Medici (excerpts)",
+                "imageUrl": "/assets/img/family-tree-medici2-en.PNG"
+              },
+              {
+                "subheaderImages": "Younger line of the Medici (excerpts)",
+                "imageUrl": "/assets/img/family-tree-medici2-en.PNG"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "backgroundId": "alster",
+        "languages": {
+          "de": {
+            "headline": "Stammbaum der Familie Achtmann",
+            "subheader": "",
+            "images": [
+              {
+                "subheaderImages": "Status 1838",
+                "imageUrl": "/assets/img/family-tree-achtmanns-de.PNG"
+              }
+            ]
+          },
+          "en": {
+            "headline": "Family Trees of The Achtmanns",
+            "subheader": "",
+            "images": [
+              {
+                "subheaderImages": "Stand 1838",
+                "imageUrl": "/assets/img/family-tree-achtmanns-en.PNG"
+              }
+            ]
+          }
+        }
+      }
+    ]

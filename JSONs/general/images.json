@@ -1,0 +1,144 @@
+[
+    {
+        "id": "demon",
+        "imagesDE": [
+            "assets/img/covers/daemonenritt.jpg",
+            "assets/img/covers/daemonensprung.jpg",
+            "assets/img/covers/daemonentraum.jpg"
+        ],
+        "imagesEN": [
+            "assets/img/covers/demon-ride.jpg",
+            "assets/img/covers/demon-leap.jpg",
+            "assets/img/covers/demon-dream.jpg"
+        ],
+        "linksDE": [],
+        "linksEN": []
+    },
+    {
+        "id": "elves",
+        "imagesDE": [
+            "assets/img/covers/von-elfen-und-woelfen.jpg",
+            "assets/img/covers/hexen-mittendrin-im-mix.jpg",
+            "assets/img/covers/im-namen-der-menschen.jpg"
+        ],
+        "imagesEN": [
+            "assets/img/covers/lucie-new.jpg",
+            "assets/img/covers/lucie-nature.jpg",
+            "assets/img/covers/lucie-loose.jpg",
+            "assets/img/covers/lucie-secret.jpg",
+            "assets/img/covers/bina-curiosity.jpg",
+            "assets/img/covers/bina-curse.jpg",
+            "assets/img/covers/bina-drama.jpg",
+            "assets/img/covers/lena-live.jpg",
+            "assets/img/covers/lena-justice.jpg"
+        ],
+        "linksDE": [],
+        "linksEN": []
+    },
+    {
+        "id": "bards",
+        "imagesDE": [
+            "assets/img/covers/elfenweg.jpg",
+            "assets/img/covers/sumpfzauber.jpg",
+            "assets/img/covers/weltenringen.jpg"
+        ],
+        "imagesEN": [],
+        "linksDE": [],
+        "linksEN": []
+    },
+    {
+        "id": "time",
+        "imagesDE": [
+            "assets/img/covers/kurvenDerZeit.jpg"
+        ],
+        "imagesEN": [
+            "assets/img/covers/timeCurves.jpg"
+        ],
+        "linksDE": [],
+        "linksEN": []
+    },
+    {
+        "id": "odyssey",
+        "imagesDE": [
+            "assets/img/covers/irrfahrt.jpg"
+        ],
+        "imagesEN": [
+            "assets/img/covers/Odyssey.jpg"
+        ],
+        "linksDE": [],
+        "linksEN": []
+    },
+    {
+        "id": "mask",
+        "imagesDE": [
+            "assets/img/covers/die-masken-von-florenz.jpg"
+        ],
+        "imagesEN": [
+            "assets/img/covers/the-masks-of-florence.jpg"
+        ],
+        "linksDE": [],
+        "linksEN": []
+    },
+    {
+        "id": "alster",
+        "imagesDE": [
+            "assets/img/covers/alsterdiamanten.jpg"
+        ],
+        "imagesEN": [
+            "assets/img/covers/alsterdiamonds.jpg"
+        ],
+        "linksDE": [],
+        "linksEN": []
+    },
+    {
+        "id": "mind",
+        "imagesDE": [
+            "assets/img/covers/der-geist-in-brand.jpg"
+        ],
+        "imagesEN": [
+            "assets/img/covers/the-mind-on-fire.jpg"
+        ],
+        "linksDE": [],
+        "linksEN": []
+    },
+    {
+        "id": "count",
+        "imagesDE": [
+            "assets/img/covers/der-diener-des-grafen.jpg"
+        ],
+        "imagesEN": [
+            "assets/img/covers/the-counts-servant.jpg"
+        ],
+        "linksDE": [],
+        "linksEN": []
+    },
+    {
+        "id": "frida",
+        "imagesDE": [ "assets/img/covers/fridaVonHameln.jpg"],
+        "imagesEN": ["assets/img/covers/fridaOfHamelin.jpg"],
+        "linksDE": [],
+        "linksEN": []
+    },
+    {
+        "id": "life",
+        "imagesDE": [
+            "assets/img/covers/lebensabschnitt.jpg"
+        ],
+        "imagesEN": [
+            "assets/img/covers/lifestages.jpg"
+        ],
+        "linksDE": [],
+        "linksEN": []
+    },
+    {
+        "id": "dance",
+        "imagesDE": [
+            "assets/img/covers/tanz-mit-dem-wind.jpg"
+        ],
+        "imagesEN": [
+            "assets/img/covers/dance-the-wind.jpg"
+        ],
+        "linksDE": [],
+        "linksEN": []
+    }
+]

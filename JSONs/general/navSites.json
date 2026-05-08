@@ -1,0 +1,451 @@
+    [
+      {
+        "siteId": "general",
+        "languages": {
+          "de": {
+            "links": [
+              {
+                "text": "Zurück zur Homepage",
+                "url": "/index.html"
+              }
+            ]
+          },
+          "en": {
+            "links": [
+              {
+                "text": "Back to Homepage",
+                "url": "/index.html"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "siteId": "novellas",
+        "languages": {
+          "de": {
+            "links": [
+              {
+                "text": "Zurück zur Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Zur Bonusgeschichte",
+                "url": "/sites-html/booksites/girl-with-gentle-eyes.html"
+              }
+            ]
+          },
+          "en": {
+            "links": [
+              {
+                "text": "Back to Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Bonus story",
+                "url": "/sites-html/booksites/girl-with-gentle-eyes.html"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "siteId": "historical",
+        "languages": {
+          "de": {
+            "links": [
+              {
+                "text": "Zurück zur Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Zurück zu historischen Geschichten",
+                "url": "/historical.html"
+              }
+            ]
+          },
+          "en": {
+            "links": [
+              {
+                "text": "Back to Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Back to Historical Novels",
+                "url": "/historical.html"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "siteId": "masks",
+        "languages": {
+          "de": {
+            "links": [
+              {
+                "text": "Zurück zur Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Zurück zu historischen Geschichten",
+                "url": "/historical.html"
+              },
+              {
+                "text": "Zurück zu Die Masken von Florenz",
+                "url": "/sites-html/booksites/masks-of-florence.html"
+              }
+            ]
+          },
+          "en": {
+            "links": [
+              {
+                "text": "Back to Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Back to Historical Novels",
+                "url": "/historical.html"
+              },
+              {
+                "text": "Zurück zu The Masks of Florence",
+                "url": "/sites-html/booksites/masks-of-florence.html"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "siteId": "alster",
+        "languages": {
+          "de": {
+            "links": [
+              {
+                "text": "Zurück zur Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Zurück zu historischen Geschichten",
+                "url": "/historical.html"
+              },
+              {
+                "text": "Zurück zu Alsterdiamanten",
+                "url": "/sites-html/booksites/alster-diamonds.html"
+              }
+            ]
+          },
+          "en": {
+            "links": [
+              {
+                "text": "Back to Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Back to Historical Novels",
+                "url": "/historical.html"
+              },
+              {
+                "text": "Back to Alster Diamonds",
+                "url": "/sites-html/booksites/alster-diamonds.html"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "siteId": "odyssey",
+        "languages": {
+          "de": {
+            "links": [
+              {
+                "text": "Zurück zur Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Zurück zu historischen Geschichten",
+                "url": "/historical.html"
+              },
+              {
+                "text": "Zurück zu Irrfahrt ins Gelobte Land",
+                "url": "/sites-html/booksites/odyssey.html"
+              }
+            ]
+          },
+          "en": {
+            "links": [
+              {
+                "text": "Back to Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Back to Historical Novels",
+                "url": "/historical.html"
+              },
+              {
+                "text": "Back to Odyssey to the Promised Land",
+                "url": "/sites-html/booksites/odyssey.html"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "siteId": "mind",
+        "languages": {
+          "de": {
+            "links": [
+              {
+                "text": "Zurück zur Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Zurück zu historischen Geschichten",
+                "url": "/historical.html"
+              },
+              {
+                "text": "Zurück zu Der Geist in Brand",
+                "url": "/sites-html/booksites/mind-on-fire.html"
+              }
+            ]
+          },
+          "en": {
+            "links": [
+              {
+                "text": "Back to Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Back to Historical Novels",
+                "url": "/historical.html"
+              },
+              {
+                "text": "Back to The Mind on Fire",
+                "url": "/sites-html/booksites/mind-on-fire.html"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "siteId": "counts",
+        "languages": {
+          "de": {
+            "links": [
+              {
+                "text": "Zurück zur Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Zurück zu historischen Geschichten",
+                "url": "/historical.html"
+              },
+              {
+                "text": "Zurück zu Der Diener des Grafen",
+                "url": "/sites-html/booksites/counts-servant.html"
+              }
+            ]
+          },
+          "en": {
+            "links": [
+              {
+                "text": "Back to Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Back to Historical Novels",
+                "url": "/historical.html"
+              },
+              {
+                "text": "Back to The Count's Servant",
+                "url": "/sites-html/booksites/counts-servant.html"
+              }
+            ]
+          }
+        }
+      },
+       {
+        "siteId": "frida",
+        "languages": {
+          "de": {
+            "links": [
+              {
+                "text": "Zurück zur Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Zurück zu historischen Geschichten",
+                "url": "/historical.html"
+              },
+              {
+                "text": "Zurück zu Frida von Hameln",
+                "url": "/sites-html/booksites/frida.html"
+              }
+            ]
+          },
+          "en": {
+            "links": [
+              {
+                "text": "Back to Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Back to Historical Novels",
+                "url": "/historical.html"
+              },
+              {
+                "text": "Back to Frida of Hamelin",
+                "url": "/sites-html/booksites/frida.html"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "siteId": "children",
+        "languages": {
+          "de": {
+            "links": [
+              {
+                "text": "Zurück zur Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Zurück zu Fantasy",
+                "url": "/fantasy.html"
+              },
+              {
+                "text": "Zurück zu Die Kinder der Engel",
+                "url": "/sites-html/booksites/children-of-angels.html"
+              }
+            ]
+          },
+          "en": {
+            "links": [
+              {
+                "text": "Back to Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Back to Fantasy",
+                "url": "/fantasy.html"
+              },
+              {
+                "text": "Back to The Children of Angels",
+                "url": "/sites-html/booksites/children-of-angels.html"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "siteId": "elves",
+        "languages": {
+          "de": {
+            "links": [
+              {
+                "text": "Zurück zur Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Zurück zu Fantasy",
+                "url": "/fantasy.html"
+              },
+              {
+                "text": "Zurück zu Von Elfen und Wölfen",
+                "url": "/sites-html/booksites/of-elves-and-wolves.html"
+              }
+            ]
+          },
+          "en": {
+            "links": [
+              {
+                "text": "Back to Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Back to Fantasy",
+                "url": "/fantasy.html"
+              },
+              {
+                "text": "Back to The Children of Angels",
+                "url": "/sites-html/booksites/of-elves-and-wolves.html"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "siteId": "bards",
+        "languages": {
+          "de": {
+            "links": [
+              {
+                "text": "Zurück zur Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Zurück zu Fantasy",
+                "url": "/fantasy.html"
+              },
+              {
+                "text": "Zurück zu Die Sänger von Thurán",
+                "url": "/sites-html/booksites/bards-of-thuran.html"
+              }
+            ]
+          },
+          "en": {
+            "links": [
+              {
+                "text": "Back to Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Back to Fantasy",
+                "url": "/fantasy.html"
+              },
+              {
+                "text": "Back to The Bards of Thurán",
+                "url": "/sites-html/booksites/bards-of-thuran.html"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "siteId": "time",
+        "languages": {
+          "de": {
+            "links": [
+              {
+                "text": "Zurück zur Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Zurück zu Fantasy",
+                "url": "/fantasy.html"
+              },
+              {
+                "text": "Zurück zu Kurven der Zeit",
+                "url": "/sites-html/booksites/time-curves.html"
+              }
+            ]
+          },
+          "en": {
+            "links": [
+              {
+                "text": "Back to Homepage",
+                "url": "/index.html"
+              },
+              {
+                "text": "Back to Fantasy",
+                "url": "/fantasy.html"
+              },
+              {
+                "text": "Back to Time Curves",
+                "url": "/sites-html/booksites/time-curves.html"
+              }
+            ]
+          }
+        }
+      }
+    ]
