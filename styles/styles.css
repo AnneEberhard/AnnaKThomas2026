@@ -224,7 +224,7 @@ tr:last-child {
 
 /*sidebar*/
 #sidebar {
-  width: 30%;
+  width: 20%;
     max-width: 250px;
     min-width: 180px;
 }
@@ -239,7 +239,7 @@ tr:last-child {
   gap: 8px
 }
 .sideImage {
-    width: calc(33% - 20px);
+    width: calc(50% - 20px);
     height: auto;
     margin: 4px;
 }
@@ -248,6 +248,25 @@ tr:last-child {
   flex-wrap: wrap;
   display: flex;
   gap: 4px;
+}
+
+/*table hide*/
+.table-box {
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: .5rem;
+}
+
+.table-box summary {
+  cursor: pointer;
+  font-weight: bold;
+  padding: .5rem;
+}
+
+.table-wrapper {
+  margin-top: 1rem;
+  overflow-x: auto;
 }
 
 /*scroll*/

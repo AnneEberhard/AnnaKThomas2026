@@ -240,6 +240,7 @@ function generateSectionExtern(section) {
  * @param {boolean} seriesExists - depending on whether it is more than one book
  */
 function renderBookSite(genre, id, seriesExists) {
+  console.log(genre, id, seriesExists);
   currentGenre = genre;
   if (seriesExists == true) {
     data = collectBooksOfSeries(genre, id);
@@ -259,6 +260,7 @@ function renderBookSite(genre, id, seriesExists) {
   }
   renderBookSiteTop(id, `${id}Top`);
   renderNav(id, `${id}Nav`);
+  renderBackground(genre, id)
 }
 
 /**

@@ -8,41 +8,45 @@
         "paragraphs": [
           "Dies ist mein Erstlingswerk, der Grund, weshalb ich mich überhaupt jemals dazu durchringen konnte, eine meiner Geschichten loszulassen. Es hat sicher eine Menge Erstlingsfehler - aber willkommen in der Welt von Thurán!",
           "Und weil ich so lange daran geschrieben habe, so viel damit zu tun hatte, gibt es hier ein paar kleine Extras und ein bisschen was zum Nachschlagen. Darunter ist die Geschichte, wie es überhaupt dazu kam, sowie auch vier Kapitel, von denen es eines nie in die Bücher schaffte und drei, die den Kürzungen von Elfenweg und Weltenringen am Ende zum Opfer fielen.",
-          "Hinweis: Die meisten Unterseiten sind derzeit nur auf deutsch verfügbar."
+          "Hinweis: Die meisten Infos sind derzeit nur auf deutsch verfügbar."
         ],
         "links": [
           {
+            "text": "Die Bücher",
+            "url": "#bardsBottom"
+          },
+          {
             "text": "HintergrundInfo",
-            "url": "/sites-html/subsitesBards/bards-background.html"
-          },
-          {
-            "text": "Bonuskapitel Elfenweg",
-            "url": "/sites-html/subsitesThuran/bonus-elven-way.html"
-          },
-          {
-            "text": "Bonuskapitel Elfenweg - Sumpfzauber",
-            "url": "/sites-html/subsitesThuran/bonus-elven-swamp.html"
-          },
-          {
-            "text": "Bonuskapitel Weltenringen: Irionne und Niturio",
-            "url": "/sites-html/subsitesThuran/bonus-world-irionne.html"
-          },
-          {
-            "text": "Bonuskapitel Bonuskapitel Weltenringen: Syl und Nycas",
-            "url": "/sites-html/subsitesThuran/bonus-world-syl.html"
+            "url": "#bardsBackground"
           },
           {
             "text": "Karten",
-            "url": "/sites-html/subsitesThuran/thuran-maps.html"
+            "url": "#bardsMaps"
           },
-          {
-            "text": "Personenverzeichnis",
-            "url": "/sites-html/subsitesThuran/thuran-persons.html"
-          },
-          {
+           {
             "text": "Begriffsverzeichnis",
-            "url": "/sites-html/subsitesThuran/thuran-glossary.html"
+            "url": "#bardsGlossary"
+          },{
+            "text": "Personenverzeichnis",
+            "url": "#bardsPersons"
+          },
+          {
+            "text": "Bonuskapitel Elfenweg",
+            "url": "/bonusSitesBards/bonus-elven-way.html"
+          },
+          {
+            "text": "Bonuskapitel Elfenweg - Sumpfzauber",
+            "url": "/bonusSitesBards/bonus-elven-swamp.html"
+          },
+          {
+            "text": "Bonuskapitel Weltenringen: Irionne und Niturio",
+            "url": "/bonusSitesBards/bonus-world-irionne.html"
+          },
+          {
+            "text": "Bonuskapitel Bonuskapitel Weltenringen: Syl und Nycas",
+            "url": "/bonusSitesBards/bonus-world-syl.html"
           }
+         
         ]
       },
       "en": {
@@ -50,12 +54,27 @@
         "paragraphs": [
           "This is my debut work, the reason I could ever bring myself to release one of my stories in the first place. It certainly has a lot of rookie mistakes - but welcome to the world of Thurán!",
           "And because I spent so long writing it and had so much to do with it, here are a few extras and a few things for reference. These include the story of how it came about in the first place, as well as four chapters, one of which never made it into the books and three that fell victim to the shortening of Elfenweg and Weltenringen at the last edit.",
-          "Note: Most of the subpages are currently only available in German."
+          "Note: Most of the info are currently only available in German."
         ],
         "links": [
           {
+            "text": "The books",
+            "url": "#bardsBottom"
+          },{
             "text": "Background info",
-            "url": "/sites-html/subsitesBards/bards-background.html"
+            "url": "#bardsBackground"
+          },
+          {
+            "text": "Maps",
+            "url": "#bardsMaps"
+          }, 
+          {
+            "text": "Glossary",
+            "url": "#bardsGlossary"
+          },
+          {
+            "text": "Personage",
+            "url": "#bardsPersons"
           },
           {
             "text": "Bonus chapter Elven Way",
@@ -72,18 +91,6 @@
           {
             "text": "Bonus chapter World Struggle - Syl and Nycas",
             "url": "/sites-html/subsitesThuran/bonus-world-syl.html"
-          },
-          {
-            "text": "Maps",
-            "url": "/sites-html/subsitesThuran/thuran-maps.html"
-          },
-          {
-            "text": "Personage",
-            "url": "/sites-html/subsitesThuran/thuran-persons.html"
-          },
-          {
-            "text": "Glossary",
-            "url": "/sites-html/subsitesThuran/thuran-glossary.html"
           }
         ]
       }

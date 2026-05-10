@@ -50,35 +50,6 @@
         }
       },
       {
-        "siteId": "historical",
-        "languages": {
-          "de": {
-            "links": [
-              {
-                "text": "Zurück zur Homepage",
-                "url": "/index.html"
-              },
-              {
-                "text": "Zurück zu historischen Geschichten",
-                "url": "/historical.html"
-              }
-            ]
-          },
-          "en": {
-            "links": [
-              {
-                "text": "Back to Homepage",
-                "url": "/index.html"
-              },
-              {
-                "text": "Back to Historical Novels",
-                "url": "/historical.html"
-              }
-            ]
-          }
-        }
-      },
-      {
         "siteId": "masks",
         "languages": {
           "de": {
@@ -86,10 +57,6 @@
               {
                 "text": "Zurück zur Homepage",
                 "url": "/index.html"
-              },
-              {
-                "text": "Zurück zu historischen Geschichten",
-                "url": "/historical.html"
               },
               {
                 "text": "Zurück zu Die Masken von Florenz",
@@ -102,10 +69,6 @@
               {
                 "text": "Back to Homepage",
                 "url": "/index.html"
-              },
-              {
-                "text": "Back to Historical Novels",
-                "url": "/historical.html"
               },
               {
                 "text": "Zurück zu The Masks of Florence",
@@ -125,10 +88,6 @@
                 "url": "/index.html"
               },
               {
-                "text": "Zurück zu historischen Geschichten",
-                "url": "/historical.html"
-              },
-              {
                 "text": "Zurück zu Alsterdiamanten",
                 "url": "/booksites/alster-diamonds.html"
               }
@@ -139,10 +98,6 @@
               {
                 "text": "Back to Homepage",
                 "url": "/index.html"
-              },
-              {
-                "text": "Back to Historical Novels",
-                "url": "/historical.html"
               },
               {
                 "text": "Back to Alster Diamonds",
@@ -162,10 +117,6 @@
                 "url": "/index.html"
               },
               {
-                "text": "Zurück zu historischen Geschichten",
-                "url": "/historical.html"
-              },
-              {
                 "text": "Zurück zu Irrfahrt ins Gelobte Land",
                 "url": "/booksites/odyssey.html"
               }
@@ -176,10 +127,6 @@
               {
                 "text": "Back to Homepage",
                 "url": "/index.html"
-              },
-              {
-                "text": "Back to Historical Novels",
-                "url": "/historical.html"
               },
               {
                 "text": "Back to Odyssey to the Promised Land",
@@ -199,10 +146,6 @@
                 "url": "/index.html"
               },
               {
-                "text": "Zurück zu historischen Geschichten",
-                "url": "/historical.html"
-              },
-              {
                 "text": "Zurück zu Der Geist in Brand",
                 "url": "/booksites/mind-on-fire.html"
               }
@@ -213,10 +156,6 @@
               {
                 "text": "Back to Homepage",
                 "url": "/index.html"
-              },
-              {
-                "text": "Back to Historical Novels",
-                "url": "/historical.html"
               },
               {
                 "text": "Back to The Mind on Fire",
@@ -236,10 +175,6 @@
                 "url": "/index.html"
               },
               {
-                "text": "Zurück zu historischen Geschichten",
-                "url": "/historical.html"
-              },
-              {
                 "text": "Zurück zu Der Diener des Grafen",
                 "url": "/booksites/counts-servant.html"
               }
@@ -252,10 +187,6 @@
                 "url": "/index.html"
               },
               {
-                "text": "Back to Historical Novels",
-                "url": "/historical.html"
-              },
-              {
                 "text": "Back to The Count's Servant",
                 "url": "/booksites/counts-servant.html"
               }
@@ -263,7 +194,7 @@
           }
         }
       },
-       {
+      {
         "siteId": "frida",
         "languages": {
           "de": {
@@ -271,10 +202,6 @@
               {
                 "text": "Zurück zur Homepage",
                 "url": "/index.html"
-              },
-              {
-                "text": "Zurück zu historischen Geschichten",
-                "url": "/historical.html"
               },
               {
                 "text": "Zurück zu Frida von Hameln",
@@ -287,10 +214,6 @@
               {
                 "text": "Back to Homepage",
                 "url": "/index.html"
-              },
-              {
-                "text": "Back to Historical Novels",
-                "url": "/historical.html"
               },
               {
                 "text": "Back to Frida of Hamelin",
@@ -310,10 +233,6 @@
                 "url": "/index.html"
               },
               {
-                "text": "Zurück zu Fantasy",
-                "url": "/fantasy.html"
-              },
-              {
                 "text": "Zurück zu Die Kinder der Engel",
                 "url": "/booksites/children-of-angels.html"
               }
@@ -324,10 +243,6 @@
               {
                 "text": "Back to Homepage",
                 "url": "/index.html"
-              },
-              {
-                "text": "Back to Fantasy",
-                "url": "/fantasy.html"
               },
               {
                 "text": "Back to The Children of Angels",
@@ -347,10 +262,6 @@
                 "url": "/index.html"
               },
               {
-                "text": "Zurück zu Fantasy",
-                "url": "/fantasy.html"
-              },
-              {
                 "text": "Zurück zu Von Elfen und Wölfen",
                 "url": "/booksites/of-elves-and-wolves.html"
               }
@@ -361,10 +272,6 @@
               {
                 "text": "Back to Homepage",
                 "url": "/index.html"
-              },
-              {
-                "text": "Back to Fantasy",
-                "url": "/fantasy.html"
               },
               {
                 "text": "Back to The Children of Angels",
@@ -384,10 +291,6 @@
                 "url": "/index.html"
               },
               {
-                "text": "Zurück zu Fantasy",
-                "url": "/fantasy.html"
-              },
-              {
                 "text": "Zurück zu Die Sänger von Thurán",
                 "url": "/booksites/bards-of-thuran.html"
               }
@@ -398,10 +301,6 @@
               {
                 "text": "Back to Homepage",
                 "url": "/index.html"
-              },
-              {
-                "text": "Back to Fantasy",
-                "url": "/fantasy.html"
               },
               {
                 "text": "Back to The Bards of Thurán",
@@ -421,10 +320,6 @@
                 "url": "/index.html"
               },
               {
-                "text": "Zurück zu Fantasy",
-                "url": "/fantasy.html"
-              },
-              {
                 "text": "Zurück zu Kurven der Zeit",
                 "url": "/booksites/time-curves.html"
               }
@@ -435,10 +330,6 @@
               {
                 "text": "Back to Homepage",
                 "url": "/index.html"
-              },
-              {
-                "text": "Back to Fantasy",
-                "url": "/fantasy.html"
               },
               {
                 "text": "Back to Time Curves",

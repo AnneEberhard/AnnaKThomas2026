@@ -5,6 +5,7 @@
  * upper part is rendered via renderMainSite
  */
 function renderHomePage() {
+  
   renderMainSite("home");
   renderHomeOverview();
   renderAboutMe("about");
@@ -288,7 +289,7 @@ function generatePersonTableTemplate(siteId, personGroup) {
 function renderBackground(genre, bookId) {
   currentGenre = genre;
   renderBackgroundContent(bookId);
-  renderNav(bookId, `${bookId}BackgroundNav`);
+  //renderNav(bookId, `${bookId}BackgroundNav`);
 }
 
 /**
@@ -297,6 +298,7 @@ function renderBackground(genre, bookId) {
  */
 async function renderBackgroundContent(bookId) {
   let divId = bookId + "BackgroundTop";
+  console.log(divId);
   let topDiv = document.getElementById(divId);
   topDiv.innerHTML = "";
   topDiv.innerHTML = await generateBackgroundContent(bookId);
