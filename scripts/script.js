@@ -7,7 +7,7 @@
  * @returns {object} respective data
  */
 async function findDataById(reference, id) {
-  data = await fetchJSON(`/JSONs/${reference}/${reference}-${id}.json`);
+  data = await fetchJSON(`/JSONs/${reference}/${id}-${reference}.json`);
   return data;
 }
 
@@ -259,8 +259,10 @@ function renderBookSite(genre, id, seriesExists) {
     renderBookDetails(data, `${id}Bottom`);
   }
   renderBookSiteTop(id, `${id}Top`);
-  renderNav(id, `${id}Nav`);
-  renderBackground(genre, id)
+ // renderNav(id, `${id}Nav`);
+  renderBackground(genre, id);
+  renderPersonage(id);
+  renderSourcesSite(id)
 }
 
 /**

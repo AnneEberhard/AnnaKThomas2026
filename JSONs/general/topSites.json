@@ -23,30 +23,30 @@
             "text": "Karten",
             "url": "#bardsMaps"
           },
-           {
+          {
             "text": "Begriffsverzeichnis",
             "url": "#bardsGlossary"
-          },{
+          },
+          {
             "text": "Personenverzeichnis",
             "url": "#bardsPersons"
           },
           {
             "text": "Bonuskapitel Elfenweg",
-            "url": "/bonusSitesBards/bonus-elven-way.html"
+            "url": "/bonus-chapters/bonus-elven-way.html"
           },
           {
             "text": "Bonuskapitel Elfenweg - Sumpfzauber",
-            "url": "/bonusSitesBards/bonus-elven-swamp.html"
+            "url": "/bonus-chapters/bonus-elven-swamp.html"
           },
           {
             "text": "Bonuskapitel Weltenringen: Irionne und Niturio",
-            "url": "/bonusSitesBards/bonus-world-irionne.html"
+            "url": "/bonus-chapters/bonus-world-irionne.html"
           },
           {
             "text": "Bonuskapitel Bonuskapitel Weltenringen: Syl und Nycas",
-            "url": "/bonusSitesBards/bonus-world-syl.html"
+            "url": "/bonus-chapters/bonus-world-syl.html"
           }
-         
         ]
       },
       "en": {
@@ -60,14 +60,15 @@
           {
             "text": "The books",
             "url": "#bardsBottom"
-          },{
+          },
+          {
             "text": "Background info",
             "url": "#bardsBackground"
           },
           {
             "text": "Maps",
             "url": "#bardsMaps"
-          }, 
+          },
           {
             "text": "Glossary",
             "url": "#bardsGlossary"
@@ -78,19 +79,19 @@
           },
           {
             "text": "Bonus chapter Elven Way",
-            "url": "/sites-html/subsitesThuran/bonus-elven-way.html"
+            "url": "/bonus-chapters/bonus-elven-way.html"
           },
           {
             "text": "Bonus chapter Eleven Way - Swamp Magic",
-            "url": "/sites-html/subsitesThuran/bonus-elven-swamp.html"
+            "url": "/bonus-chapters/bonus-elven-swamp.html"
           },
           {
             "text": "Bonus chapter World Struggle - Irionne and Niturio",
-            "url": "/sites-html/subsitesThuran/bonus-world-irionne.html"
+            "url": "/bonus-chapters/bonus-world-irionne.html"
           },
           {
             "text": "Bonus chapter World Struggle - Syl and Nycas",
-            "url": "/sites-html/subsitesThuran/bonus-world-syl.html"
+            "url": "/bonus-chapters/bonus-world-syl.html"
           }
         ]
       }
@@ -107,20 +108,24 @@
         ],
         "links": [
           {
-            "text": "HintergrundInfo",
-            "url": "/sites-html/subsitesChildren/children-background.html"
+            "text": "Die Bücher",
+            "url": "#childrenBooks"
           },
           {
-            "text": "Bonuskapitel",
-            "url": "/sites-html/subsitesChildren/children-bonus.html"
+            "text": "HintergrundInfo",
+            "url": "#childrenBackground"
           },
           {
             "text": "Personenverzeichnis",
-            "url": "/sites-html/subsitesChildren/children-persons.html"
+            "url": "#childrenPersons"
           },
           {
             "text": "Quellen",
-            "url": "/sites-html/subsitesChildren/children-sources.html"
+            "url": "#childrenSources"
+          },
+          {
+            "text": "Bonuskapitel",
+            "url": "/bonus-chapters/children-bonus.html"
           }
         ]
       },
@@ -131,20 +136,24 @@
         ],
         "links": [
           {
-            "text": "Background info",
-            "url": "/sites-html/subsitesChildren/children-background.html"
+            "text": "The books",
+            "url": "#childrenBooks"
           },
           {
-            "text": "Bonus chapter",
-            "url": "/sites-html/subsitesChildren/children-bonus.html"
+            "text": "Background info",
+            "url": "#childrenBackground"
           },
           {
             "text": "Personage",
-            "url": "/sites-html/subsitesChildren/children-persons.html"
+            "url": "#childrenPersons"
           },
           {
             "text": "Sources",
-            "url": "/sites-html/subsitesChildren/children-sources.html"
+            "url": "#childrenSources"
+          },
+          {
+            "text": "Bonus chapter",
+            "url": "/bonus-chapters/children-bonus.html"
           }
         ]
       }
@@ -161,25 +170,29 @@
           "Wenn das Leben um einen herum zusammenbricht, muss man sich manchmal einfach in einer guten Geschichte verlieren - und genau das ist Von Elfen und Wölfen für mich."
         ],
         "links": [
+           {
+            "text": "Die Bücher",
+            "url": "#elvesBooks"
+          },
           {
             "text": "HintergrundInfo",
-            "url": "/sites-html/subsitesElves/elves-background.html"
-          },
-          {
-            "text": "Bonuskapitel Von Elfen und Wölfen: Noel",
-            "url": "/sites-html/subsitesElves/elves-bonus-noel.html"
-          },
-          {
-            "text": "Bonuskapitel Im Namen der Menschen: Diana",
-            "url": "/sites-html/subsitesElves/elves-bonus-diana.html"
+            "url": "#elvesBackground"
           },
           {
             "text": "Personenverzeichnis",
-            "url": "/sites-html/subsitesElves/elves-persons.html"
+            "url": "#elvesPersons"
           },
           {
             "text": "Stammbäume",
-            "url": "/sites-html/subsitesElves/elves-familytrees.html"
+            "url": "#elvesTree"
+          },
+          {
+            "text": "Bonuskapitel Von Elfen und Wölfen: Noel",
+            "url": "/bonus-chapters/elves-bonus-noel.html"
+          },
+          {
+            "text": "Bonuskapitel Im Namen der Menschen: Diana",
+            "url": "/bonus-chapters/elves-bonus-diana.html"
           }
         ]
       },
@@ -191,24 +204,28 @@
         ],
         "links": [
           {
+            "text": "The books",
+            "url": "#elvesBooks"
+          },
+          {
             "text": "Background info",
-            "url": "/sites-html/subsitesElves/elves-background.html"
-          },
-          {
-            "text": "Bonus chapter - Lucie arc: Noel",
-            "url": "/sites-html/subsitesElves/elves-bonus-Noel.html"
-          },
-          {
-            "text": "Bonus chapter - Lena arc: Diana",
-            "url": "/sites-html/subsitesElves/elves-bonus-diana.html"
+            "url": "#elvesBackground"
           },
           {
             "text": "Personage",
-            "url": "/sites-html/subsitesElves/elves-persons.html"
+            "url": "#elvesPersons"
           },
           {
             "text": "Family Trees",
-            "url": "/sites-html/subsitesElves/elves-familytrees.html"
+            "url": "#elvesTree"
+          },
+          {
+            "text": "Bonus chapter - Lucie arc: Noel",
+            "url": "/bonus-chapters/elves-bonus-Noel.html"
+          },
+          {
+            "text": "Bonus chapter - Lena arc: Diana",
+            "url": "/bonus-chapters/elves-bonus-diana.html"
           }
         ]
       }
@@ -225,28 +242,32 @@
         ],
         "links": [
           {
-            "text": "HintergrundInfo",
-            "url": "/sites-html/subsitesOdyssey/odyssey-background.html"
+            "text": "Das Buch",
+            "url": "#odysseyBooks"
           },
           {
-            "text": "Bonuskapitel",
-            "url": "/sites-html/subsitesOdyssey/odyssey-bonus.html"
+            "text": "HintergrundInfo",
+            "url": "#odyssseyBackground"
           },
           {
             "text": "Personenverzeichnis",
-            "url": "/sites-html/subsitesOdyssey/odyssey-persons.html"
-          },
-          {
-            "text": "Zeittafel",
-            "url": "/sites-html/subsitesOdyssey/odyssey-timeline.html"
-          },
-          {
-            "text": "Stammbäume der Staufer und Welfen",
-            "url": "/sites-html/subsitesOdyssey/odyssey-familytrees.html"
+            "url": "#odyssseyPersons"
           },
           {
             "text": "Begriffe und Quellen",
-            "url": "/sites-html/subsitesOdyssey/odyssey-sources.html"
+            "url": "#odyssseyGlossary"
+          },
+          {
+            "text": "Zeittafel",
+            "url": "#odyssseyTime"
+          },
+          {
+            "text": "Stammbäume der Staufer und Welfen",
+            "url": "#odyssseyTree"
+          },
+          {
+            "text": "Bonuskapitel",
+            "url": "/bonus-chapters/odyssey-bonus.html"
           }
         ]
       },
@@ -257,28 +278,32 @@
         ],
         "links": [
           {
-            "text": "Background info",
-            "url": "/sites-html/subsitesOdyssey/odyssey-background.html"
+            "text": "The book",
+            "url": "#odysseyBooks"
           },
           {
-            "text": "Bonus chapter",
-            "url": "/sites-html/subsitesOdyssey/odyssey-bonus.html"
+            "text": "Background info",
+            "url": "#odyssseyBackground"
           },
           {
             "text": "Personage",
-            "url": "/sites-html/subsitesOdyssey/odyssey-persons.html"
-          },
-          {
-            "text": "Timeline",
-            "url": "/sites-html/subsitesOdyssey/odyssey-timeline.html"
-          },
-          {
-            "text": "Family trees of Staufer and Welfen",
-            "url": "/sites-html/subsitesOdyssey/odyssey-familytrees.html"
+            "url": "#odyssseyPersons"
           },
           {
             "text": "Glossary and Sources",
-            "url": "/sites-html/subsitesOdyssey/odyssey-sources.html"
+            "url": "#odyssseyGlossary"
+          },
+          {
+            "text": "Timeline",
+            "url": "#odyssseyTime"
+          },
+          {
+            "text": "Family trees of Staufer and Welfen",
+            "url": "#odyssseyTree"
+          },
+          {
+            "text": "Bonus chapter",
+            "url": "/bonus-chapters/odyssey-bonus.html"
           }
         ]
       }
@@ -295,28 +320,32 @@
         ],
         "links": [
           {
-            "text": "HintergrundInfo",
-            "url": "/sites-html/subsitesMasks/masks-background.html"
+            "text": "Das Buch",
+            "url": "#masksBooks"
           },
           {
-            "text": "Bonuskapitel",
-            "url": "/sites-html/subsitesMasks/masks-bonus.html"
+            "text": "HintergrundInfo",
+            "url": "#masksBackground"
           },
           {
             "text": "Personenverzeichnis",
-            "url": "/sites-html/subsitesMasks/masks-persons.html"
-          },
-          {
-            "text": "Zeittafel",
-            "url": "/sites-html/subsitesMasks/masks-timeline.html"
-          },
-          {
-            "text": "Stammbaum der Medici",
-            "url": "/sites-html/subsitesMasks/masks-familytrees.html"
+            "url": "masksPersons"
           },
           {
             "text": "Begriffe und Quellen",
-            "url": "/sites-html/subsitesMasks/masks-sources.html"
+            "url": "#masksSources"
+          },
+          {
+            "text": "Zeittafel",
+            "url": "masksTime"
+          },
+          {
+            "text": "Stammbaum der Medici",
+            "url": "#masksTree"
+          },
+          {
+            "text": "Bonuskapitel",
+            "url": "/bonus-chapters/masks-bonus.html"
           }
         ]
       },
@@ -327,28 +356,32 @@
         ],
         "links": [
           {
-            "text": "Background info",
-            "url": "/sites-html/subsitesMasks/masks-background.html"
+            "text": "The book",
+            "url": "#masksBooks"
           },
           {
-            "text": "Bonus chapter",
-            "url": "/sites-html/subsitesMasks/masks-bonus.html"
+            "text": "Background info",
+            "url": "#masksBackground"
           },
           {
             "text": "Personage",
-            "url": "/sites-html/subsitesMasks/masks-persons.html"
-          },
-          {
-            "text": "Timeline",
-            "url": "/sites-html/subsitesMasks/masks-timeline.html"
-          },
-          {
-            "text": "Family trees of the Medici",
-            "url": "/sites-html/subsitesMasks/masks-familytrees.html"
+            "url": "masksPersons"
           },
           {
             "text": "Glossary and Sources",
-            "url": "/sites-html/subsitesMasks/masks-sources.html"
+            "url": "#masksSources"
+          },
+          {
+            "text": "Timeline",
+            "url": "masksTime"
+          },
+          {
+            "text": "Family trees of the Medici",
+            "url": "#masksTree"
+          },
+          {
+            "text": "Bonus chapter",
+            "url": "/bonus-chapters/masks-bonus.html"
           }
         ]
       }
@@ -365,20 +398,24 @@
         ],
         "links": [
           {
+            "text": "Das Buch",
+            "url": "#alsterBooks"
+          },
+          {
             "text": "HintergrundInfo",
-            "url": "/sites-html/subsitesAlster/alster-background.html"
+            "url": "#alsterBackground"
           },
           {
             "text": "Personenverzeichnis",
-            "url": "/sites-html/subsitesAlster/alster-persons.html"
+            "url": "#alsterPersons"
           },
           {
             "text": "Stammbaum",
-            "url": "/sites-html/subsitesAlster/alster-familytrees.html"
+            "url": "#alsterTree"
           },
           {
             "text": "Quellen und Links zu den Karten",
-            "url": "/sites-html/subsitesAlster/alster-sources.html"
+            "url": "#alsterSources"
           }
         ]
       },
@@ -389,20 +426,24 @@
         ],
         "links": [
           {
+            "text": "The book",
+            "url": "#alsterBooks"
+          },
+          {
             "text": "Background info",
-            "url": "/sites-html/subsitesAlster/alster-background.html"
+            "url": "#alsterBackground"
           },
           {
             "text": "Personage",
-            "url": "/sites-html/subsitesAlster/alster-persons.html"
+            "url": "#alsterPersons"
           },
           {
             "text": "Family Tree",
-            "url": "/sites-html/subsitesAlster/alster-familytrees.html"
+            "url": "#alsterTree"
           },
           {
             "text": "Quellen und Links zu den Karten",
-            "url": "/sites-html/subsitesAlster/alster-sources.html"
+            "url": "#alsterSources"
           }
         ]
       }
@@ -419,28 +460,32 @@
         ],
         "links": [
           {
+            "text": "Das Buch",
+            "url": "#mindBooks"
+          },
+          {
             "text": "HintergrundInfo",
-            "url": "/sites-html/subsitesMind/mind-background.html"
-          },
-          {
-            "text": "Bonuskapitel I: Prolog der geplatzten Flucht von Henri und Ella",
-            "url": "/sites-html/subsitesMind/mind-bonus-henri.html"
-          },
-          {
-            "text": "Bonuskapitel II: Der Salon des Dr. Curtius (Madame Tussaud)",
-            "url": "/sites-html/subsitesMind/mind-bonus-curtius.html"
-          },
-          {
-            "text": "Bonuskapitel III: Danton erklärt Niklas die Generalstände",
-            "url": "/sites-html/subsitesMind/mind-bonus-danton.html"
+            "url": "#mindBackground"
           },
           {
             "text": "Personenverzeichnis",
-            "url": "/sites-html/subsitesMind/mind-persons.html"
+            "url": "#mindPersons"
           },
           {
             "text": "Quellen",
-            "url": "/sites-html/subsitesMind/mind-sources.html"
+            "url": "#mindSources"
+          },
+          {
+            "text": "Bonuskapitel I: Prolog der geplatzten Flucht von Henri und Ella",
+            "url": "/bonus-chapters/mind-bonus-henri.html"
+          },
+          {
+            "text": "Bonuskapitel II: Der Salon des Dr. Curtius (Madame Tussaud)",
+            "url": "/bonus-chapters/mind-bonus-curtius.html"
+          },
+          {
+            "text": "Bonuskapitel III: Danton erklärt Niklas die Generalstände",
+            "url": "/bonus-chapters/mind-bonus-danton.html"
           }
         ]
       },
@@ -451,28 +496,32 @@
         ],
         "links": [
           {
+            "text": "The book",
+            "url": "#mindBooks"
+          },
+          {
             "text": "Background info",
-            "url": "/sites-html/subsitesMind/mind-background.html"
-          },
-          {
-            "text": "Bonus Chapter I: Prologue to Henri and Ella's failed escape",
-            "url": "/sites-html/subsitesMind/mind-bonus-henri.html"
-          },
-          {
-            "text": "Bonus chapter II: Time for learning - the salon of Dr. Curtius",
-            "url": "/sites-html/subsitesMind/mind-bonus-curtius.html"
-          },
-          {
-            "text": "Bonus Chapter III: Danton explains the Estates General to Niklas ",
-            "url": "/sites-html/subsitesMind/mind-bonus-danton.html"
+            "url": "#mindBackground"
           },
           {
             "text": "Personage",
-            "url": "/sites-html/subsitesMind/mind-persons.html"
+            "url": "#mindPersons"
           },
           {
             "text": "Sources",
-            "url": "/sites-html/subsitesMind/mind-sources.html"
+            "url": "#mindSources"
+          },
+          {
+            "text": "Bonus Chapter I: Prologue to Henri and Ella's failed escape",
+            "url": "/bonus-chapters/mind-bonus-henri.html"
+          },
+          {
+            "text": "Bonus chapter II: Time for learning - the salon of Dr. Curtius",
+            "url": "/bonus-chapters/mind-bonus-curtius.html"
+          },
+          {
+            "text": "Bonus Chapter III: Danton explains the Estates General to Niklas ",
+            "url": "/bonus-chapters/mind-bonus-danton.html"
           }
         ]
       }
@@ -489,24 +538,28 @@
         ],
         "links": [
           {
+            "text": "Das Buch",
+            "url": "#countsBooks"
+          },
+          {
             "text": "HintergrundInfo",
-            "url": "/sites-html/subsitesCounts/counts-background.html"
-          },
-          {
-            "text": "Bonuskapitel I: Das gestrichene Kapitel 2 - Wie Gabriel gefunden wurde",
-            "url": "/sites-html/subsitesCounts/counts-bonus-chapter2.html"
-          },
-          {
-            "text": "Bonuskapitel II: Rom - Hagen kommt zu Winsterburg und trifft auf Gabriel",
-            "url": "/sites-html/subsitesCounts/counts-bonus-rome.html"
+            "url": "countBackground"
           },
           {
             "text": "Personenverzeichnis",
-            "url": "/sites-html/subsitesCounts/counts-persons.html"
+            "url": "#countPersons"
           },
           {
             "text": "Titel, Quellen und Links zu Karten",
-            "url": "/sites-html/subsitesCounts/counts-sources.html"
+            "url": "#countSources"
+          },
+          {
+            "text": "Bonuskapitel I: Das gestrichene Kapitel 2 - Wie Gabriel gefunden wurde",
+            "url": "/bonus-chapters/counts-bonus-chapter2.html"
+          },
+          {
+            "text": "Bonuskapitel II: Rom - Hagen kommt zu Winsterburg und trifft auf Gabriel",
+            "url": "/bonus-chapters/counts-bonus-rome.html"
           }
         ]
       },
@@ -517,24 +570,28 @@
         ],
         "links": [
           {
+            "text": "The book",
+            "url": "#countsBooks"
+          },
+          {
             "text": "Background info",
-            "url": "/sites-html/subsitesCounts/counts-background.html"
-          },
-          {
-            "text": "Bonus Chapter I: The deleted chapter 2 - How Gabriel was found",
-            "url": "/sites-html/subsitesCounts/counts-bonus-henri.html"
-          },
-          {
-            "text": "Bonus chapter II: Rome - Hagen comes to Winsterburg and meets Gabriel",
-            "url": "/sites-html/subsitesCounts/counts-bonus-curtius.html"
+            "url": "countBackground"
           },
           {
             "text": "Personage",
-            "url": "/sites-html/subsitesCounts/counts-persons.html"
+            "url": "#countPersons"
           },
           {
             "text": "Titles, Sources and Links to Maps",
-            "url": "/sites-html/subsitesCounts/counts-sources.html"
+            "url": "#countSources"
+          },
+          {
+            "text": "Bonus Chapter I: The deleted chapter 2 - How Gabriel was found",
+            "url": "/bonus-chapters/counts-bonus-henri.html"
+          },
+          {
+            "text": "Bonus chapter II: Rome - Hagen comes to Winsterburg and meets Gabriel",
+            "url": "/bonus-chapters/counts-bonus-curtius.html"
           }
         ]
       }
@@ -548,19 +605,23 @@
         "title": "Kurven der Zeit - Die Reise von Jules und Vera",
         "paragraphs": [
           "Entstanden aus einem Hashtag-Spiel auf Mastodon, einer alten Geschichte aus meiner Jugendzeit und einer seltsamen Inspiration - Jules und Vera erforscht das Genre der Zeitreise."
-               ],
+        ],
         "links": [
           {
+            "text": "Das Buch",
+            "url": "#timeBooks"
+          },
+          {
             "text": "HintergrundInfo",
-            "url": "/sites-html/subsitesTime/time-background.html"
+            "url": "#timeBackground"
           },
           {
             "text": "Personenverzeichnis",
-            "url": "/sites-html/subsitesTime/time-persons.html"
+            "url": "#timePersons"
           },
           {
             "text": "Begriffsverzeichnis",
-            "url": "/sites-html/subsitesTime/time-sources.html"
+            "url": "#timesGlossary"
           }
         ]
       },
@@ -571,16 +632,20 @@
         ],
         "links": [
           {
+            "text": "The book",
+            "url": "#timeBooks"
+          },
+          {
             "text": "Background info",
-            "url": "/sites-html/subsitesTime/time-background.html"
+            "url": "#timeBackground"
           },
           {
             "text": "Personage",
-            "url": "/sites-html/subsitesTime/time-persons.html"
+            "url": "#timePersons"
           },
           {
             "text": "Glossary",
-            "url": "/sites-html/subsitesTime/time-sources.html"
+            "url": "#timesGlossary"
           }
         ]
       }
@@ -594,19 +659,23 @@
         "title": "Frida von Hameln",
         "paragraphs": [
           "Eine Geschichte aus meiner Heimatstadt, historisch so exakt wie möglich recherchiert."
-               ],
+        ],
         "links": [
           {
+            "text": "Das Buch",
+            "url": "#fridaBooks"
+          },
+          {
             "text": "HintergrundInfo",
-            "url": "/sites-html/subsitesFrida/frida-background.html"
+            "url": "#fridaBackground"
           },
           {
             "text": "Personenverzeichnis",
-            "url": "/sites-html/subsitesFrida/frida-persons.html"
+            "url": "#fridaPersons"
           },
           {
             "text": "Quellen und Karten",
-            "url": "/sites-html/subsitesFrida/frida-sources.html"
+            "url": "#fridaSources"
           }
         ]
       },
@@ -617,16 +686,20 @@
         ],
         "links": [
           {
+            "text": "The book",
+            "url": "#fridaBooks"
+          },
+          {
             "text": "Background info",
-            "url": "/sites-html/subsitesFrida/frida-background.html"
+            "url": "#fridaBackground"
           },
           {
             "text": "Personage",
-            "url": "/sites-html/subsitesFrida/frida-persons.html"
+            "url": "#fridaPersons"
           },
           {
             "text": "Sources and maps",
-            "url": "/sites-html/subsitesFrida/frida-sources.html"
+            "url": "#fridaSources"
           }
         ]
       }

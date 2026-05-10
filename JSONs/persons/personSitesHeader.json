@@ -1,6 +1,6 @@
 [
   {
-    "siteId": "bardsPersons",
+    "id": "bardsPersons",
     "languages": {
       "de": {
         "header": "Personen",
@@ -37,7 +37,7 @@
     }
   },
   {
-    "siteId": "childrenPersons",
+    "id": "childrenPersons",
     "languages": {
       "de": {
         "header": "Personen",
@@ -74,7 +74,7 @@
     }
   },
   {
-    "siteId": "elvesPersons",
+    "id": "elvesPersons",
     "languages": {
       "de": {
         "header": "Personen",
@@ -137,7 +137,7 @@
     }
   },
   {
-    "siteId": "odysseePersons",
+    "id": "odysseePersons",
     "languages": {
       "de": {
         "header": "Personen",
@@ -176,7 +176,7 @@
     }
   },
   {
-    "siteId": "masksPersons",
+    "id": "masksPersons",
     "languages": {
       "de": {
         "header": "Personen",
@@ -213,7 +213,7 @@
     }
   },
   {
-    "siteId": "alsterPersons",
+    "id": "alsterPersons",
     "languages": {
       "de": {
         "header": "Personen",
@@ -250,7 +250,7 @@
     }
   },
   {
-    "siteId": "mindPersons",
+    "id": "mindPersons",
     "languages": {
       "de": {
         "header": "Personen",
@@ -289,7 +289,7 @@
     }
   },
   {
-    "siteId": "countsPersons",
+    "id": "countsPersons",
     "languages": {
       "de": {
         "header": "Personen",
@@ -330,7 +330,7 @@
     }
   },
     {
-    "siteId": "fridaPersons",
+    "id": "fridaPersons",
     "languages": {
       "de": {
         "header": "Personen",
@@ -367,7 +367,7 @@
     }
   },
   {
-    "siteId": "timePersons",
+    "id": "timePersons",
     "languages": {
       "de": {
         "header": "Personen",

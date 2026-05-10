@@ -182,26 +182,22 @@ function templateAboutMeTextEnglish() {
  * initializes rendering of personage sites
  * loads data for personSitesHeader (global variable)
  * loads data for personage
- * @param {string} genre - needed for nav highlight
- * @param {string} navId - id for rendering nav such as masks
- * @param {string} siteId - id for subsite such as masksPersons
- * @param {string} JsonId - id for JSON such as personsMasks
+ * @param {string} id - id of series of book such as masks
  */
-async function renderPersonage(genre, navId, siteId, JsonId) {
-  currentSiteId = siteId;
-  currentGenre = genre;
+async function renderPersonage(id) {
   personSitesHeader = await fetchJSON("/JSONS/persons/personSitesHeader.json");
-  let personsUrl = `/JSONS/persons/${JsonId}.json`;
+  let personsUrl = `/JSONS/persons/${id}-persons.json`;
   let personageObject = await fetchJSON(personsUrl);
+  let siteId = id + "Persons"
   renderPersonageTop(siteId);
   renderPersonageBottom(siteId, personageObject);
-  renderNav(navId, `${siteId}Nav`);
+  //renderNav(navId, `${siteId}Nav`);
 }
 
 /**
  * renders top part of personage sites
  * @param {string} genre - genre such as historical
- * @param {string} siteId - id for subsite such as masksPersons
+ * @param {string} id- id for subsite such as masksPersons
  */
 function renderPersonageTop(siteId) {
   let divId = siteId + "Top";
@@ -210,7 +206,7 @@ function renderPersonageTop(siteId) {
     topDiv.innerHTML = "";
   }
 
-  let siteIndex = personSitesHeader.findIndex((site) => site.siteId === siteId);
+  let siteIndex = personSitesHeader.findIndex((site) => site.id === siteId);
   if (siteIndex !== -1) {
     let site = personSitesHeader[siteIndex].languages[setLanguage];
     topDiv.innerHTML += `<h2>${site.header}</h2>`;
@@ -261,6 +257,9 @@ function generatePersonTableTemplate(siteId, personGroup) {
   let subHeaderId = siteId + personGroup.groupId; // unique ID for each header even if naming in JSON is similar
   let templateHTML = `<h3 class="personGroup" id="${subHeaderId}" >${personGroup[setLanguage]}</h3>`;
   templateHTML += `
+    <details class="table-box">
+    <summary>Personen anzeigen</summary>
+    <div class="table-wrapper">
     <table class="contentTable">
       <tr>
         <th class="personageName">Name</th>
@@ -273,7 +272,8 @@ function generatePersonTableTemplate(siteId, personGroup) {
         <td>${member[setLanguage]}</td>
       </tr>`;
   }
-  templateHTML += `</table>`;
+  templateHTML += `</table></div>
+          </details>`;
   return templateHTML;
 }
 
@@ -403,9 +403,8 @@ async function generateFamilyTreeContent(bookId) {
  * @param {string} genre - needed for nav highlight
  * @param {string} bookId - id for respective books such as masks
  */
-function renderSourcesSite(genre, bookId) {
+function renderSourcesSite(bookId) {
   currentSiteId = bookId + "Sources";
-  currentGenre = genre;
   const booksWithGlossaries = ["odyssey", "masks", "counts"];
   const booksWithSources = ["odyssey", "masks", "alster", "mind"];
   const booksWithSpecialSource = ["children", "counts"];
@@ -426,7 +425,6 @@ function renderSourcesSite(genre, bookId) {
   if (booksWithMapsAndSources.includes(bookId)) {
     renderMapsAndSources(bookId);
   }
-  renderNav(bookId, `${bookId}SourcesNav`);
 }
 
 
@@ -516,6 +514,9 @@ function generateGlossaryHeader() {
  */
 function generateGlossaryTable(glossary) {
   let templateHTML = `
+  <details class="table-box">
+            <summary>Begriffe anzeigen</summary>
+            <div class="table-wrapper">
     <table class="contentTable">
       <tr>
         <th class="personageName">Name</th>
@@ -528,7 +529,8 @@ function generateGlossaryTable(glossary) {
         <td>${term[setLanguage]}</td>
       </tr>`;
   }
-  templateHTML += `</table>`;
+  templateHTML += `</table></div>
+          </details>`;
   return templateHTML;
 }
 
