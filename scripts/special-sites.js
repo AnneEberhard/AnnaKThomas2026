@@ -7,6 +7,11 @@
 function renderHomePage() {
   renderMainSite("home");
   renderHomeOverview();
+  renderAboutMe("about");
+  renderMainSite("fantasy");
+  renderMainSite("historical");
+  renderMainSite("novellas");
+  renderMainSite("buy");
 }
 
 /**
@@ -25,6 +30,7 @@ function renderHomeOverview() {
  */
 function templateOverview() {
   let columns = "";
+  columns += `<h3 id="overview">${setLanguage === "de" ? "Der Überblick über meine Bücher" : "Overview of my books"}</h3>`
   for (let i = 0; i < overview.length; i++) {
     if (setLanguage == "de") {
       columnHeader = overview[i].de;
@@ -78,14 +84,15 @@ function renderAboutMe(id) {
     headline.innerHTML = templateAboutMeHeadEnglish();
     aboutMeText.innerHTML = templateAboutMeTextEnglish();
   }
-  renderNav("general", `aboutMeNav`);
+ // renderNav("general", `aboutMeNav`);
+ 
 }
 
 /**
  * generates the header for the about me page in German
  */
 function templateAboutMeHeadGerman() {
-  let template = `<h2>Was gibt es über mich zu sagen ...</h2>`;
+  let template = `<h2 id="about">Was gibt es über mich zu sagen ...</h2>`;
   return template;
 }
 
@@ -93,7 +100,7 @@ function templateAboutMeHeadGerman() {
  * generates the header for the about me page in English
  */
 function templateAboutMeHeadEnglish() {
-  let template = `<h2>What is there to say about me ...</h2>`;
+  let template = `<h2 id="about>What is there to say about me ...</h2>`;
   return template;
 }
 
@@ -158,15 +165,15 @@ function templateAboutMeTextEnglish() {
  * initializes rendering the novella page
  * @param {string} genre - needed for menu highlight
  */
-function renderNovellas(genre) {
-  currentGenre = genre;
-  let topDivId = genre + "Top";
-  let bottomDivID = genre + "Bottom";
-  let genreData = collectBooksOfSeries(genre, genre);
-  renderMainSite(genre, topDivId);
-  renderBookDetails(genreData, bottomDivID);
-  renderNav("novellas", `novellasNav`);
-}
+//function renderNovellas(genre) {
+//  currentGenre = genre;
+//  let topDivId = genre + "Top";
+//  let bottomDivID = genre + "Bottom";
+//  let genreData = collectBooksOfSeries(genre, genre);
+//  renderMainSite(genre, topDivId);
+//  renderBookDetails(genreData, bottomDivID);
+//  renderNav("novellas", `novellasNav`);
+//}
 
 // functions for personages sites
 

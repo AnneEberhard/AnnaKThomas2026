@@ -1,4 +1,4 @@
-[
+[ 
   {
     "de": "Fantasy",
     "en": "Fantasy",
@@ -6,7 +6,7 @@
     "books": [
       {
         "bookId": "bards",
-        "internalLink": "/sites-html/booksites/bards-of-thuran.html",
+        "internalLink": "/booksites/bards-of-thuran.html",
         "translationExists": "false",
         "languages": {
           "de": "Die Sänger von Thurán Trilogie",
@@ -15,7 +15,7 @@
       },
       {
         "bookId": "children",
-        "internalLink": "/sites-html/booksites/children-of-angels.html",
+        "internalLink": "/booksites/children-of-angels.html",
         "translationExists": "true",
         "languages": {
           "de": "Die Kinder der Engel Trilogie",
@@ -24,7 +24,7 @@
       },
       {
         "bookId": "elves",
-        "internalLink": "/sites-html/booksites/of-elves-and-wolves.html",
+        "internalLink": "/booksites/of-elves-and-wolves.html",
         "translationExists": "true",
         "languages": {
           "de": "Von Elfen und Wölfen Trilogie",
@@ -33,7 +33,7 @@
       },
       {
         "bookId": "time",
-        "internalLink": "/sites-html/booksites/time-curves.html",
+        "internalLink": "/booksites/time-curves.html",
         "translationExists": "true",
         "languages": {
           "de": "Kurven der Zeit",
@@ -49,7 +49,7 @@
     "books": [
       {
         "bookId": "odyssey",
-        "internalLink": "/sites-html/booksites/odyssey.html",
+        "internalLink": "/booksites/odyssey.html",
         "translationExists": "true",
         "languages": {
           "de": "Irrfahrt ins Gelobte Land",
@@ -58,7 +58,7 @@
       },
       {
         "bookId": "masks",
-        "internalLink": "/sites-html/booksites/masks-of-florence.html",
+        "internalLink": "/booksites/masks-of-florence.html",
         "translationExists": "true",
         "languages": {
           "de": "Die Masken von Florenz",
@@ -67,7 +67,7 @@
       },
       {
         "bookId": "alster",
-        "internalLink": "/sites-html/booksites/alster-diamonds.html",
+        "internalLink": "/booksites/alster-diamonds.html",
         "translationExists": "true",
         "languages": {
           "de": "Alsterdiamanten",
@@ -76,7 +76,7 @@
       },
       {
         "bookId": "mind",
-        "internalLink": "/sites-html/booksites/mind-on-fire.html",
+        "internalLink": "/booksites/mind-on-fire.html",
         "translationExists": "true",
         "languages": {
           "de": "Der Geist in Brand",
@@ -85,7 +85,7 @@
       },
       {
         "bookId": "counts",
-        "internalLink": "/sites-html/booksites/counts-servant.html",
+        "internalLink": "/booksites/counts-servant.html",
         "translationExists": "true",
         "languages": {
           "de": "Der Diener des Grafen",
@@ -94,7 +94,7 @@
       },
       {
         "bookId": "frida",
-        "internalLink": "/sites-html/booksites/frida.html",
+        "internalLink": "/booksites/frida.html",
         "translationExists": "planned",
         "languages": {
           "de": "Frida von Hameln",

@@ -22,6 +22,13 @@ header {
   margin: 8px;
 }
 
+.dividerSmall {
+  width: 50vw;
+  height: 2px;
+  background-color: rgba(0,151,178, 0.5);
+  margin: 8px;
+}
+
 #topHeader {
   display: flex;
   width: 100%;
@@ -120,15 +127,23 @@ nav {
 /*footer*/
 
 footer {
-  background-color: rgba(0, 151, 178, 0.1);
   height: 100px;
   width: 100%;
+display:flex;
+flex-direction: column;
+align-items: center;
+}
+
+.footerBox {
+  z-index: 99;
+  width: 100vw;
+  flex-direction: row;
   box-sizing: border-box;
   padding: 16px 16px 16px 16px;
   color: rgba(0, 151, 178, 1);
   display: flex;
   justify-content: space-evenly;
-  align-items: center;
+  
 }
 
 .footerIcon {

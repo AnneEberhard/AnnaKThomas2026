@@ -153,29 +153,33 @@ function closeMobileMenu() {
  */
 function renderMainSite(siteId) {
   currentGenre = siteId;
-  let divId = siteId + "Top";
+  let divId = siteId+"Top";
   let topDiv = document.getElementById(divId);
   let siteIndex = findSiteIndexById(mainSites, siteId);
   if (siteIndex !== -1) {
     let site = mainSites[siteIndex].languages[setLanguage];
     let templateHTML =
-      generateSiteTitle(site.title) + generateSiteParagraphs(site.paragraphs);
-    for (let section of site.sections) {
-      templateHTML += generateSection(section);
+      generateSiteTitle(site.title, siteId) + generateSiteParagraphs(site.paragraphs);
+    if (siteId=="buy") {
+      for (let section of site.sections) {
+        templateHTML += generateSectionExtern(section);}
+      } else {
+      for (let section of site.sections) {
+      templateHTML += generateSection(section);}
     }
     topDiv.innerHTML = templateHTML;
   } else {
     console.log(`SiteId '${siteId}' not found`);
   }
-  renderNav("general", `${siteId}Nav`);
+  //renderNav("general", `${siteId}Nav`);
 }
 
 /**
  * generates the site title based on set language
  * @param {string} title - respective title for site
  */
-function generateSiteTitle(title) {
-  return `<h2>${title}</h2>`;
+function generateSiteTitle(title, siteId) {
+  return `<h2 id"${siteId}">${title}</h2>`;
 }
 
 /**
@@ -208,6 +212,22 @@ function generateSection(section) {
     </div>`;
 }
 
+
+function generateSectionExtern(section) {
+  return `
+    <h3>${section.subtitle}</h3>
+    <div class="sectionParagraphs">
+      ${section.paragraphs.map((paragraph) => `<p>${paragraph}</p>`).join("")}
+    </div>
+    <div class="siteNavTop">
+      ${section.links
+        .map(
+          (link) =>
+            `<a target="_blank" class="siteNavTopLink" href="${link.url}">${link.text}</a>`
+        )
+        .join("")}
+    </div>`;
+}
 // functions for book sites
 
 /**

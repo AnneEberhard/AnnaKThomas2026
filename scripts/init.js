@@ -16,7 +16,7 @@ let siteImages = []
 const functionMap = {
   "/fantasy.html": renderMainSite,
   "/historical.html": renderMainSite,
-  "/novellas.html": renderNovellas,
+  "/novellas.html": renderMainSite,
   "/about-me.html": renderAboutMe,
   "/booksites": renderBookSite,
   persons: renderPersonage,
@@ -40,7 +40,6 @@ async function init() {
   await loadGeneralData();
   await setTimeout(checkBrowserLanguage, 100);
   //jsonify();
-  renderAboutMe()
 }
 
 /**
@@ -48,7 +47,7 @@ async function init() {
  * menuTitles, navSites, mainSites, overview, pageFunctions
  */
 async function loadGeneralData() {
-    siteImages = await fetchJSON("/JSONs/general/images.json");
+  siteImages = await fetchJSON("/JSONs/general/images.json");
   allBooks = await fetchJSON("/JSONs/general/allBooks.json");
   mainSites = await fetchJSON("/JSONs/general/mainSites.json");
   menuTitles = await fetchJSON("/JSONs/general/menuTitles.json");
@@ -98,8 +97,8 @@ function english() {
  * starts the rendering of content equal for all pages - e.g. header
  */
 function renderSharedContent() {
-  renderMenu();
-  renderMobileMenu();
+  //renderMenu();
+  //renderMobileMenu();
   renderSubHeaderBottom();
   initSidebar();
 }
@@ -209,6 +208,7 @@ function renderSubHeaderBottom() {
  * uses global variable functionMap
  */
 async function renderContentBasedOnPage() {
+
   let path = window.location.pathname;
   if (path === "/" || path === "/index.html") {
     renderHomePage("home");
@@ -247,9 +247,9 @@ async function renderContentBasedOnPage() {
         functionMap[matchingEntry.path] || functionMap["/booksites"];
     }
 
-    if (renderFunction) {
-      renderFunction(...matchingEntry.params);
-    }
+  if (renderFunction) {
+    renderFunction(...matchingEntry.params);
+  }
   }
 }
 

@@ -17,7 +17,6 @@ body {
 .penName {
   font-family: 'Calligraffitti';
   font-style: normal;
-  
 }
 
 .mainContainer {
@@ -63,7 +62,7 @@ a:hover {
 p {
   margin-block-start: 0.7em;
   margin-block-end: 0.7em;
-  font-size: 22px;
+  font-size: 18px;
 }
 
 table {
@@ -94,7 +93,7 @@ table {
 }
 
 .siteNavTopLink {
-  font-size: 22px;
+  font-size: 18px;
 }
 
 .highlighted {
@@ -185,11 +184,13 @@ tr:last-child {
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 50vw;
 }
 
 .profilePic {
   border: solid 4px #0097b2;
   margin: 8px;
+  height: 150px;
 }
 
 /*personage Tables*/

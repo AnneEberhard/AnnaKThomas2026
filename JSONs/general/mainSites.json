@@ -4,12 +4,11 @@
     "translationExists": "true",
     "languages": {
       "de": {
-        "title": "Hallo!",
+        "title": "Willkommen auf meiner Webseite!!",
         "paragraphs": [
-          "Und willkommen auf meiner Webseite!",
           "Ich schreibe schon seit Jahrzehnten Geschichten, aber 2017 habe ich mich nach draußen in die Welt getraut und angefangen, online Bücher zu veröffentlichen. Da ich so viel drum herum geschrieben und gebaut habe, und auch noch so vieles plane, entstand die Idee zu dieser Webseite, um ein wenig mehr Info zu geben, ein bisschen mehr zu teilen - und vielleicht ebenso ein bisschen mehr zu hören ...",
-          "Ich schreibe auf deutsch, aber mittlerweile gibt es englische Übersetzungen einiger meiner Werke. Wo dies der Fall ist, könnt Ihr Euch die englischen Texte anzeigen lassen.",
-          ""
+          "Ich schreibe auf deutsch, aber mittlerweile gibt es englische Übersetzungen einiger meiner Werke. Wo dies der Fall ist, könnt Ihr Euch die englischen Texte anzeigen lassen. Ihr könnte die Sprache über die Buttons oben auf der Webseite wechseln.",
+          "Folgendes ist hier zu finden:"
         ],
         "sections": [
           {
@@ -17,23 +16,38 @@
               "",
               ""
             ],
-            "subtitle": "Der Überblick über meine Bücher:",
+            "subtitle": "",
             "links": [
-              {
-                "text": "",
-                "url": ""
+                {
+                "text": "Der Überblick über meine Bücher",
+                "url": "#overview"
+              },{
+                "text": "Ein paar Dinge über mich",
+                "url": "#about"
+              },{
+                "text": "Ein paar Dinge über mich und Fantasy",
+                "url": "#fantasy"
+              },{
+                "text": "Ein paar Dinge über mich und Geschichte",
+                "url": "#historical"
+              },{
+                "text": "Ein paar Dinge über mich und Novellen",
+                "url": "#novellas"
+              },{
+                "text": "Ein paar Dinge darüber, wo meine Bücher zu kaufen sind",
+                "url": "#buy"
               }
+              
             ]
           }
         ]
       },
       "en": {
-        "title": "Hello!",
+        "title": "Welcome to my website",
         "paragraphs": [
-          "And welcome to my website!",
           "I've been writing stories for decades, but in 2017 I ventured out into the world and started publishing books online. Since I've written and built so much around it, and still have so much planned, the idea for this website was born to give a little more info, a little more to share - and maybe a little more to hear ...",
-          "I write in German, but in some case, English translations of my works are available. Whenever this is the case, you'll find English texts as well.",
-          ""
+          "I write in German, but in some case, English translations of my works are available. Whenever this is the case, you'll find English texts as well. You can switch between the langues by using the buttons on the top of the site.",
+          "The Following is to be found here:"
         ],
         "sections": [
           {
@@ -41,11 +55,26 @@
               "",
               ""
             ],
-            "subtitle": "The overview of my books:",
+            "subtitle": "",
             "links": [
               {
-                "text": "",
-                "url": "/sites-html/booksites/"
+                "text": "The overview of my books",
+                "url": "#overview"
+              },{
+                "text": "Some things about me",
+                "url": "#about"
+              },{
+                "text": "Some things about my and fantasy",
+                "url": "#fantasy"
+              },{
+                "text": "Some things about my and history",
+                "url": "#history"
+              },{
+                "text": "Some things about my and novellas",
+                "url": "#novellas"
+              },{
+                "text": "Some things about buying my books",
+                "url": "#buy"
               }
             ]
           }
@@ -76,7 +105,7 @@
             "links": [
               {
                 "text": "Kurven der Zeit",
-                "url": "/sites-html/booksites/time-curves.html"
+                "url": "/booksites/time-curves.html"
               }
             ]
           },
@@ -89,7 +118,7 @@
             "links": [
               {
                 "text": "Die Sänger von Thurán",
-                "url": "/sites-html/booksites/bards-of-thuran.html"
+                "url": "/booksites/bards-of-thuran.html"
               }
             ]
           },
@@ -102,11 +131,11 @@
             "links": [
               {
                 "text": "Die Kinder der Engel",
-                "url": "/sites-html/booksites/children-of-angels.html"
+                "url": "/booksites/children-of-angels.html"
               },
               {
                 "text": "Von Elfen und Wölfen",
-                "url": "/sites-html/booksites/of-elves-and-wolves.html"
+                "url": "/booksites/of-elves-and-wolves.html"
               }
             ]
           }
@@ -131,7 +160,7 @@
             "links": [
               {
                 "text": "Time Curves",
-                "url": "/sites-html/booksites/time-curves.html"
+                "url": "/booksites/time-curves.html"
               }
             ]
           },
@@ -144,7 +173,7 @@
             "links": [
               {
                 "text": "The Bards of Thurán",
-                "url": "/sites-html/booksites/bards-of-thuran.html"
+                "url": "/booksites/bards-of-thuran.html"
               }
             ]
           },
@@ -157,11 +186,11 @@
             "links": [
               {
                 "text": "Children Of Angels",
-                "url": "/sites-html/booksites/children-of-angels.html"
+                "url": "/booksites/children-of-angels.html"
               },
               {
                 "text": "Of Elves and Wolves",
-                "url": "/sites-html/booksites/of-elves-and-wolves.html"
+                "url": "/booksites/of-elves-and-wolves.html"
               }
             ]
           }
@@ -190,27 +219,27 @@
             "links": [
               {
                 "text": "Irrfahrt ins Gelobte Land",
-                "url": "/sites-html/booksites/odyssey.html"
+                "url": "/booksites/odyssey.html"
               },
               {
                 "text": "Die Masken von Florenz",
-                "url": "/sites-html/booksites/masks-of-florence.html"
+                "url": "/booksites/masks-of-florence.html"
               },
               {
                 "text": "Alsterdiamanten",
-                "url": "/sites-html/booksites/alster-diamonds.html"
+                "url": "/booksites/alster-diamonds.html"
               },
               {
                 "text": "Der Geist in Brand",
-                "url": "/sites-html/booksites/mind-on-fire.html"
+                "url": "/booksites/mind-on-fire.html"
               },
               {
                 "text": "Der Diener des Grafen",
-                "url": "/sites-html/booksites/counts-servant.html"
+                "url": "/booksites/counts-servant.html"
               },
               {
                 "text": "Frida Von Hameln",
-                "url": "/sites-html/booksites/frida.html"
+                "url": "/booksites/frida.html"
               }
             ]
           }
@@ -233,19 +262,19 @@
             "links": [
               {
                 "text": "Odyssey to the Promised Land",
-                "url": "/sites-html/booksites/odyssey.html"
+                "url": "/booksites/odyssey.html"
               },
               {
                 "text": "The Masks of Florence",
-                "url": "/sites-html/booksites/masks-of-florence.html"
+                "url": "/booksites/masks-of-florence.html"
               },
               {
                 "text": "Alster Diamonds",
-                "url": "/sites-html/booksites/alster-diamonds.html"
+                "url": "/booksites/alster-diamonds.html"
               },
               {
                 "text": "The Mind on Fire",
-                "url": "/sites-html/booksites/mind-on-fire.html"
+                "url": "/booksites/mind-on-fire.html"
               }
             ]
           }
@@ -270,12 +299,20 @@
               "",
               ""
             ],
-            "subtitle": "Veröffentlichte Novellen und Kurzgeschichten",
+            "subtitle": "Novellen und Kurzgeschichten",
             "links": [
-              {
-                "text": "",
+             {
+                "text": "LebensAbschnitt",
                 "url": ""
-              }
+               },
+               {
+                "text": "Tanz mit dem Wind",
+                "url": ""
+               },
+               {
+                "text": "Bonusgeschichte",
+                "url": ""
+               }
             ]
           }
         ]
@@ -293,12 +330,91 @@
               "",
               ""
             ],
-            "subtitle": "Published novellas and short stories",
+            "subtitle": "Novellas and short stories",
             "links": [
-              {
-                "text": "",
+               {
+                "text": "LifeStages",
                 "url": ""
-              }
+               },
+               {
+                "text": "Dance the Wind",
+                "url": ""
+               },
+               {
+                "text": "Bonus story",
+                "url": ""
+               }
+            ]
+          }
+        ]
+      }
+    }
+  },{
+    "siteId": "buy",
+    "translationExists": "true",
+    "languages": {
+      "de": {
+        "title": "Wo kann die Bücher erwerben?",
+        "paragraphs": [
+          "Ein Disclaimer vorab: Der Markt ändert sich ständig, vor allm mit dem KI-Crap, der immer mehr zunimmt.",
+          "Mine Bücher sind derzeit ausnahmslos alle bei Amazon gelistet, und in der Regel als eBook, Taschenbuch und gebundendes Buch. Ein Buch wurde von Max Müller eingelesen und existiert als Audiobuch.",
+          "Ein paar englische Bücher nutzen die Vorlesefunktion von kindle und können darüber als 'audiobooks' erstanden werden (ernsthaft, ist aber nichts anderes als eine bessere Vorlesefunktion.)",
+          "Die deutschen Bücher sind bis auf wenigen Ausnahmen im Handel erhältlich, sowie als epubs und gebundenes Buch, erwerbbar bei Tredition.",
+          "Englische Bücher können zudem über die Webseite anderlandbooks.com im Direktverkauf gekauft werden. Dann erhält ,man ein herabladbares ePub was von den gängigen eReader genutzt werden kann."
+        ],
+        "sections": [
+          {
+            "paragraphs": [
+              "",
+              ""
+            ],
+            "subtitle": "Links",
+            "links": [
+             {
+                "text": "Anna K. Thomas bei Amazon",
+                "url": "https://www.amazon.de/stores/Anna-K.-Thomas/author/B073SF49JG?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true"
+               },
+               {
+                "text": "Anna K. Thomas bei Tredition",
+                "url": "https://shop.tredition.com/search/QW5uYSBLLiBUaG9tYXM="
+               },
+               {
+                "text": "Anna K. Thomas bei Anderlandbooks.com",
+                "url": "https://anderlandbooks.com/authors#anna"
+               }
+            ]
+          }
+        ]
+      },
+      "en": {
+        "title": "Where can I get the books?",
+        "paragraphs": [
+         "A disclaimer up front: The market is constantly changing, especially with all this AI crap that's becoming more and more prevalent.",
+         "All of my books are currently listed on Amazon without exception, generally available as eBooks, paperbacks, and hardcovers. One book was narrated by Max Müller and is available as an audiobook.",
+         "A few English books use Kindle’s text-to-speech feature and can be purchased as ‘audiobooks’ through it (seriously, though, it’s not comparable to a human speaker such as Max.).",
+         "With a few exceptions, the German books are available in stores, as well as in epub and hardcover formats, available for purchase at Tredition.",
+         "English books can also be purchased directly through the website anderlandbooks.com. You will then receive a downloadable ePub that can be used on standard e-readers."
+       ],
+        "sections": [
+          {
+            "paragraphs": [
+              "",
+              ""
+            ],
+            "subtitle": "Links",
+            "links": [
+             {
+                "text": "Anna K. Thomas bei Amazon",
+                "url": "https://www.amazon.de/stores/Anna-K.-Thomas/author/B073SF49JG?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true"
+               },
+               {
+                "text": "Anna K. Thomas bei Tredition",
+                "url": "https://shop.tredition.com/search/QW5uYSBLLiBUaG9tYXM="
+               },
+               {
+                "text": "Anna K. Thomas bei Anderlandbooks.com",
+                "url": "https://anderlandbooks.com/authors#anna"
+               }
             ]
           }
         ]
