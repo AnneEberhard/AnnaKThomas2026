@@ -100,7 +100,7 @@ function renderSharedContent() {
   //renderMenu();
   //renderMobileMenu();
   renderSubHeaderBottom();
-  initSidebar();
+
 }
 
 /**
@@ -121,73 +121,73 @@ async function fetchJSON(path) {
 }
 
 /**
- * renders the menu bar using the global variable menuTitles based on set language
- */
-async function renderMenu() {
-  const navElement = document.getElementById("desktopNav");
-  navElement.innerHTML = "";
-
-  // Burger-Menu (Hamburger-Menü) hinzufügen
-  const burgerMenu = document.createElement("div");
-  burgerMenu.id = "burgerMenu";
-  burgerMenu.onclick = showMobileMenu;
-  burgerMenu.innerHTML = `<img class="burgerMenuImage" src="/assets/img/icons/burger-menu.png">`;
-  navElement.appendChild(burgerMenu);
-
-  // Menüpunkte hinzufügen
-  menuTitles.forEach((menuItem) => {
-    const title = menuItem[setLanguage];
-    const link = document.createElement("a");
-    link.classList.add("navLink");
-    link.href = menuItem.link;
-    link.innerHTML = title;
-
-    if (menuItem.id === currentGenre) {
-      link.classList.add("highlighted");
-    }
-    navElement.appendChild(link);
-  });
-}
+// renders the menu bar using the global variable menuTitles based on set language
+///
+//ync function renderMenu() {
+//const navElement = document.getElementById("desktopNav");
+//navElement.innerHTML = "";
+//
+//// Burger-Menu (Hamburger-Menü) hinzufügen
+//const burgerMenu = document.createElement("div");
+//burgerMenu.id = "burgerMenu";
+//burgerMenu.onclick = showMobileMenu;
+//burgerMenu.innerHTML = `<img class="burgerMenuImage" src="/assets/img/icons/burger-menu.png">`;
+//navElement.appendChild(burgerMenu);
+//
+//// Menüpunkte hinzufügen
+//menuTitles.forEach((menuItem) => {
+//  const title = menuItem[setLanguage];
+//  const link = document.createElement("a");
+//  link.classList.add("navLink");
+//  link.href = menuItem.link;
+//  link.innerHTML = title;
+//
+//    if (menuItem.id === currentGenre) {
+//      link.classList.add("highlighted");
+//    }
+//    navElement.appendChild(link);
+//  });
+//}
 
 /**
  * adds the burger menu symbol to the header
  */
-function renderBurgerMenu() {
-  const burgerMenu = document.createElement("div");
-  burgerMenu.id = "burgerMenu";
-  burgerMenu.onclick = showMobileMenu;
-  burgerMenu.innerHTML = `<img class="burgerMenuImage" src="/assets/img/icons/burger-menu.png">`;
-  navElement.appendChild(burgerMenu);
-}
+//function renderBurgerMenu() {
+//  const burgerMenu = document.createElement("div");
+//  burgerMenu.id = "burgerMenu";
+//  burgerMenu.onclick = showMobileMenu;
+//  burgerMenu.innerHTML = `<img class="burgerMenuImage" src="/assets/img/icons/burger-menu.png">`;
+//  navElement.appendChild(burgerMenu);
+//}
+//
+///**
+// * renders the mobile menu using the global variable menuTitles based on set language
+// */
+//function renderMobileMenu() {
+//  const mobileNavElement = document.getElementById("mobileNav");
+//  if (mobileNavElement) {
+//    mobileNavElement.innerHTML = "";
+//  }
+//
+//  // Close-Button hinzufügen
+//  const closeButton = document.createElement("span");
+//  closeButton.id = "closeButton";
+//  closeButton.innerHTML = `<img src="/assets/img/icons/close.png" onclick="closeMobileMenu()">`;
+//  mobileNavElement.appendChild(closeButton);
 
-/**
- * renders the mobile menu using the global variable menuTitles based on set language
- */
-function renderMobileMenu() {
-  const mobileNavElement = document.getElementById("mobileNav");
-  if (mobileNavElement) {
-    mobileNavElement.innerHTML = "";
-  }
-
-  // Close-Button hinzufügen
-  const closeButton = document.createElement("span");
-  closeButton.id = "closeButton";
-  closeButton.innerHTML = `<img src="/assets/img/icons/close.png" onclick="closeMobileMenu()">`;
-  mobileNavElement.appendChild(closeButton);
-
-  // Menüpunkte hinzufügen
-  menuTitles.forEach((menuItem) => {
-    const title = menuItem[setLanguage];
-    const link = document.createElement("a");
-    link.classList.add("mobileNavLink");
-    link.href = `${menuItem.link}`;
-    link.innerHTML = title;
-    if (menuItem.id === currentGenre) {
-      link.classList.add("highlighted");
-    }
-    mobileNavElement.appendChild(link);
-  });
-}
+//  // Menüpunkte hinzufügen
+//  menuTitles.forEach((menuItem) => {
+//    const title = menuItem[setLanguage];
+//    const link = document.createElement("a");
+//    link.classList.add("mobileNavLink");
+//    link.href = `${menuItem.link}`;
+//    link.innerHTML = title;
+//    if (menuItem.id === currentGenre) {
+//      link.classList.add("highlighted");
+//    }
+//    mobileNavElement.appendChild(link);
+//  });
+//}
 
 /**
  * renders the bottom part of the menu based on set language
@@ -238,10 +238,10 @@ async function renderContentBasedOnPage() {
       renderFunction = functionMap["timeline"];
     } else if (matchingEntry.path.includes("bonus")) {
       renderFunction = functionMap["bonus"];
-    } else if (matchingEntry.path.includes("imprint")) {
-      renderImprint();
-    } else if (matchingEntry.path.includes("privacy-policy")) {
-      renderprivacyPolicy();
+//    } else if (matchingEntry.path.includes("imprint")) {
+//      renderImprint();
+//    } else if (matchingEntry.path.includes("privacy-policy")) {
+//      renderprivacyPolicy();
     } else {
       renderFunction =
         functionMap[matchingEntry.path] || functionMap["/booksites"];

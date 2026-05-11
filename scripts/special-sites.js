@@ -5,7 +5,7 @@
  * upper part is rendered via renderMainSite
  */
 function renderHomePage() {
-  
+  initSidebar();
   renderMainSite("home");
   renderHomeOverview();
   renderAboutMe("about");
@@ -31,7 +31,7 @@ function renderHomeOverview() {
  */
 function templateOverview() {
   let columns = "";
-  columns += `<h3 id="overview">${setLanguage === "de" ? "Der Überblick über meine Bücher" : "Overview of my books"}</h3>`
+  columns += `<h3 id="overview">${setLanguage === "de" ? "Der Überblick über meine Bücher" : "Overview of my books"}</h3>`;
   for (let i = 0; i < overview.length; i++) {
     if (setLanguage == "de") {
       columnHeader = overview[i].de;
@@ -85,8 +85,7 @@ function renderAboutMe(id) {
     headline.innerHTML = templateAboutMeHeadEnglish();
     aboutMeText.innerHTML = templateAboutMeTextEnglish();
   }
- // renderNav("general", `aboutMeNav`);
- 
+  // renderNav("general", `aboutMeNav`);
 }
 
 /**
@@ -188,7 +187,7 @@ async function renderPersonage(id) {
   personSitesHeader = await fetchJSON("/JSONS/persons/personSitesHeader.json");
   let personsUrl = `/JSONS/persons/${id}-persons.json`;
   let personageObject = await fetchJSON(personsUrl);
-  let siteId = id + "Persons"
+  let siteId = id + "Persons";
   renderPersonageTop(siteId);
   renderPersonageBottom(siteId, personageObject);
   //renderNav(navId, `${siteId}Nav`);
@@ -323,7 +322,6 @@ async function generateBackgroundContent(bookId) {
   return templateHTML;
 }
 
-
 /**
  * starts the rendering of additional info on a background site in the bottom div
  * @param {string} bookId - id for respective books such as masks
@@ -427,7 +425,6 @@ function renderSourcesSite(bookId) {
   }
 }
 
-
 /**
  * Renders the map section and the source section for a given book.
  * @param {string} bookId - Identifier of the book used to locate the corresponding DOM elements and data.
@@ -437,7 +434,7 @@ async function renderMapsAndSources(bookId) {
   renderSources(bookId);
 }
 
-// functions for maps 
+// functions for maps
 
 /**
  * Loads map data for a book and renders a title and image into the corresponding DOM container.
@@ -449,7 +446,7 @@ async function renderMaps(bookId) {
   let targetDiv = document.getElementById(divId);
   let title = sourceData.title[setLanguage];
   let imgSrc = sourceData.links[setLanguage];
-    let template = `
+  let template = `
     <h2>${title}</h2>
     <div class="maps">
     <img class="map" src="${imgSrc}" alt="${title}">

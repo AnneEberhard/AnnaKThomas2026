@@ -2,7 +2,7 @@ header {
   /*  background-color: rgba(0,151,178, 0.1);*/
   flex-direction: column;
   box-sizing: border-box;
-  padding: 20px 16px 32px 16px;
+  padding: 20px 16px 8px 16px;
   display: flex;
   color: rgba(0, 151, 178, 1);
   align-items: center;

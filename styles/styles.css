@@ -1,6 +1,7 @@
 html,
 body {
   margin: 0;
+  overflow-x: hidden;
 }
 
 body {
@@ -24,7 +25,6 @@ body {
 }
 .mainMiddleContainer {
   box-sizing: border-box;
-  padding: 40px;
 }
 
 .dNone {
@@ -42,17 +42,24 @@ h2 {
   font-size: 36px;
   font-weight: 100;
   font-family: "Acme";
+  margin: 0;
 }
 
 a {
   color: #0097b2;
   text-decoration: none;
-  font-size: 24px;
+  font-size: 18px;
 }
 
 a:hover {
   color: #0097b2;
   text-shadow: 2px 2px 4px rgba(92, 175, 198, 0.8);
+}
+
+.homeLinkBox {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
 }
 
 p {
