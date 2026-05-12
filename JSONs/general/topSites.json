@@ -473,7 +473,7 @@
           },
           {
             "text": "Quellen",
-            "url": "#mindSources"
+            "url": "#mindSource"
           },
           {
             "text": "Bonuskapitel I: Prolog der geplatzten Flucht von Henri und Ella",
@@ -509,7 +509,7 @@
           },
           {
             "text": "Sources",
-            "url": "#mindSources"
+            "url": "#mindSource"
           },
           {
             "text": "Bonus Chapter I: Prologue to Henri and Ella's failed escape",
@@ -543,15 +543,15 @@
           },
           {
             "text": "HintergrundInfo",
-            "url": "countBackground"
+            "url": "#countsBackground"
           },
           {
             "text": "Personenverzeichnis",
-            "url": "#countPersons"
+            "url": "#countsPersons"
           },
           {
             "text": "Titel, Quellen und Links zu Karten",
-            "url": "#countSources"
+            "url": "#countsSource"
           },
           {
             "text": "Bonuskapitel I: Das gestrichene Kapitel 2 - Wie Gabriel gefunden wurde",
@@ -575,7 +575,7 @@
           },
           {
             "text": "Background info",
-            "url": "countBackground"
+            "url": "#countBackground"
           },
           {
             "text": "Personage",
@@ -583,7 +583,7 @@
           },
           {
             "text": "Titles, Sources and Links to Maps",
-            "url": "#countSources"
+            "url": "#countSource"
           },
           {
             "text": "Bonus Chapter I: The deleted chapter 2 - How Gabriel was found",
