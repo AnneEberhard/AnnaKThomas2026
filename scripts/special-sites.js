@@ -165,15 +165,15 @@ function templateAboutMeTextEnglish() {
  * initializes rendering the novella page
  * @param {string} genre - needed for menu highlight
  */
-//function renderNovellas(genre) {
-//  currentGenre = genre;
-//  let topDivId = genre + "Top";
-//  let bottomDivID = genre + "Bottom";
-//  let genreData = collectBooksOfSeries(genre, genre);
-//  renderMainSite(genre, topDivId);
-//  renderBookDetails(genreData, bottomDivID);
-//  renderNav("novellas", `novellasNav`);
-//}
+function renderNovellas(genre) {
+  currentGenre = genre;
+  let topDivId = genre + "Top";
+  let bottomDivID = genre + "Bottom";
+  let genreData = collectBooksOfSeries(genre, genre);
+  renderMainSite(genre, topDivId);
+  renderBookDetails(genreData, bottomDivID);
+  renderNav("novellas", `novellasNav`);
+}
 
 // functions for personages sites
 

@@ -16,6 +16,11 @@ body {
   font-style: normal;
 }
 
+.logo {
+    width: 100px;
+    height: 100px;
+}
+
 .mainContainer {
   margin: 0 100px 0 100px;
   flex-direction: row;
@@ -23,6 +28,7 @@ body {
   flex: 1;
   box-sizing: border-box;
 }
+
 .mainMiddleContainer {
   box-sizing: border-box;
   padding: 0 20px 0 20px;
@@ -60,6 +66,8 @@ a:hover {
 .homeLinkBox {
   display: flex;
   justify-content: center;
+  flex-direction: column;
+  align-items: center;
   margin: 20px;
 }
 
@@ -234,11 +242,6 @@ tr:last-child {
   box-sizing: border-box;
 }
 
-.dual-header {
-  display: flex;
-  justify-content: space-around;
-}
-
 .dual-images {
   display: flex;
   gap: 8px;
@@ -353,9 +356,32 @@ rect {
 }
 
 @media (max-width: 800px) {
+  .mainContainer {
+    margin: 0 50px 0 50px;
+  }
+
+  .dual-images {
+    flex-direction: column;
+    align-items: center;
+  }
+
+
+  .img-wrap {
+    flex-direction: column;
+    align-items: center;
+  }
 }
 
 @media (max-width: 400px) {
+  .mainContainer {
+    margin: 0 10px 0 10px;
+  }
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
   h1 {
     font-size: 24px;
   }

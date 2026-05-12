@@ -108,7 +108,6 @@ function renderSharedContent() {
  * @param {string} path - path to respective json
  */
 async function fetchJSON(path) {
-  console.log(path);
   try {
     const response = await fetch(path);
     if (!response.ok) {

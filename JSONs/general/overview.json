@@ -2,7 +2,7 @@
   {
     "de": "Fantasy",
     "en": "Fantasy",
-    "genreLink": "/fantasy.html",
+    "genreLink": "#fantasy",
     "books": [
       {
         "bookId": "bards",
@@ -45,7 +45,7 @@
   {
     "de": "Historisch",
     "en": "Historical",
-    "genreLink": "/historical.html",
+    "genreLink": "#historical",
     "books": [
       {
         "bookId": "odyssey",
@@ -106,11 +106,11 @@
   {
     "de": "Kurzgeschichten",
     "en": "Short Stories",
-    "genreLink": "/novellas.html",
+    "genreLink": "#novellas",
     "books": [
       {
         "bookId": "life",
-        "internalLink": "/novellas.html",
+        "internalLink": "/booksites/novellas.html",
         "translationExists": "true",
         "languages": {
           "de": "LebensAbschnitt",
@@ -119,7 +119,7 @@
       },
       {
         "bookId": "dance",
-        "internalLink": "/novellas.html",
+        "internalLink": "/booksites/novellas.html",
         "translationExists": "true",
         "languages": {
           "de": "Tanz mit dem Wind",
