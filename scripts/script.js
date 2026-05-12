@@ -264,9 +264,13 @@ function renderBookSite(genre, id, seriesExists) {
   renderBackground(genre, id);
   renderPersonage(id);
   renderSourcesSite(id);
-  if (id == "elves") {
-    renderFamilyTrees(id);
-  }
+  if (["elves", "odyssey", "masks", "alster"].includes(id)) {
+  renderFamilyTrees(id);
+}
+if (["odyssey", "masks"].includes(id)) {
+  renderTimeline(id);
+}
+
 }
 
 /**

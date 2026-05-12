@@ -257,7 +257,7 @@ function generatePersonTableTemplate(siteId, personGroup) {
   let templateHTML = `<h3 class="personGroup" id="${subHeaderId}" >${personGroup[setLanguage]}</h3>`;
   templateHTML += `
     <details class="table-box">
-    <summary>Personen anzeigen</summary>
+    <summary>show</summary>
     <div class="table-wrapper">
     <table class="contentTable">
       <tr>
@@ -297,7 +297,6 @@ function renderBackground(genre, bookId) {
  */
 async function renderBackgroundContent(bookId) {
   let divId = bookId + "BackgroundTop";
-  console.log(divId);
   let topDiv = document.getElementById(divId);
   topDiv.innerHTML = "";
   topDiv.innerHTML = await generateBackgroundContent(bookId);
@@ -359,7 +358,6 @@ async function generateExtraBottomContent(bookId) {
  * @param {string} bookId - id for respective books such as masks
  */
 function renderFamilyTrees(id) {
-  console.log(id);
   renderFamilyTreeContent(id);
   //renderNav(id, `${id}FamilyTreeNav`);
 }
@@ -512,7 +510,7 @@ function generateGlossaryHeader() {
 function generateGlossaryTable(glossary) {
   let templateHTML = `
   <details class="table-box">
-            <summary>Begriffe anzeigen</summary>
+            <summary>show</summary>
             <div class="table-wrapper">
     <table class="contentTable">
       <tr>
@@ -651,9 +649,8 @@ function generateSpecialSourcesContent(languageSourceData) {
  * @param {string} genre - genre such as historical
  * @param {string} bookId - id for respective books such as masks
  */
-async function renderTimeline(genre, bookId) {
+async function renderTimeline(bookId) {
   currentSiteId = bookId + "Timeline";
-  currentGenre = genre;
   await renderTimelineTop(bookId);
   renderTimelineBottom(bookId);
   //renderNav(bookId, `${bookId}TimelineNav`);
@@ -711,10 +708,13 @@ async function renderTimelineBottom(bookId) {
  */
 function generateTimelineTable(timelineData) {
   let templateHTML = `
+  <details class="table-box">
+    <summary>show</summary>
+    <div class="table-wrapper">
     <table class="contentTable">
       ${generateTableHeader()}
       ${generateTableRows(timelineData)}
-    </table>`;
+    </table></details>`;
   return templateHTML;
 }
 

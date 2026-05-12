@@ -137,18 +137,18 @@
     }
   },
   {
-    "id": "odysseePersons",
+    "id": "odysseyPersons",
     "languages": {
       "de": {
         "header": "Personen",
         "subHeaders": [
           {
             "subHeaderText": "Erfundene Personen",
-            "subHeaderLink": "odysseePersonsfictional"
+            "subHeaderLink": "odysseyPersonsfictional"
           },
           {
             "subHeaderText": "Historische Personen",
-            "subHeaderLink": "odysseePersonshistorical"
+            "subHeaderLink": "odysseyPersonshistorical"
           }
         ],
         "paragraphs": [
@@ -161,11 +161,11 @@
         "subHeaders": [
           {
             "subHeaderText": "Fictional Characters",
-            "subHeaderLink": "odysseePersonsfictional"
+            "subHeaderLink": "odysseyPersonsfictional"
           },
           {
             "subHeaderText": "Historical Characters",
-            "subHeaderLink": "odysseePersonshistorical"
+            "subHeaderLink": "odysseyPersonshistorical"
           }
         ],
         "paragraphs": [
