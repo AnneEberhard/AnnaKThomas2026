@@ -393,7 +393,7 @@
   ],
   "bonusChapterSites": [
     {
-      "path": "/subsitesChildren/children-bonus.html",
+      "path": "/bonus-chapters/children-bonus.html",
       "params": [
         "fantasy",
         "children",
@@ -401,7 +401,7 @@
       ]
     },
     {
-      "path": "/subsitesElves/elves-bonus-diana.html",
+      "path": "/bonus-chapters/elves-bonus-diana.html",
       "params": [
         "fantasy",
         "elves",
@@ -409,7 +409,7 @@
       ]
     },
     {
-      "path": "/subsitesElves/elves-bonus-noel.html",
+      "path": "/bonus-chapters/elves-bonus-noel.html",
       "params": [
         "fantasy",
         "elves",
@@ -417,7 +417,7 @@
       ]
     },
     {
-      "path": "/subsitesMind/mind-bonus-curtius.html",
+      "path": "/bonus-chapters/mind-bonus-curtius.html",
       "params": [
         "historical",
         "mind",
@@ -425,7 +425,7 @@
       ]
     },
     {
-      "path": "/subsitesMind/mind-bonus-danton.html",
+      "path": "/bonus-chapters/mind-bonus-danton.html",
       "params": [
         "historical",
         "mind",
@@ -433,7 +433,7 @@
       ]
     },
     {
-      "path": "/subsitesMind/mind-bonus-henri.html",
+      "path": "/bonus-chapters/mind-bonus-henri.html",
       "params": [
         "historical",
         "mind",
@@ -441,7 +441,7 @@
       ]
     },
     {
-      "path": "/subsitesCounts/counts-bonus-chapter2.html",
+      "path": "/bonus-chapters/counts-bonus-chapter2.html",
       "params": [
         "historical",
         "counts",
@@ -449,7 +449,7 @@
       ]
     },
     {
-      "path": "/subsitesCounts/counts-bonus-rome.html",
+      "path": "/bonus-chapters/counts-bonus-rome.html",
       "params": [
         "historical",
         "counts",
@@ -457,7 +457,7 @@
       ]
     },
     {
-      "path": "/subsitesOdyssey/odyssey-bonus.html",
+      "path": "/bonus-chapters/odyssey-bonus.html",
       "params": [
         "historical",
         "odyssey",
@@ -465,7 +465,7 @@
       ]
     },
     {
-      "path": "/subsitesMasks/masks-bonus.html",
+      "path": "/bonus-chapters/masks-bonus.html",
       "params": [
         "historical",
         "masks",

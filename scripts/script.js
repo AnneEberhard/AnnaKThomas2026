@@ -153,19 +153,22 @@ function closeMobileMenu() {
  */
 function renderMainSite(siteId) {
   currentGenre = siteId;
-  let divId = siteId+"Top";
+  let divId = siteId + "Top";
   let topDiv = document.getElementById(divId);
   let siteIndex = findSiteIndexById(mainSites, siteId);
   if (siteIndex !== -1) {
     let site = mainSites[siteIndex].languages[setLanguage];
     let templateHTML =
-      generateSiteTitle(site.title, siteId) + generateSiteParagraphs(site.paragraphs);
-    if (siteId=="buy") {
+      generateSiteTitle(site.title, siteId) +
+      generateSiteParagraphs(site.paragraphs);
+    if (siteId == "buy") {
       for (let section of site.sections) {
-        templateHTML += generateSectionExtern(section);}
-      } else {
+        templateHTML += generateSectionExtern(section);
+      }
+    } else {
       for (let section of site.sections) {
-      templateHTML += generateSection(section);}
+        templateHTML += generateSection(section);
+      }
     }
     topDiv.innerHTML = templateHTML;
   } else {
@@ -206,12 +209,11 @@ function generateSection(section) {
       ${section.links
         .map(
           (link) =>
-            `<a class="siteNavTopLink" href="${link.url}">${link.text}</a>`
+            `<a class="siteNavTopLink" href="${link.url}">${link.text}</a>`,
         )
         .join("")}
     </div>`;
 }
-
 
 function generateSectionExtern(section) {
   return `
@@ -223,7 +225,7 @@ function generateSectionExtern(section) {
       ${section.links
         .map(
           (link) =>
-            `<a target="_blank" class="siteNavTopLink" href="${link.url}">${link.text}</a>`
+            `<a target="_blank" class="siteNavTopLink" href="${link.url}">${link.text}</a>`,
         )
         .join("")}
     </div>`;
@@ -259,10 +261,12 @@ function renderBookSite(genre, id, seriesExists) {
     renderBookDetails(data, `${id}Bottom`);
   }
   renderBookSiteTop(id, `${id}Top`);
- // renderNav(id, `${id}Nav`);
   renderBackground(genre, id);
   renderPersonage(id);
-  renderSourcesSite(id)
+  renderSourcesSite(id);
+  if (id == "elves") {
+    renderFamilyTrees(id);
+  }
 }
 
 /**
@@ -357,7 +361,7 @@ function generateBookSiteParagraphs(paragraphs) {
 function generateBookSiteNavTop(links) {
   return `<div class="siteNavTop">${links
     .map(
-      (link) => `<a class="siteNavTopLink" href="${link.url}">${link.text}</a>`
+      (link) => `<a class="siteNavTopLink" href="${link.url}">${link.text}</a>`,
     )
     .join("")}</div>`;
 }
@@ -391,11 +395,11 @@ function renderBookDetails(bookData, divId) {
   let templateHTML = "";
   if (bookData.length > 0) {
     let seriesBooks = bookData.filter(
-      (b) => b.seriesId === bookData[0].seriesId
+      (b) => b.seriesId === bookData[0].seriesId,
     );
     for (let seriesBook of seriesBooks) {
       templateHTML += generateBookDetailsTemplate(
-        seriesBook.languages[setLanguage]
+        seriesBook.languages[setLanguage],
       );
     }
   } else {
@@ -414,8 +418,8 @@ function generateBookDetailsTemplate(book) {
   let paragraphsHTML = book.paragraphs
     .map((paragraph) => `<p>${paragraph}</p>`)
     .join("");
-    const secondLinkHTML = book.externalLink2 
-    ? `<a target="_blank" class="amazonLink" href="${book.externalLink2}">${setLanguage === "de" ? "Link zu anderen Händlern" : "Link to other shops"}</a>` 
+  const secondLinkHTML = book.externalLink2
+    ? `<a target="_blank" class="amazonLink" href="${book.externalLink2}">${setLanguage === "de" ? "Link zu anderen Händlern" : "Link to other shops"}</a>`
     : "";
   if (setLanguage === "de") {
     return `<div class="bookContainer">

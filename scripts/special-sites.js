@@ -209,9 +209,9 @@ function renderPersonageTop(siteId) {
   if (siteIndex !== -1) {
     let site = personSitesHeader[siteIndex].languages[setLanguage];
     topDiv.innerHTML += `<h2>${site.header}</h2>`;
-    for (let subHeader of site.subHeaders) {
-      topDiv.innerHTML += `<h3><a href="#${subHeader.subHeaderLink}">${subHeader.subHeaderText}</a></h3>`;
-    }
+//    for (let subHeader of site.subHeaders) {
+//      topDiv.innerHTML += `<h3><a href="#${subHeader.subHeaderLink}">${subHeader.subHeaderText}</a></h3>`;
+//    }
     for (let paragraph of site.paragraphs) {
       topDiv.innerHTML += `<p>${paragraph}</p>`;
     }
@@ -358,10 +358,10 @@ async function generateExtraBottomContent(bookId) {
  * @param {string} genre - needed for nav highlight
  * @param {string} bookId - id for respective books such as masks
  */
-function renderFamilyTrees(genre, bookId) {
-  currentGenre = genre;
-  renderFamilyTreeContent(bookId);
-  renderNav(bookId, `${bookId}FamilyTreeNav`);
+function renderFamilyTrees(id) {
+  console.log(id);
+  renderFamilyTreeContent(id);
+  //renderNav(id, `${id}FamilyTreeNav`);
 }
 
 /**
@@ -656,7 +656,7 @@ async function renderTimeline(genre, bookId) {
   currentGenre = genre;
   await renderTimelineTop(bookId);
   renderTimelineBottom(bookId);
-  renderNav(bookId, `${bookId}TimelineNav`);
+  //renderNav(bookId, `${bookId}TimelineNav`);
 }
 
 /**

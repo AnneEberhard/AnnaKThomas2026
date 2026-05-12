@@ -108,6 +108,7 @@ function renderSharedContent() {
  * @param {string} path - path to respective json
  */
 async function fetchJSON(path) {
+  console.log(path);
   try {
     const response = await fetch(path);
     if (!response.ok) {
@@ -223,7 +224,6 @@ async function renderContentBasedOnPage() {
     pageData.sourcesSites.find((entry) => path.includes(entry.path)) ||
     pageData.timelineSites.find((entry) => path.includes(entry.path)) ||
     pageData.bonusChapterSites.find((entry) => path.includes(entry.path));
-
   if (matchingEntry) {
     let renderFunction;
     if (matchingEntry.path.includes("person")) {
@@ -246,7 +246,6 @@ async function renderContentBasedOnPage() {
       renderFunction =
         functionMap[matchingEntry.path] || functionMap["/booksites"];
     }
-
   if (renderFunction) {
     renderFunction(...matchingEntry.params);
   }

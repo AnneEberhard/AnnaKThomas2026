@@ -1,17 +1,16 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>AnnaKThomas - Time Curves</title>
+    <title>AnnaKThomas - Odyssey to the Promised Land</title>
     <script src="/scripts/script.js"></script>
     <script src="/scripts/special-sites.js"></script>
     <script src="/scripts/init.js"></script>
-    <script src="/scripts/sidebar.js"></script>
     <script
-      src="https://js-de.sentry-cdn.com/c33733f03d9e6d2e13d1680a4b658e92.min.js"
-      crossorigin="anonymous"
-    ></script>
+    src="https://js-de.sentry-cdn.com/c33733f03d9e6d2e13d1680a4b658e92.min.js"
+    crossorigin="anonymous"
+  ></script>
     <link
       rel="icon"
       type="image/png"
@@ -21,40 +20,15 @@
     <link rel="stylesheet" href="/styles/styles-templates.css" />
     <link rel="stylesheet" href="/styles/styles.css" />
   </head>
-  <body onload="(includeHTML(), init())">
+  <body onload="init()">
     <div w3-include-html="/templates/header.html"></div>
     <div w3-include-html="/templates/background.html"></div>
     <div class="mainContainer">
       <div class="mainMiddleContainer">
-        <div class="homeLinkBox">
-          <a class="homelink" href="/index.html">Zurück zur Homepage</a>
-        </div>
-        <div id="timeBooks">
-          <div id="timeTop"></div>
-          <div id="timeBottom"></div>
-        </div>
-        <div class="dividerSmall"></div>
-        <div id="timeBackground">
-          <div id="timeBackgroundTop"></div>
-          <div id="timeBackgroundBottom"></div>
-        </div>
-        <div class="dividerSmall"></div>
-        <div id="timePersons">
-          <div id="timePersonsTop"></div>
-          <div id="timePersonsBottom"></div>
-        </div>
-        <div class="dividerSmall"></div>
-        <div id="">
-          <div id="timeGlossary"></div>
-          <div id="timeSources"></div>
-        </div>
-        <div class="dividerSmall"></div>
-        <div class="homeLinkBox">
-          <a class="homelink" href="/index.html">Zurück zur Homepage</a>
-        </div>
-      </div>
-    </div>
-    <div w3-include-html="/templates/footer.html"></div>
+      <div id="radegundeTop"></div>
+      <div id="radegundeBottom"></div>
+      <div id="radegundeNav"></div>
+    </div></div>
     <div class="scrollToTopButton">
       <svg
         onclick="scrollToTop()"
@@ -78,5 +52,7 @@
         />
       </svg>
     </div>
+
+    <div w3-include-html="/templates/footer.html"></div>
   </body>
 </html>
