@@ -369,7 +369,7 @@
           },
           {
             "text": "Glossary and Sources",
-            "url": "#masksSources"
+            "url": "#masksSource"
           },
           {
             "text": "Timeline",
@@ -415,7 +415,7 @@
           },
           {
             "text": "Quellen und Links zu den Karten",
-            "url": "#alsterSources"
+            "url": "#alsterSource"
           }
         ]
       },
@@ -443,7 +443,7 @@
           },
           {
             "text": "Quellen und Links zu den Karten",
-            "url": "#alsterSources"
+            "url": "#alsterSource"
           }
         ]
       }
