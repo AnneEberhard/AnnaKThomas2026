@@ -244,18 +244,32 @@ tr:last-child {
 
 .dual-images {
   display: flex;
-  gap: 8px;
+  gap: 4px;
 }
+
+.dual-images a {
+  display: flex;
+  width: calc(50% - 4px);
+}
+
 .sideImage {
-  width: calc(50% - 20px);
+  width: 100%;
   height: auto;
+  display: block;
   margin: 4px;
+  cursor: pointer;
 }
 
 .img-wrap {
   flex-wrap: wrap;
   display: flex;
+  justify-content: center;
   gap: 4px;
+}
+
+.img-wrap a {
+  width: calc(50% - 2px);
+  display: flex;
 }
 
 /*table hide*/

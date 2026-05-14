@@ -44,7 +44,7 @@
             "url": "/bonus-chapters/bonus-world-irionne.html"
           },
           {
-            "text": "Bonuskapitel Bonuskapitel Weltenringen: Syl und Nycas",
+            "text": "Bonuskapitel Weltenringen: Syl und Nycas",
             "url": "/bonus-chapters/bonus-world-syl.html"
           }
         ]
@@ -512,7 +512,7 @@
             "url": "#mindSource"
           },
           {
-            "text": "Bonus Chapter I: Prologue to Henri and Ella's failed escape",
+            "text": "Bonus chapter I: Prologue to Henri and Ella's failed escape",
             "url": "/bonus-chapters/mind-bonus-henri.html"
           },
           {
@@ -520,7 +520,7 @@
             "url": "/bonus-chapters/mind-bonus-curtius.html"
           },
           {
-            "text": "Bonus Chapter III: Danton explains the Estates General to Niklas ",
+            "text": "Bonus chapter III: Danton explains the Estates General to Niklas",
             "url": "/bonus-chapters/mind-bonus-danton.html"
           }
         ]
@@ -550,8 +550,16 @@
             "url": "#countsPersons"
           },
           {
-            "text": "Titel, Quellen und Links zu Karten",
-            "url": "#countsSource"
+            "text": "Adelstitel",
+            "url": "#countsGlossary"
+          },
+          {
+            "text": "Quellen",
+            "url": "#countsSources"
+          },
+          {
+            "text": "Links zu Karten",
+            "url": "#countsMaps"
           },
           {
             "text": "Bonuskapitel I: Das gestrichene Kapitel 2 - Wie Gabriel gefunden wurde",
@@ -582,11 +590,19 @@
             "url": "#countPersons"
           },
           {
-            "text": "Titles, Sources and Links to Maps",
-            "url": "#countSource"
+            "text": "Aristocratic titles",
+            "url": "#countsGlossary"
           },
           {
-            "text": "Bonus Chapter I: The deleted chapter 2 - How Gabriel was found",
+            "text": "Sources",
+            "url": "#countsSources"
+          },
+          {
+            "text": "Links to Maps",
+            "url": "#countsMaps"
+          },
+          {
+            "text": "Bonus chapter I: The deleted chapter 2 - How Gabriel was found",
             "url": "/bonus-chapters/counts-bonus-henri.html"
           },
           {

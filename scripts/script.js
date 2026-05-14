@@ -126,22 +126,6 @@ function scrollToTop() {
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
-/**
- * opens the mobile menu
- */
-function showMobileMenu() {
-  const mobileNav = document.getElementById("mobileNav");
-  mobileNav.classList.remove("dNone");
-}
-
-/**
- * closes the mobile menu
- */
-function closeMobileMenu() {
-  const mobileNav = document.getElementById("mobileNav");
-  mobileNav.classList.add("dNone");
-}
-
 // functions for main sites
 
 /**
@@ -225,7 +209,7 @@ function generateSectionExtern(section) {
       ${section.links
         .map(
           (link) =>
-            `<a target="_blank" class="siteNavTopLink" href="${link.url}">${link.text}</a>`,
+            `<a target="_blank" rel="noopener noreferrer" class="siteNavTopLink" href="${link.url}">${link.text}</a>`,
         )
         .join("")}
     </div>`;
@@ -242,8 +226,6 @@ function generateSectionExtern(section) {
  * @param {boolean} seriesExists - depending on whether it is more than one book
  */
 function renderBookSite(genre, id, seriesExists) {
-  console.log(genre, id, seriesExists);
-  currentGenre = genre;
   if (seriesExists == true) {
     data = collectBooksOfSeries(genre, id);
     bookId = data[0].bookId;
@@ -265,11 +247,14 @@ function renderBookSite(genre, id, seriesExists) {
   renderPersonage(id);
   renderSourcesSite(id);
   if (["elves", "odyssey", "masks", "alster"].includes(id)) {
-  renderFamilyTrees(id);
-}
-if (["odyssey", "masks"].includes(id)) {
-  renderTimeline(id);
-}
+    renderFamilyTrees(id);
+  }
+  if (["odyssey", "masks"].includes(id)) {
+    renderTimeline(id);
+  }
+  if (["bards", "children", "counts", "elves", "masks", "mind", "odyssey"].includes(id)) {
+    renderBonusLinks(id);
+  }
 
 }
 
@@ -402,13 +387,15 @@ function renderBookDetails(bookData, divId) {
       (b) => b.seriesId === bookData[0].seriesId,
     );
     for (let seriesBook of seriesBooks) {
+      let bookId = seriesBook.bookId;
       templateHTML += generateBookDetailsTemplate(
-        seriesBook.languages[setLanguage],
+        seriesBook.languages[setLanguage], bookId
       );
     }
   } else {
+    let bookId = bookData.bookId;
     let book = bookData.languages[setLanguage];
-    templateHTML = generateBookDetailsTemplate(book);
+    templateHTML = generateBookDetailsTemplate(book, bookId);
   }
   bottomDiv.innerHTML = templateHTML;
 }
@@ -418,20 +405,20 @@ function renderBookDetails(bookData, divId) {
  * @param {Object[]} book - JSONArray of the respective book in the correct language (ultimately from allBooks)
  * @returns {HTMLElement} book content
  */
-function generateBookDetailsTemplate(book) {
+function generateBookDetailsTemplate(book, bookId) {
   let paragraphsHTML = book.paragraphs
     .map((paragraph) => `<p>${paragraph}</p>`)
     .join("");
   const secondLinkHTML = book.externalLink2
-    ? `<a target="_blank" class="amazonLink" href="${book.externalLink2}">${setLanguage === "de" ? "Link zu anderen Händlern" : "Link to other shops"}</a>`
+    ? `<a target="_blank" rel="noopener noreferrer" class="amazonLink" href="${book.externalLink2}">${setLanguage === "de" ? "Link zu anderen Händlern" : "Link to other shops"}</a>`
     : "";
   if (setLanguage === "de") {
-    return `<div class="bookContainer">
+    return `<div class="bookContainer" id="${bookId}">
       <img class="cover" src="${book.imageURL}" alt="">
       <div class="bookContainerText">
         <h3>${book.title}</h3> 
         ${paragraphsHTML}
-        <a target="_blank" class="amazonLink" href="${book.externalLink}">Link zu Amazon</a>
+        <a target="_blank" rel="noopener noreferrer" class="amazonLink" href="${book.externalLink}">Link zu Amazon</a>
          ${secondLinkHTML}
         </div>
     </div>`;
@@ -441,7 +428,7 @@ function generateBookDetailsTemplate(book) {
       <div class="bookContainerText">
         <h3>${book.title}</h3> 
         ${paragraphsHTML}
-        <a target="_blank" class="amazonLink" href="${book.externalLink}">Link to Amazon</a>
+        <a target="_blank" rel="noopener noreferrer" class="amazonLink" href="${book.externalLink}">Link to Amazon</a>
          ${secondLinkHTML}
       </div>
     </div>`;

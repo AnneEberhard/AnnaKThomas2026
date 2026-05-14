@@ -1,4 +1,5 @@
 All sites on root level will be started with onload=init()
+Reason why: switch between languages is only possible if renderContentBasedonPage() and renderSharedContent() are with function german() and english()
 
 Init (init.js) 
     includes footer, header, background and mobile templates

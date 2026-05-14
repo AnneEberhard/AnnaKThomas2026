@@ -158,7 +158,7 @@ function generateImprintGerman() {
   </p>
   <h3 >Bilder und Icons</h3>
   <p>Alle Bilder und Texte, soweit nicht anders angegeben, sind Eigentum von Anne Eberhard</p>
-  <a target="_blank" href="https://icons8.com/icon/31761/amazon">Amazon</a> Icon von <a target="_blank" href="https://icons8.com">Icons8</a>
+  <a target="_blank" rel="noopener noreferrer" href="https://icons8.com/icon/31761/amazon">Amazon</a> Icon von <a target="_blank" rel="noopener noreferrer" href="https://icons8.com">Icons8</a>
     `;
 }
 
@@ -292,7 +292,7 @@ function generateImprintEnglish() {
 <h3 >Pictures and Icons</h3>
 <p>All images and texts, unless otherwise stated, are the property of Anne Eberhard</p>
 
-    <a target="_blank" href="https://icons8.com/icon/31761/amazon">Amazon</a> Icon von <a target="_blank" href="https://icons8.com">Icons8</a>
+    <a target="_blank" rel="noopener noreferrer" href="https://icons8.com/icon/31761/amazon">Amazon</a> Icon von <a target="_blank" rel="noopener noreferrer" href="https://icons8.com">Icons8</a>
     `;
 }
 
@@ -342,7 +342,7 @@ function generatePrivacyPolicyGerman() {
     Eine Liste der Aufsichtsbehörden (für den nicht-öffentlichen Bereich) mit Anschrift
     finden Sie unter:
     <a
-      target="_blank"
+      target="_blank" rel="noopener noreferrer"
       href="https://www.bfdi.bund.de/DE/Service/Anschriften/Laender/Laender-node.html"
       >https://www.bfdi.bund.de/DE/Service/Anschriften/Laender/Laender-node.html</a
     >
@@ -540,7 +540,7 @@ function generatePrivacyPolicyEnglish() {
     A list of supervisory authorities (for the non-public sector) with address
     can be found at:
     <a
-      target="_blank"
+      target="_blank" rel="noopener noreferrer"
       href="https://www.bfdi.bund.de/DE/Service/Anschriften/Laender/Laender-node.html"
       >https://www.bfdi.bund.de/DE/Service/Anschriften/Laender/Laender-node.html</a
     >

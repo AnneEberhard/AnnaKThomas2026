@@ -1,0 +1,114 @@
+[
+  {
+    "id": "intro",
+    "introText": {
+      "de": "Hier klicken zum",
+      "en": "Click here for"
+    }
+  },
+  {
+    "id": "bards",
+    "bonusLinks": [
+      {
+        "url": "/bonus-chapters/bonus-elven-way.html",
+        "de": "Bonuskapitel Elfenweg",
+        "en": "bonus chapter Elven Way"
+      },
+      {
+        "url": "/bonus-chapters/bonus-elven-swamp.html",
+        "de": "Bonuskapitel Elfenweg - Sumpfzauber",
+        "en": "bonus chapter Eleven Way - Swamp Magic"
+      },
+      {
+        "url": "/bonus-chapters/bonus-world-irionne.html",
+        "de": "Bonuskapitel Weltenringen: Irionne und Niturio",
+        "en": "bonus chapter World Struggle - Irionne and Niturio"
+      },
+      {
+        "url": "/bonus-chapters/bonus-world-syl.html",
+        "de": "Bonuskapitel Weltenringen: Syl und Nycas",
+        "en": "bonus chapter World Struggle - Syl and Nycas"
+      }
+    ]
+  },
+  {
+    "id": "children",
+    "bonusLinks": [
+      {
+        "url": "/bonus-chapters/children-bonus.html",
+        "de": "Bonuskapitel",
+        "en": "bonus chapter"
+      }
+    ]
+  },
+  {
+    "id": "counts",
+    "bonusLinks": [
+      {
+        "url": "/bonus-chapters/counts-bonus-chapter2.html",
+        "de": "Bonuskapitel I: Das gestrichene Kapitel 2 - Wie Gabriel gefunden wurde",
+        "en": "bonus chapter I: The deleted chapter 2 - How Gabriel was found"
+      },
+      {
+        "url": "/bonus-chapters/counts-bonus-rome.html",
+        "de": "Bonuskapitel II: Rom - Hagen kommt zu Winsterburg und trifft auf Gabriel",
+        "en": "bonus chapter II: Rome - Hagen comes to Winsterburg and meets Gabriel"
+      }
+    ]
+  }, 
+  {
+    "id": "elves",
+    "bonusLinks": [
+      {
+        "url": "/bonus-chapters/elves-bonus-diana.html",
+        "de": "Bonuskapitel für Von Elfen und Wölfen",
+        "en": "bonus chapter for Of Elves and Wolves"
+      },
+      {
+        "url": "/bonus-chapters/elves-bonus-human.html",
+        "de": "Bonuskapitel für Im Namen der Menschen",
+        "en": "bonus chapter for In the Name of Humans"
+      }
+    ]
+  },
+  {
+    "id": "masks",
+    "bonusLinks": [
+      {
+        "url": "/bonus-chapters/masks-bonus.html",
+        "de": "Bonuskapitel",
+        "en": "bonus chapter"
+      }
+    ]
+  },
+  {
+    "id": "mind",
+    "bonusLinks": [
+      {
+        "url": "/bonus-chapters/mind-bonus-henri.html",
+        "de": "Bonuskapitel I: Prolog der geplatzten Flucht von Henri und Ella",
+        "en": "bonus chapter I: Prologue to Henri and Ella's failed escape"
+      },
+      {
+        "url": "/bonus-chapters/mind-bonus-curtius.html",
+        "de": "Bonuskapitel II: Der Salon des Dr. Curtius (Madame Tussaud)",
+        "en": "bonus chapter II: Time for learning - the salon of Dr. Curtius"
+      },
+      {
+        "url": "/bonus-chapters/mind-bonus-danton.html",
+        "de": "Bonuskapitel III: Danton erklärt Niklas die Generalstände",
+        "en": "bonus chapter III: Danton explains the Estates General to Niklas"
+      }
+    ]
+  },
+  {
+    "id": "odyssey",
+    "bonusLinks": [
+      {
+        "url": "/bonus-chapters/odyssey-bonus.html",
+        "de": "Bonuskapitel",
+        "en": "bonus chapter"
+      }
+    ]
+  }
+]

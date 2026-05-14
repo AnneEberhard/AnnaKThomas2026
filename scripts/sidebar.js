@@ -19,11 +19,11 @@ function renderSidebarDiv(gallery) {
       wrapper.appendChild(createDualBookBlock(series));
     } else {
       if (series.imagesDE.length > 0) {
-        wrapper.appendChild(createLanguageBlock("Deutsch", series.imagesDE));
+        wrapper.appendChild(createLanguageBlock("Deutsch", series.imagesDE, series.linksDE));
       }
 
       if (series.imagesEN.length > 0) {
-        wrapper.appendChild(createLanguageBlock("English", series.imagesEN));
+        wrapper.appendChild(createLanguageBlock("English", series.imagesEN, series.linksEN));
       }
     }
 
@@ -32,24 +32,25 @@ function renderSidebarDiv(gallery) {
 }
 
 
-function createLanguageBlock(label, images) {
+function createLanguageBlock(label, images, link) {
   const block = document.createElement("div");
   block.classList.add("lang-block");
-
-  const heading = document.createElement("h3");
-  heading.textContent = label;
- // block.appendChild(heading);
 
   const imgWrap = document.createElement("div");
   imgWrap.classList.add("img-wrap");
 
   images.forEach((src) => {
+    const a = document.createElement("a");
+    a.href = link;
+
     const img = document.createElement("img");
     img.src = src;
     img.alt = label;
     img.loading = "lazy";
     img.className = "sideImage";
-    imgWrap.appendChild(img);
+
+    a.appendChild(img);
+    imgWrap.appendChild(a);
   });
 
   block.appendChild(imgWrap);
@@ -61,35 +62,34 @@ function createDualBookBlock(series) {
     const block = document.createElement("div");
     block.classList.add("dual-book");
 
-    // Header
-    const header = document.createElement("div");
-    header.classList.add("dual-header");
-
-    const deTitle = document.createElement("h3");
-    deTitle.textContent = "Deutsch";
-
-    const enTitle = document.createElement("h3");
-    enTitle.textContent = "English";
-
-   //header.appendChild(deTitle);
-   //header.appendChild(enTitle);
-
-    // Images
     const imageWrap = document.createElement("div");
     imageWrap.classList.add("dual-images");
 
+    // Deutsch
+    const linkDE = document.createElement("a");
+    linkDE.href = series.linksDE;
+
     const imgDE = document.createElement("img");
-    imgDE.src = series.imagesDE[0];
+    imgDE.src = series.imagesDE?.[0] || "";
+    imgDE.alt = `${series.id} Deutsch`;
     imgDE.classList.add("sideImage");
 
+    linkDE.appendChild(imgDE);
+
+    // Englisch
+    const linkEN = document.createElement("a");
+    linkEN.href = series.linksEN;
+
     const imgEN = document.createElement("img");
-    imgEN.src = series.imagesEN[0];
+    imgEN.src = series.imagesEN?.[0] || "";
+    imgEN.alt = `${series.id} English`;
     imgEN.classList.add("sideImage");
 
-    imageWrap.appendChild(imgDE);
-    imageWrap.appendChild(imgEN);
+    linkEN.appendChild(imgEN);
 
-   // block.appendChild(header);
+    imageWrap.appendChild(linkDE);
+    imageWrap.appendChild(linkEN);
+
     block.appendChild(imageWrap);
 
     return block;

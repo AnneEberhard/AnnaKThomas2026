@@ -11,8 +11,8 @@
             "/assets/img/covers/demon-leap.jpg",
             "/assets/img/covers/demon-dream.jpg"
         ],
-        "linksDE": [],
-        "linksEN": []
+        "linksDE": "/booksites/children-of-angels.html",
+        "linksEN": "/booksites/children-of-angels.html"
     },
     {
         "id": "elves",
@@ -32,8 +32,8 @@
             "/assets/img/covers/lena-live.jpg",
             "/assets/img/covers/lena-justice.jpg"
         ],
-        "linksDE": [],
-        "linksEN": []
+        "linksDE": ["/booksites/of-elves-and-wolves.html"],
+        "linksEN": ["/booksites/of-elves-and-wolves.html"]
     },
     {
         "id": "bards",
@@ -43,7 +43,7 @@
             "/assets/img/covers/weltenringen.jpg"
         ],
         "imagesEN": [],
-        "linksDE": [],
+        "linksDE": ["/booksites/bards-of-thuran.html"],
         "linksEN": []
     },
     {
@@ -54,8 +54,8 @@
         "imagesEN": [
             "/assets/img/covers/timeCurves.jpg"
         ],
-        "linksDE": [],
-        "linksEN": []
+        "linksDE": ["/booksites/time-curves.html"],
+        "linksEN": ["/booksites/time-curves.html"]
     },
     {
         "id": "odyssey",
@@ -63,10 +63,10 @@
             "/assets/img/covers/irrfahrt.jpg"
         ],
         "imagesEN": [
-            "/assets/img/covers/Odyssey.jpg"
+            "/assets/img/covers/odyssey.jpg"
         ],
-        "linksDE": [],
-        "linksEN": []
+        "linksDE": ["/booksites/odyssey.html"],
+        "linksEN": ["/booksites/odyssey.html"]
     },
     {
         "id": "mask",
@@ -76,8 +76,8 @@
         "imagesEN": [
             "/assets/img/covers/the-masks-of-florence.jpg"
         ],
-        "linksDE": [],
-        "linksEN": []
+        "linksDE": ["/booksites/masks-of-florence.html"],
+        "linksEN": ["/booksites/masks-of-florence.html"]
     },
     {
         "id": "alster",
@@ -87,8 +87,8 @@
         "imagesEN": [
             "/assets/img/covers/alsterdiamonds.jpg"
         ],
-        "linksDE": [],
-        "linksEN": []
+        "linksDE": ["/booksites/alster-diamonds.html"],
+        "linksEN": ["/booksites/alster-diamonds.html"]
     },
     {
         "id": "mind",
@@ -98,8 +98,8 @@
         "imagesEN": [
             "/assets/img/covers/the-mind-on-fire.jpg"
         ],
-        "linksDE": [],
-        "linksEN": []
+        "linksDE": ["/booksites/mind-on-fire.html"],
+        "linksEN": ["/booksites/mind-on-fire.html"]
     },
     {
         "id": "count",
@@ -109,15 +109,15 @@
         "imagesEN": [
             "/assets/img/covers/the-counts-servant.jpg"
         ],
-        "linksDE": [],
-        "linksEN": []
+        "linksDE": ["/booksites/counts-servant.html"],
+        "linksEN": ["/booksites/counts-servant.html"]
     },
     {
         "id": "frida",
         "imagesDE": [ "/assets/img/covers/fridaVonHameln.jpg"],
         "imagesEN": ["/assets/img/covers/fridaOfHamelin.jpg"],
-        "linksDE": [],
-        "linksEN": []
+        "linksDE": ["/booksites/frida.html"],
+        "linksEN": ["/booksites/frida.html"]
     },
     {
         "id": "life",
@@ -127,8 +127,8 @@
         "imagesEN": [
             "/assets/img/covers/lifestages.jpg"
         ],
-        "linksDE": [],
-        "linksEN": []
+        "linksDE": ["/booksites/novellas.html"],
+        "linksEN": ["/booksites/novellas.html"]
     },
     {
         "id": "dance",
@@ -138,7 +138,7 @@
         "imagesEN": [
             "/assets/img/covers/dance-the-wind.jpg"
         ],
-        "linksDE": [],
-        "linksEN": []
+        "linksDE": ["/booksites/novellas.html"],
+        "linksEN": ["/booksites/novellas.html"]
     }
 ]

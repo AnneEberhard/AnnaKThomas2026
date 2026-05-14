@@ -26,8 +26,12 @@
           "de": {
             "links": [
               {
-                "text": "Zurück zur Homepage",
-                "url": "/index.html"
+                "text": "LebensAbschnitt",
+                "url": "#life"
+              },
+              {
+                "text": "Tanz mit dem Wind",
+                "url": "#dance"
               },
               {
                 "text": "Zur Bonusgeschichte",
@@ -38,8 +42,12 @@
           "en": {
             "links": [
               {
-                "text": "Back to Homepage",
-                "url": "/index.html"
+                "text": "LifeStages",
+                "url": "#life"
+              },
+              {
+                "text": "Dance the Wind",
+                "url": "#dance"
               },
               {
                 "text": "Bonus story",

@@ -1,0 +1,44 @@
+{
+    "de": {
+        "header": "Links zu Karten",
+        "links": [
+            {
+                "link": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~361250~90128807:Lutetia-Paris?qvq=q:Paris%201652;lc:RUMSEY~8~1&mi=0&trs=109",
+                "linktext": "Paris 1652"
+            },
+            {
+                "link": "https://de.wikipedia.org/wiki/Geschichte_Berlins#/media/Datei:Mem-hardt_Grundri%C3%9F_der_Beyden_Churf._Residentz_St%C3%A4tte_Berlin_und_C%C3%B6lln_1652_(1888).jpg",
+                "linktext": "Berlin – Memhardt-Plan 1652"
+            },
+            {
+                "link": "https://upload.wikimedia.org/wikipedia/commons/9/96/ZLB-Berliner_Ansichten-Januar.jpg",
+                "linktext": "Berlin 1688"
+            },
+            {
+                "link": "https://upload.wikimedia.org/wikipedia/commons/8/89/Friedrich-Wilh-Kur-1648.jpg",
+                "linktext": "Gesamtwappen des Großen Kurfürsten"
+            }
+        ]
+    },
+    "en": {
+        "header": "Links to maps",
+        "links": [
+            {
+                "link": "https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~361250~90128807:Lutetia-Paris?qvq=q:Paris%201652;lc:RUMSEY~8~1&mi=0&trs=109",
+                "linktext": "Paris 1652"
+            },
+            {
+                "link": "https://de.wikipedia.org/wiki/Geschichte_Berlins#/media/Datei:Mem-hardt_Grundri%C3%9F_der_Beyden_Churf._Residentz_St%C3%A4tte_Berlin_und_C%C3%B6lln_1652_(1888).jpg",
+                "linktext": "Berlin – Memhardt-Plan 1652"
+            },
+            {
+                "link": "https://upload.wikimedia.org/wikipedia/commons/9/96/ZLB-Berliner_Ansichten-Januar.jpg",
+                "linktext": "Berlin 1688"
+            },
+            {
+                "link": "https://upload.wikimedia.org/wikipedia/commons/8/89/Friedrich-Wilh-Kur-1648.jpg",
+                "linktext": "The Great Elector's Full Coat of Arms"
+            }
+        ]
+    }
+}

@@ -166,11 +166,10 @@ function templateAboutMeTextEnglish() {
  * @param {string} genre - needed for menu highlight
  */
 function renderNovellas(genre) {
-  currentGenre = genre;
   let topDivId = genre + "Top";
   let bottomDivID = genre + "Bottom";
   let genreData = collectBooksOfSeries(genre, genre);
-  renderMainSite(genre, topDivId);
+  //renderMainSite(genre, topDivId);
   renderBookDetails(genreData, bottomDivID);
   renderNav("novellas", `novellasNav`);
 }
@@ -209,9 +208,9 @@ function renderPersonageTop(siteId) {
   if (siteIndex !== -1) {
     let site = personSitesHeader[siteIndex].languages[setLanguage];
     topDiv.innerHTML += `<h2>${site.header}</h2>`;
-//    for (let subHeader of site.subHeaders) {
-//      topDiv.innerHTML += `<h3><a href="#${subHeader.subHeaderLink}">${subHeader.subHeaderText}</a></h3>`;
-//    }
+    //    for (let subHeader of site.subHeaders) {
+    //      topDiv.innerHTML += `<h3><a href="#${subHeader.subHeaderLink}">${subHeader.subHeaderText}</a></h3>`;
+    //    }
     for (let paragraph of site.paragraphs) {
       topDiv.innerHTML += `<p>${paragraph}</p>`;
     }
@@ -406,6 +405,7 @@ function renderSourcesSite(bookId) {
   const booksWithSpecialSource = ["children", "counts"];
   const booksWithSpecialGlossary = ["time"];
   const booksWithMapsAndSources = ["frida"];
+  const booksWithMapsLinks = ["counts"];
   if (booksWithGlossaries.includes(bookId)) {
     renderGlossary(bookId, "norm");
   }
@@ -420,6 +420,9 @@ function renderSourcesSite(bookId) {
   }
   if (booksWithMapsAndSources.includes(bookId)) {
     renderMapsAndSources(bookId);
+  }
+  if (booksWithMapsLinks.includes(bookId)) {
+    renderMapLinks(bookId);
   }
 }
 
@@ -442,15 +445,36 @@ async function renderMaps(bookId) {
   let sourceData = await findDataById("maps", bookId);
   let divId = bookId + "Maps";
   let targetDiv = document.getElementById(divId);
-  let title = sourceData.title[setLanguage];
-  let imgSrc = sourceData.links[setLanguage];
-  let template = `
+  for (item of sourceData) {
+    let title = item.title[setLanguage];
+    let imgSrc = item.links[setLanguage];
+    let template = `
     <h2>${title}</h2>
     <div class="maps">
     <img class="map" src="${imgSrc}" alt="${title}">
     </div>
   `;
-  targetDiv.innerHTML = template;
+    targetDiv.innerHTML += template;
+  }
+}
+
+//function for mapLinks
+
+async function renderMapLinks(bookId) {
+  let sourceData = await findDataById("maps", bookId);
+  let divId = bookId + "Maps";
+  let targetDiv = document.getElementById(divId);
+  let title = sourceData[setLanguage].header;
+  let langLinks = sourceData[setLanguage].links;
+  targetDiv.innerHTML = `<h2>${title}</h2>`
+  for (item of langLinks) {
+    let link = item.link;
+    let linktext = item.linktext;
+    let template = `
+    <a target="_blank" rel="noopener noreferrer" href="${item.link}"> ${item.linktext}</a><br>
+  `;
+    targetDiv.innerHTML += template;
+  }
 }
 
 // functions for glossary tables
@@ -492,7 +516,11 @@ function generateGlossaryTemplate(glossary, mode) {
 function generateGlossaryHeader() {
   let templateHTML = "";
   let headline;
-  if (setLanguage == "de") {
+  if ((bookId == "counts") & (setLanguage == "de")) {
+    headline = "Adelstitel";
+  } else if ((bookId == "counts") & (setLanguage == "en")) {
+    headline = "Aristocratic titles";
+  } else if (setLanguage == "de") {
     headline = "Begriffsverzeichnis";
   } else {
     headline = "Glossary";
@@ -561,6 +589,7 @@ function generateSpecialGlossaryTable(glossary) {
 async function renderSources(bookId) {
   let sourceData = await findDataById("sources", bookId);
   let divId = bookId + "Sources";
+  console.log(divId);
   let targetDiv = document.getElementById(divId);
   targetDiv.innerHTML = "";
   targetDiv.innerHTML = generateSourcesTemplate(sourceData);
@@ -634,7 +663,7 @@ function generateSpecialSourcesContent(languageSourceData) {
     subsection.text.forEach((text) => {
       templateHTML += `<p>${text}</p>`;
     });
-    templateHTML += `<a href="${subsection.link}"target="_blank">${subsection.linktext}</a>`;
+    templateHTML += `<a href="${subsection.link}"target="_blank" rel="noopener noreferrer">${subsection.linktext}</a>`;
   });
   return templateHTML;
 }
@@ -774,6 +803,42 @@ function generateTableRowSingle(previousYear, timelineData, event) {
 }
 
 // functions for bonus chapters
+
+async function renderBonusLinks(siteId) {
+  allBonusLinks = await findDataById("bonus", "allLinks");
+  let bonusLinksDiv = document.getElementById("bonusLinks");
+  bonusLinksDiv.innerHTML = "";
+
+  let siteIndex = allBonusLinks.findIndex((site) => site.id === siteId);
+  if (siteIndex !== -1) {
+    let introText = allBonusLinks[0].introText[setLanguage];
+    let bonusLinks = allBonusLinks[siteIndex].bonusLinks;
+    bonusLinksDiv.innerHTML = `<h2>Bonus</h2>`
+    for (let link of bonusLinks) {
+      url = link.url;
+      linkText = link[setLanguage];
+      bonusLinksDiv.innerHTML += generateBonusLinksTemplate(
+        introText,
+        url,
+        linkText,
+      );
+    }
+  } else {
+    console.log(`SiteId '${siteId}' not found`);
+  }
+}
+
+function generateBonusLinksTemplate(introText, url, linkText) {
+  let template = `
+        <div>
+          ${introText}
+          <a class="siteNavTopLink" href="${url}">
+            ${linkText}
+          </a>
+        </div>
+      `;
+  return template;
+}
 
 /**
  * initializes rendering of bonus chapter sites
