@@ -244,7 +244,10 @@ function renderBookSite(genre, id, seriesExists) {
   }
   renderBookSiteTop(id, `${id}Top`);
   renderBackground(genre, id);
-  renderPersonage(id);
+  if (id != "bards") {
+    renderPersonage(id);
+  }
+
   renderSourcesSite(id);
   if (["elves", "odyssey", "masks", "alster"].includes(id)) {
     renderFamilyTrees(id);
@@ -252,10 +255,19 @@ function renderBookSite(genre, id, seriesExists) {
   if (["odyssey", "masks"].includes(id)) {
     renderTimeline(id);
   }
-  if (["bards", "children", "counts", "elves", "masks", "mind", "odyssey"].includes(id)) {
+  if (
+    [
+      "bards",
+      "children",
+      "counts",
+      "elves",
+      "masks",
+      "mind",
+      "odyssey",
+    ].includes(id)
+  ) {
     renderBonusLinks(id);
   }
-
 }
 
 /**
@@ -389,7 +401,8 @@ function renderBookDetails(bookData, divId) {
     for (let seriesBook of seriesBooks) {
       let bookId = seriesBook.bookId;
       templateHTML += generateBookDetailsTemplate(
-        seriesBook.languages[setLanguage], bookId
+        seriesBook.languages[setLanguage],
+        bookId,
       );
     }
   } else {

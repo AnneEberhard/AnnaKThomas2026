@@ -384,7 +384,7 @@ async function generateFamilyTreeContent(bookId) {
   templateHTML += `<p>${familyTreeGroup.subheader}</p>`;
   for (let i = 0; i < familyTreeGroup.images.length; i++) {
     templateHTML += `<div class="pictureContainer"><h3 class="pictureHeader">${familyTreeGroup.images[i].subheaderImages}</h3>
-   <img src="${familyTreeGroup.images[i].imageUrl}"></div>`;
+   <img class="treePicture" src="${familyTreeGroup.images[i].imageUrl}"></div>`;
   }
   return templateHTML;
 }
