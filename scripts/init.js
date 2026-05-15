@@ -11,7 +11,7 @@ let allBooks;
 let overview;
 let personSitesHeader;
 let pageData;
-let siteImages = []
+let siteImages = [];
 let allBonusLinks;
 
 const functionMap = {
@@ -39,17 +39,38 @@ async function init() {
  * loads data for the global variables
  * menuTitles, navSites, mainSites, overview, pageFunctions
  */
-async function loadGeneralData() {
-  siteImages = await fetchJSON("/JSONs/general/images.json");
-  allBooks = await fetchJSON("/JSONs/general/allBooks.json");
-  mainSites = await fetchJSON("/JSONs/general/mainSites.json");
-  menuTitles = await fetchJSON("/JSONs/general/menuTitles.json");
-  navSites = await fetchJSON("/JSONs/general/navSites.json");
-  overview = await fetchJSON("/JSONs/general/overview.json");
-  pageData = await fetchJSON("/JSONs/general/pageData.json");
-  topSites = await fetchJSON("/JSONs/general/topSites.json");
 
-;}
+async function loadGeneralData() {
+  [
+    siteImages,
+    allBooks,
+    mainSites,
+    menuTitles,
+    navSites,
+    overview,
+    pageData,
+    topSites,
+  ] = await Promise.all([
+    fetchJSON("/JSONs/general/images.json"),
+    fetchJSON("/JSONs/general/allBooks.json"),
+    fetchJSON("/JSONs/general/mainSites.json"),
+    fetchJSON("/JSONs/general/menuTitles.json"),
+    fetchJSON("/JSONs/general/navSites.json"),
+    fetchJSON("/JSONs/general/overview.json"),
+    fetchJSON("/JSONs/general/pageData.json"),
+    fetchJSON("/JSONs/general/topSites.json"),
+  ]);
+}
+//async function loadGeneralData() {
+//  siteImages = await fetchJSON("/JSONs/general/images.json");
+//  allBooks = await fetchJSON("/JSONs/general/allBooks.json");
+//  mainSites = await fetchJSON("/JSONs/general/mainSites.json");
+//  menuTitles = await fetchJSON("/JSONs/general/menuTitles.json");
+//  navSites = await fetchJSON("/JSONs/general/navSites.json");
+//  overview = await fetchJSON("/JSONs/general/overview.json");
+//  pageData = await fetchJSON("/JSONs/general/pageData.json");
+//  topSites = await fetchJSON("/JSONs/general/topSites.json");
+//}
 
 /**
  * checks the browser language and sets language accordingly
@@ -129,7 +150,6 @@ function renderSubHeaderBottom() {
  * uses global variable functionMap
  */
 async function renderContentBasedOnPage() {
-
   let path = window.location.pathname;
   if (path === "/" || path === "/index.html") {
     renderHomePage("home");
@@ -137,19 +157,23 @@ async function renderContentBasedOnPage() {
   }
   let matchingEntry =
     pageData.mainSites.find((entry) => path.includes(entry.path)) ||
-    pageData.bookSites.find((entry) => path.includes(entry.path))  ||
+    pageData.bookSites.find((entry) => path.includes(entry.path)) ||
     pageData.bonusChapterSites.find((entry) => path.includes(entry.path));
   if (matchingEntry) {
     let renderFunction;
     if (matchingEntry.path.includes("bonus")) {
       renderFunction = functionMap["bonus"];
+    } else if (matchingEntry.path.includes("imprint")) {
+      renderImprint();
+    } else if (matchingEntry.path.includes("privacy-policy")) {
+      renderprivacyPolicy();
     } else {
       renderFunction =
         functionMap[matchingEntry.path] || functionMap["/booksites"];
     }
-  if (renderFunction) {
-    renderFunction(...matchingEntry.params);
-  }
+    if (renderFunction) {
+      renderFunction(...matchingEntry.params);
+    }
   }
 }
 
