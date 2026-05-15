@@ -115,12 +115,21 @@ function renderNovellas(genre) {
  * @param {string} id - id of series of book such as masks
  */
 async function renderPersonage(id) {
-  personSitesHeader = await fetchJSON("/JSONS/persons/personSitesHeader.json");
-  let personsUrl = `/JSONS/persons/${id}-persons.json`;
-  let personageObject = await fetchJSON(personsUrl);
+  personSitesHeader = await fetchJSON("/JSONs/persons/personSitesHeader.json");
+
+  let personsUrl = `/JSONs/persons/${id}-persons.json`;
   let siteId = id + "Persons";
-  renderPersonageTop(siteId);
-  renderPersonageBottom(siteId, personageObject);
+  const topDiv = document.getElementById(siteId + "Top");
+  const bottomDiv = document.getElementById(siteId + "Bottom");
+
+  fetchJSON(personsUrl).then((personageObject) => {
+    if (!Array.isArray(personageObject)) {
+      console.error("Invalid data", personageObject);
+      return;
+    }
+    topDiv.innerHTML = generatePersonageTopHTML(siteId);
+    bottomDiv.innerHTML = generatePersonAllTemplate(siteId, personageObject);
+  });
 }
 
 /**
@@ -128,38 +137,19 @@ async function renderPersonage(id) {
  * @param {string} genre - genre such as historical
  * @param {string} id- id for subsite such as masksPersons
  */
-function renderPersonageTop(siteId) {
-  let divId = siteId + "Top";
-  let topDiv = document.getElementById(divId);
-  if (topDiv) {
-    topDiv.innerHTML = "";
-  }
-
+function generatePersonageTopHTML(siteId) {
   let siteIndex = personSitesHeader.findIndex((site) => site.id === siteId);
+  let template = "";
   if (siteIndex !== -1) {
     let site = personSitesHeader[siteIndex].languages[setLanguage];
-    topDiv.innerHTML += `<h2>${site.header}</h2>`;
-    //    for (let subHeader of site.subHeaders) {
-    //      topDiv.innerHTML += `<h3><a href="#${subHeader.subHeaderLink}">${subHeader.subHeaderText}</a></h3>`;
-    //    }
+    template += `<h2>${site.header}</h2>`;
     for (let paragraph of site.paragraphs) {
-      topDiv.innerHTML += `<p>${paragraph}</p>`;
+      template += `<p>${paragraph}</p>`;
     }
   } else {
     console.log(`SiteId '${siteId}' not found`);
   }
-}
-
-/**
- * renders bottom part of personage sites
- * @param {string} siteId - id for subsite such as masksPersons
- * @param {Object[]} personageObject - loaded JSON
- */
-function renderPersonageBottom(siteId, personageObject) {
-  let divId = siteId + "Bottom";
-  let bottomDiv = document.getElementById(divId);
-  bottomDiv.innerHTML = "";
-  bottomDiv.innerHTML = generatePersonAllTemplate(siteId, personageObject);
+  return template;
 }
 
 /**
@@ -172,6 +162,9 @@ function generatePersonAllTemplate(siteId, personageObject) {
   let templateHTML = "";
   for (let i = 0; i < personageObject.length; i++) {
     templateHTML += generatePersonTableTemplate(siteId, personageObject[i]);
+    templateHTML += `
+      </table>
+    </div> </details>`;
   }
   return templateHTML;
 }
@@ -183,26 +176,27 @@ function generatePersonAllTemplate(siteId, personageObject) {
  * @returns html template
  */
 function generatePersonTableTemplate(siteId, personGroup) {
-  let subHeaderId = siteId + personGroup.groupId; // unique ID for each header even if naming in JSON is similar
-  let templateHTML = `<h3 class="personGroup" id="${subHeaderId}" >${personGroup[setLanguage]}</h3>`;
-  templateHTML += `
-    <details class="table-box">
-    <summary>show</summary>
-    <div class="table-wrapper">
-    <table class="contentTable">
-      <tr>
-        <th class="personageName">Name</th>
-        <th>${setLanguage === "de" ? "Beschreibung" : "Description"}</th>
-      </tr>`;
+  let subHeaderId = siteId + personGroup.groupId;
+  let templateHTML = `
+  
+    <h3 class="personGroup" id="${subHeaderId}">
+      ${personGroup[setLanguage]} </h3>
+      <details class="table-box">
+        <summary>show</summary>
+        <div class="table-wrapper">
+          <table class="contentTable">
+            <tr>
+              <th class="personageName">Name</th>
+              <th>${setLanguage === "de" ? "Beschreibung" : "Description"}</th>
+            </tr>`;
+
   for (let member of personGroup.members) {
     templateHTML += `
-      <tr>
-        <td class="personageName">${member.name}</td>
-        <td>${member[setLanguage]}</td>
-      </tr>`;
+        <tr>
+          <td class="personageName">${member.name}</td>
+          <td>${member[setLanguage]}</td>
+        </tr>`;
   }
-  templateHTML += `</table></div>
-          </details>`;
   return templateHTML;
 }
 
@@ -250,8 +244,6 @@ async function generateBackgroundContent(bookId) {
   }
   return templateHTML;
 }
-
-
 
 // functions for picture sites such as family trees
 
@@ -372,7 +364,7 @@ async function renderMapLinks(bookId) {
   let targetDiv = document.getElementById(divId);
   let title = sourceData[setLanguage].header;
   let langLinks = sourceData[setLanguage].links;
-  targetDiv.innerHTML = `<h2>${title}</h2>`
+  targetDiv.innerHTML = `<h2>${title}</h2>`;
   for (item of langLinks) {
     let link = item.link;
     let linktext = item.linktext;
@@ -574,8 +566,6 @@ function generateSpecialSourcesContent(languageSourceData) {
   return templateHTML;
 }
 
-
-
 //extensive reserach site e.g. Fria
 
 /**
@@ -583,12 +573,11 @@ function generateSpecialSourcesContent(languageSourceData) {
  * @param {string} bookId - id for respective books such as masks
  */
 async function renderResearch(id) {
-let divId = bookId + "Research";
+  let divId = bookId + "Research";
   let bottomDiv = document.getElementById(divId);
   bottomDiv.innerHTML = "";
   bottomDiv.innerHTML = await generateExtraBottomContent(bookId);
 }
-
 
 /**
  * generate extra content for bottom of background page after loading content from json file
@@ -750,7 +739,7 @@ async function renderBonusLinks(siteId) {
   if (siteIndex !== -1) {
     let introText = allBonusLinks[0].introText[setLanguage];
     let bonusLinks = allBonusLinks[siteIndex].bonusLinks;
-    bonusLinksDiv.innerHTML = `<h2>Bonus</h2>`
+    bonusLinksDiv.innerHTML = `<h2>Bonus</h2>`;
     for (let link of bonusLinks) {
       url = link.url;
       linkText = link[setLanguage];

@@ -1,3 +1,44 @@
+// Kleine dauerhafte Einrichtung, durch "true" aktivierbar
+const DEBUG = false;
+
+function ensureDebugBox() {
+  if (document.getElementById("debugBox")) return;
+
+  const box = document.createElement("div");
+  box.id = "debugBox";
+
+  Object.assign(box.style, {
+    position: "fixed",
+    bottom: "0",
+    left: "0",
+    right: "0",
+    maxHeight: "200px",
+    overflow: "auto",
+    background: "black",
+    color: "lime",
+    fontSize: "10px",
+    zIndex: "999999",
+    padding: "5px"
+  });
+
+  document.body.appendChild(box);
+}
+
+function debugLog(label, data = "") {
+  if (!DEBUG) return;
+
+  ensureDebugBox();
+
+  const box = document.getElementById("debugBox");
+
+  box.innerHTML += `
+    <div>
+      <b>${label}:</b> ${JSON.stringify(data)}
+    </div>
+  `;
+}
+
+///// CODES START FROM HERE //////
 // global variables
 let browserLanguage = navigator.language || navigator.userLanguage;
 let setLanguage = "de";
@@ -32,6 +73,7 @@ async function init() {
   await includeHTML();
   await loadGeneralData();
   await setTimeout(checkBrowserLanguage, 100);
+  debugLog('moin');
   //jsonify();
 }
 
@@ -115,19 +157,22 @@ function renderSharedContent() {
 }
 
 /**
- * loads json data from the folder jsons
+ * loads json data from the folder JSONs
  * @param {string} path - path to respective json
  */
 async function fetchJSON(path) {
   try {
     const response = await fetch(path);
+
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
-    const data = await response.json();
-    return data;
+
+    return await response.json();
+
   } catch (error) {
     console.error("Fehler beim Laden der JSON Datei:", error);
+    return null; // OR: throw error;
   }
 }
 

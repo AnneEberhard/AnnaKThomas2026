@@ -90,6 +90,11 @@ table {
   text-align: center;
 }
 
+
+details {
+  display: block;
+}
+
 #backgroundImage {
   position: fixed;
   inset: 0;
@@ -224,10 +229,6 @@ tr:last-child {
 .personageName {
   width: 10vw;
   vertical-align: text-top;
-}
-
-.personGroup {
-  padding-top: 36px;
 }
 
 /*familytree*/

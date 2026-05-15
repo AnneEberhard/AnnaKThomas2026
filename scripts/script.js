@@ -439,7 +439,7 @@ function generateBookSiteNavTop(links) {
 /**
  * renders the content for each book of a series whose book count is higher than in the other language
  * e.g. first book of the "Of Elves and Wolves" series in German equals four books in the translation
- * @param {Object[]} bookData - JSONArray of the series (array of jsons)
+ * @param {Object[]} bookData - JSONArray of the series (array of JSONs)
  * @param {string} divId - id of the div into which is rendered
  */
 function renderSeriesInSeries(seriesData, divId) {
@@ -457,7 +457,7 @@ function renderSeriesInSeries(seriesData, divId) {
 /**
  * renders the content for each book with image, text and links
  * depending on whether the book is a series or a standalone
- * @param {Object[]} bookData - JSONArray of either one book (Json) or one series (array of jsons)
+ * @param {Object[]} bookData - JSONArray of either one book (Json) or one series (array of JSONs)
  * @param {string} divId - id of the div into which is rendered
  */
 function renderBookDetails(bookData, divId) {
