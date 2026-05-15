@@ -247,10 +247,12 @@ function renderBookSite(genre, id, seriesExists) {
   if (id != "bards") {
     renderPersonage(id);
   }
-
   renderSourcesSite(id);
   if (["elves", "odyssey", "masks", "alster"].includes(id)) {
     renderFamilyTrees(id);
+  }
+  if (["frida"].includes(id)) {
+    renderResearch(id);
   }
   if (["odyssey", "masks"].includes(id)) {
     renderTimeline(id);
@@ -451,27 +453,27 @@ function generateBookDetailsTemplate(book, bookId) {
 
 // functions currently not in use
 
-/**
- * collects all books of a genre in a new JSONArray
- * uses global variable allBooks that is loaded on init
- * currently not in use
- * @param {string} targetGenre - respective genre
- * @returns {Object[]} allBooks[i].books with the target genre
- */
-function collectBooksOfGenre(targetGenre) {
-  for (let i = 0; i < allBooks.length; i++) {
-    if (allBooks[i].genre === targetGenre) {
-      return allBooks[i].books;
-    }
-  }
-  return null;
-}
-
-function findBookIndexById(bookArray, bookId) {
-  for (let i = 0; i < bookArray.length; i++) {
-    if (bookArray[i].bookId === bookId) {
-      return i;
-    }
-  }
-  return -1;
-}
+///**
+// * collects all books of a genre in a new JSONArray
+// * uses global variable allBooks that is loaded on init
+// * currently not in use
+// * @param {string} targetGenre - respective genre
+// * @returns {Object[]} allBooks[i].books with the target genre
+// */
+//function collectBooksOfGenre(targetGenre) {
+//  for (let i = 0; i < allBooks.length; i++) {
+//    if (allBooks[i].genre === targetGenre) {
+//      return allBooks[i].books;
+//    }
+//  }
+//  return null;
+//}
+//
+//function findBookIndexById(bookArray, bookId) {
+//  for (let i = 0; i < bookArray.length; i++) {
+//    if (bookArray[i].bookId === bookId) {
+//      return i;
+//    }
+//  }
+//  return -1;
+//}

@@ -6,6 +6,7 @@ body {
 
 body {
   display: flex;
+  flex-wrap: wrap;
   flex-direction: column;
   font-family: "Raleway";
   color: rgb(28, 50, 86);
@@ -56,6 +57,8 @@ a {
   color: #0097b2;
   text-decoration: none;
   font-size: 18px;
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 a:hover {
@@ -75,6 +78,8 @@ p {
   margin-block-start: 0.7em;
   margin-block-end: 0.7em;
   font-size: 16px;
+  overflow-wrap: break-word;
+  word-break: break-word;
 }
 
 table {
@@ -339,10 +344,6 @@ rect {
     stroke 0.3s;
 }
 
-#burgerMenu {
-  display: none;
-}
-
 @media (max-width: 1200px) {
   .maps {
     flex-direction: column;
@@ -395,16 +396,42 @@ rect {
     align-items: center;
   }
 
-    .map {
+  .map {
     width: 100%;
     box-sizing: border-box;
     object-fit: scale-down;
   }
 }
 
+@media (max-width: 500px) {
+  #sidebar {
+    display:none;
+  }
+
+    h1 {
+    font-size: 28px;
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 24px;
+       text-align: center;
+  }
+
+  h3 {
+    font-size: 20px;
+       text-align: center;
+  }
+}
+
+
 @media (max-width: 400px) {
   .mainContainer {
     margin: 0 10px 0 10px;
+  }
+
+  #sidebar {
+    display:none;
   }
 
   .logo {
@@ -414,14 +441,19 @@ rect {
 
   h1 {
     font-size: 24px;
+    text-align: center;
   }
 
   h2 {
     font-size: 20px;
+       text-align: center;
   }
+
   h3 {
     font-size: 16px;
+       text-align: center;
   }
+
   p {
     font-size: 16px;
   }

@@ -85,7 +85,6 @@ function renderAboutMe(id) {
     headline.innerHTML = templateAboutMeHeadEnglish();
     aboutMeText.innerHTML = templateAboutMeTextEnglish();
   }
-  // renderNav("general", `aboutMeNav`);
 }
 
 /**
@@ -189,7 +188,6 @@ async function renderPersonage(id) {
   let siteId = id + "Persons";
   renderPersonageTop(siteId);
   renderPersonageBottom(siteId, personageObject);
-  //renderNav(navId, `${siteId}Nav`);
 }
 
 /**
@@ -299,9 +297,9 @@ async function renderBackgroundContent(bookId) {
   let topDiv = document.getElementById(divId);
   topDiv.innerHTML = "";
   topDiv.innerHTML = await generateBackgroundContent(bookId);
-  if (bookId == "frida") {
-    await renderExtraBottomContent(bookId);
-  }
+  //if (bookId == "frida") {
+  //  await renderExtraBottomContent(bookId);
+  //}
 }
 
 /**
@@ -320,32 +318,7 @@ async function generateBackgroundContent(bookId) {
   return templateHTML;
 }
 
-/**
- * starts the rendering of additional info on a background site in the bottom div
- * @param {string} bookId - id for respective books such as masks
- */
-async function renderExtraBottomContent(bookId) {
-  let divId = bookId + "BackgroundBottom";
-  let bottomDiv = document.getElementById(divId);
-  bottomDiv.innerHTML = "";
-  bottomDiv.innerHTML = await generateExtraBottomContent(bookId);
-}
 
-/**
- * generate extra content for bottom of background page after loading content from json file
- * @param {string} bookId - id for respective books such as masks
- * @returns {HTMLElement} html template
- */
-async function generateExtraBottomContent(bookId) {
-  let backgroundInfoArray = await findDataById("background", "extraInfo");
-  let backgroundInfo = await findDataInArray(bookId, backgroundInfoArray);
-  let templateHTML = `<h3 class="personGroup">${backgroundInfo.headline}</h3>`;
-
-  for (let paragraph of backgroundInfo.paragraphs) {
-    templateHTML += `<p>${paragraph}</p>`;
-  }
-  return templateHTML;
-}
 
 // functions for picture sites such as family trees
 
@@ -668,6 +641,37 @@ function generateSpecialSourcesContent(languageSourceData) {
   return templateHTML;
 }
 
+
+
+//extensive reserach site e.g. Fria
+
+/**
+ * starts the rendering of additional research info
+ * @param {string} bookId - id for respective books such as masks
+ */
+async function renderResearch(id) {
+let divId = bookId + "Research";
+  let bottomDiv = document.getElementById(divId);
+  bottomDiv.innerHTML = "";
+  bottomDiv.innerHTML = await generateExtraBottomContent(bookId);
+}
+
+
+/**
+ * generate extra content for bottom of background page after loading content from json file
+ * @param {string} bookId - id for respective books such as masks
+ * @returns {HTMLElement} html template
+ */
+async function generateExtraBottomContent(bookId) {
+  let backgroundInfoArray = await findDataById("research", "frida");
+  let backgroundInfo = await findDataInArray(bookId, backgroundInfoArray);
+  let templateHTML = `<h2 class="personGroup">${backgroundInfo.headline}</h2>`;
+
+  for (let paragraph of backgroundInfo.paragraphs) {
+    templateHTML += `<p>${paragraph}</p>`;
+  }
+  return templateHTML;
+}
 // functions for timeline Sites
 
 /**

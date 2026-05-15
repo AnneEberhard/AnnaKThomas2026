@@ -690,8 +690,16 @@
             "url": "#fridaPersons"
           },
           {
-            "text": "Quellen und Karten",
-            "url": "#fridaSource"
+            "text": "Karte von Alt-Hameln",
+            "url": "#fridaMaps"
+          },
+          {
+            "text": "Ausführlicher Hintergrund zum Rattenfänger",
+            "url": "#fridaResearch"
+          },
+          {
+            "text": "Quellen",
+            "url": "#fridaSources"
           }
         ]
       },
@@ -714,8 +722,16 @@
             "url": "#fridaPersons"
           },
           {
-            "text": "Sources and maps",
-            "url": "#fridaSource"
+            "text": "Map of Old Hamelin",
+            "url": "#fridaMaps"
+          },
+          {
+            "text": "Extensive background for the Pied Piper of Hamelin",
+            "url": "#fridaResearch"
+          },
+          {
+            "text": "Sources",
+            "url": "#fridaSources"
           }
         ]
       }
