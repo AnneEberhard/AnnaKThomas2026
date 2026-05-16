@@ -1,115 +1,21 @@
-// functions for special site about me
-
-/**
- * initializes rendering of about me page
- * initializes rendering the navigation at the bottom
- * @param {string} id - needed for nav highlight
- */
-function renderAboutMe(id) {
-  currentGenre = id;
-  let headline = document.getElementById("aboutMeHeadline");
-  let aboutMeText = document.getElementById("aboutMeText");
-  headline.innerHTML = "";
-  aboutMeText.innerHTML = "";
-  if (setLanguage == "de") {
-    headline.innerHTML = templateAboutMeHeadGerman();
-    aboutMeText.innerHTML = templateAboutMeTextGerman();
-  } else {
-    headline.innerHTML = templateAboutMeHeadEnglish();
-    aboutMeText.innerHTML = templateAboutMeTextEnglish();
-  }
-}
-
-/**
- * generates the header for the about me page in German
- */
-function templateAboutMeHeadGerman() {
-  let template = `<h2 id="about">Was gibt es über mich zu sagen ...</h2>`;
-  return template;
-}
-
-/**
- * generates the header for the about me page in English
- */
-function templateAboutMeHeadEnglish() {
-  let template = `<h2 id="about>What is there to say about me ...</h2>`;
-  return template;
-}
-
-/**
- * generates the text for the about me page in German
- */
-function templateAboutMeTextGerman() {
-  let template = /*html*/ `<p>
-    Es gab keine Zeit in meinem Leben, in der ich mir nicht Geschichten
-    ausgedacht habe. So richtig zu schreiben begann ich mit zwölf, als
-    der erste Computer Einzug in unsere Familie hielt und meine Finger
-    zum ersten Mal meinen Gedanken folgen konnten. Meine erste
-    Geschichte schrieb ich aus einem sicher vielen Lesern vertrauten
-    Grund – der Ärger über ein gerade gelesenes Buch und der gute Rat,
-    es dann doch eben besser zu machen.
-  </p>
-  <p>
-    In meinen Fall – zwölf Jahre – ärgerte ich mich gerade darüber, dass
-    den Helden einer Geschichte immer so viele Steine in den Weg gelegt
-    wurden. Ich wollte das Gegenteil: ein Buch schreiben, in dem alles
-    glatt ging und nur Gutes passierte. Allerdings musste ich dann
-    relativ schnell feststellen, wie unglaublich langweilig solch eine
-    Geschichte doch ist. Zudem bemerkte ich, dass ich, wenn ich meinem
-    Helden Steine in den Weg legen konnte, als Autorin auch die Macht
-    besaß, sie wieder wegzuräumen. Und mit dieser Erkenntnis begann ich
-    zu schreiben – und hörte einfach nie wieder auf.
-  </p>
-  <p>Über lange Jahre schrieb ich nur für mich selbst, schrieb, wie andere Leute lesen, schrieb und gönnte meinen Geschichten eine eigenständige Existenz. Ich war geizig damit, rückte so gut wie nie etwas heraus, und erst die Sänger änderten meine Einstellung: Ich hatte zum ersten Mal eine Geschichte, die ich teilen wollte.</p>
-  <p>In meinem „anderen“ Leben habe ich eine naturwissenschaftliche Karriere gemacht, brauche Analytik und Logik und kann der Fantasie nur einen kleinen Platz einräumen. In meinem „anderen“ Leben würden die wenigsten Menschen verstehen, was meine Geschichten mir bedeuten.</p>
-  <p>Und deshalb, lieber Leser, verzeih, wenn es nur wenige Informationen über „die“ Anna K. Thomas gibt. Glaube mir einfach, wenn ich sage, ich bin analytisch und emotional, logisch und empathisch, ganz verrückt und ganz normal, schreibe für mein Leben gerne, und lese, lese, lese…</p>`;
-  return template;
-}
-
-/**
- * generates the text for the about me page in German
- */
-function templateAboutMeTextEnglish() {
-  let template = /*html*/ `
-    <p>
-    There was never a time in my life when I didn't make up stories. I started writing for real when I was twelve, when the first computer arrived in our family and my fingers could
-    could follow my thoughts for the first time. 
-    I wrote my first story for a reason that I'm sure is familiar to many readers - anger about a book I had just read and the good advice
-    to do it better.  </p>
-    <p>
-    In my case - twelve years - I was annoyed by the fact that
-    so many obstacles were put in the way of the heroes of a story.
-    I wanted to write the opposite: a book in which everything went
-    smoothly and only good things happened. However, I quickly realised how incredibly boring such a story is.
-    I also realised that if I could put obstacles in my hero's path, as an author I also had the power to
-    to remove them. And with this realisation, I began writing - and simply never stopped.
-  </p>
-  <p>For many years I only wrote for myself, wrote like other people read, wrote and gave my stories an independent existence. I was stingy with them, hardly ever giving anything away, and it was only the bards who changed my attitude: For the first time, I had a story I wanted to share.</p>
-  <p>In my "other" life, I have made a career in science, need analytics and logic and can only give a small place to fantasy. In my "other" life, very few people would understand what my stories mean to me.</p>
-  <p>And so, dear reader, forgive me if there is little information about "the" Anna K. Thomas. Just believe me when I say that I am analytical and emotional, logical and empathetic, completely crazy and completely normal, love to write, and to read, read, read...</p>
-  `;
-  return template;
-}
-
 // functions for special site novellas
 
 /**
  * initializes rendering the novella page
- * @param {string} genre - needed for menu highlight
+ * @param {string} id - in this case novellas = id
  */
-function renderNovellas(genre) {
-  let topDivId = genre + "Top";
-  let bottomDivID = genre + "Bottom";
-  let genreData = collectBooksOfSeries(genre, genre);
-  //renderMainSite(genre, topDivId);
-  renderBookDetails(genreData, bottomDivID);
+function renderNovellas(id) {
+  let topDivId = id + "Top";
+  let bottomDivID = id + "Bottom";
+  let data = collectBooksOfSeries(id, id);
+  renderBookDetails(data, bottomDivID);
   renderNav("novellas", `novellasNav`);
 }
 
-// functions for personages sites
+// functions for personages sections
 
 /**
- * initializes rendering of personage sites
+ * initializes rendering of personage sections
  * loads data for personSitesHeader (global variable)
  * loads data for personage
  * @param {string} id - id of series of book such as masks
@@ -133,9 +39,8 @@ async function renderPersonage(id) {
 }
 
 /**
- * renders top part of personage sites
- * @param {string} genre - genre such as historical
- * @param {string} id- id for subsite such as masksPersons
+ * renders top part of personage sections
+ * @param {string} siteId- id for subsection such as masksPersons
  */
 function generatePersonageTopHTML(siteId) {
   let siteIndex = personSitesHeader.findIndex((site) => site.id === siteId);
@@ -153,7 +58,7 @@ function generatePersonageTopHTML(siteId) {
 }
 
 /**
- * generates the overall template bottom part of personage sites
+ * generates the overall template bottom part of personage sections
  * @param {string} siteId - id for subsite such as masksPersons
  * @param {Object[]} personageObject - loaded JSON
  * @returns html template
@@ -170,7 +75,7 @@ function generatePersonAllTemplate(siteId, personageObject) {
 }
 
 /**
- * generates the table in of bottom part of personage sites
+ * generates the table in of bottom part of personage sections
  * @param {string} siteId - id for subsite such as masksPersons
  * @param {Object[]} personGroup - subgroup of loaded JSON
  * @returns html template
@@ -200,23 +105,20 @@ function generatePersonTableTemplate(siteId, personGroup) {
   return templateHTML;
 }
 
-// functions for for background pages
+// functions for for background sections
 
 /**
- * initializes rendering of the background site
+ * initializes rendering of the background sections
  * determines the following functions based on bookId
  * initializes rendering the bottom nav based on global variable navSites and bookId
- * @param {string} genre - needed for nav highlight
  * @param {string} bookId - id for respective books such as masks
  */
-function renderBackground(genre, bookId) {
-  currentGenre = genre;
+function renderBackground(bookId) {
   renderBackgroundContent(bookId);
-  //renderNav(bookId, `${bookId}BackgroundNav`);
 }
 
 /**
- * renders of the top of background site
+ * renders of the top of background sections
  * @param {string} bookId - id for respective books such as masks
  */
 async function renderBackgroundContent(bookId) {
@@ -224,9 +126,6 @@ async function renderBackgroundContent(bookId) {
   let topDiv = document.getElementById(divId);
   topDiv.innerHTML = "";
   topDiv.innerHTML = await generateBackgroundContent(bookId);
-  //if (bookId == "frida") {
-  //  await renderExtraBottomContent(bookId);
-  //}
 }
 
 /**
@@ -248,19 +147,17 @@ async function generateBackgroundContent(bookId) {
 // functions for picture sites such as family trees
 
 /**
- * initializes rendering of the family trees site
+ * initializes rendering of the family trees sections
  * determines the following functions based on bookId
  * initializes rendering the bottom nav based on global variable navSites and bookId
- * @param {string} genre - needed for nav highlight
- * @param {string} bookId - id for respective books such as masks
+ * @param {string} id - id for respective books such as masks
  */
 function renderFamilyTrees(id) {
   renderFamilyTreeContent(id);
-  //renderNav(id, `${id}FamilyTreeNav`);
 }
 
 /**
- * renders of the family tree site
+ * renders of the family tree sections
  * @param {string} bookId - id for respective books such as masks
  */
 async function renderFamilyTreeContent(bookId) {
@@ -290,10 +187,8 @@ async function generateFamilyTreeContent(bookId) {
 // functions for sites with glossaries and/or sources
 
 /**
- * initializes rendering of the source and glossary site
+ * initializes rendering of the source and glossary sections
  * determines the following functions based on bookId
- * initializes rendering the bottom nav based on global variable navSites and bookId
- * @param {string} genre - needed for nav highlight
  * @param {string} bookId - id for respective books such as masks
  */
 function renderSourcesSite(bookId) {
@@ -358,6 +253,11 @@ async function renderMaps(bookId) {
 
 //function for mapLinks
 
+/**
+ * renders of links for maps
+ * first fetches data out of respective json
+ * @param {string} bookId - id for respective books such as masks
+ */
 async function renderMapLinks(bookId) {
   let sourceData = await findDataById("maps", bookId);
   let divId = bookId + "Maps";
@@ -462,6 +362,9 @@ function generateGlossaryTable(glossary) {
  */
 function generateSpecialGlossaryTable(glossary) {
   let templateHTML = `
+  <details class="table-box">
+            <summary>show</summary>
+            <div class="table-wrapper">
     <table class="contentTable">
       <tr>
         <th class="personageName">Name</th>
@@ -474,7 +377,8 @@ function generateSpecialGlossaryTable(glossary) {
         <td>${term.description[setLanguage]}</td>
       </tr>`;
   }
-  templateHTML += `</table>`;
+  templateHTML += `</table></div>
+          </details>`;
   return templateHTML;
 }
 
@@ -566,17 +470,17 @@ function generateSpecialSourcesContent(languageSourceData) {
   return templateHTML;
 }
 
-//extensive reserach site e.g. Fria
+//extensive reserach section e.g. Fria
 
 /**
  * starts the rendering of additional research info
- * @param {string} bookId - id for respective books such as masks
+ * @param {string} bookId - id for respective books such as frida
  */
 async function renderResearch(id) {
   let divId = bookId + "Research";
   let bottomDiv = document.getElementById(divId);
   bottomDiv.innerHTML = "";
-  bottomDiv.innerHTML = await generateExtraBottomContent(bookId);
+  bottomDiv.innerHTML = await generateResearchContent(bookId);
 }
 
 /**
@@ -584,8 +488,8 @@ async function renderResearch(id) {
  * @param {string} bookId - id for respective books such as masks
  * @returns {HTMLElement} html template
  */
-async function generateExtraBottomContent(bookId) {
-  let backgroundInfoArray = await findDataById("research", "frida");
+async function generateResearchContent(bookId) {
+  let backgroundInfoArray = await findDataById("research", bookId);
   let backgroundInfo = await findDataInArray(bookId, backgroundInfoArray);
   let templateHTML = `<h2 class="personGroup">${backgroundInfo.headline}</h2>`;
 
@@ -594,6 +498,7 @@ async function generateExtraBottomContent(bookId) {
   }
   return templateHTML;
 }
+
 // functions for timeline Sites
 
 /**
@@ -601,14 +506,12 @@ async function generateExtraBottomContent(bookId) {
  * determines the following functions based on bookId
  * initializes rendering the bottom nav based on global variable navSites and bookId
  * async because findDataById() is called twice in short succession
- * @param {string} genre - genre such as historical
  * @param {string} bookId - id for respective books such as masks
  */
 async function renderTimeline(bookId) {
   currentSiteId = bookId + "Timeline";
   await renderTimelineTop(bookId);
   renderTimelineBottom(bookId);
-  //renderNav(bookId, `${bookId}TimelineNav`);
 }
 
 /**
@@ -730,6 +633,11 @@ function generateTableRowSingle(previousYear, timelineData, event) {
 
 // functions for bonus chapters
 
+/**
+ * renderes Bo nus Links at the bottom of each book site
+ * fetches data from json allLinks
+ * @param {string} siteId - book/series this belongs to
+ */
 async function renderBonusLinks(siteId) {
   allBonusLinks = await findDataById("bonus", "allLinks");
   let bonusLinksDiv = document.getElementById("bonusLinks");
@@ -754,6 +662,12 @@ async function renderBonusLinks(siteId) {
   }
 }
 
+/**
+ * generates templates for Bonus Links section at the bottom of book sites
+ * @param {string} introText - english or german for clicking (of all allLinks json)
+ * @param {string} url - respective url (of all allLinks json)
+ * @param {string} linkText - english or german for linktext (of all allLinks josn)
+ */
 function generateBonusLinksTemplate(introText, url, linkText) {
   let template = `
         <div>
@@ -771,13 +685,12 @@ function generateBonusLinksTemplate(introText, url, linkText) {
  * initializes getting url based on bonusId
  * initializes loading and rendering of content based on bonusId
  * initializes rendering the bottom navigation based site parameters
- * @param {string} genre - genre such as historical
+ * CAVE: params come from pageData json
+ * @param {string} genre - genre such as historical, currently not in use
  * @param {string} bookId - id for respective book
  * @param {string} bonusId - id for respective bonus content
  */
 async function renderBonus(genre, bookId, bonusId) {
-  currentSiteId = bonusId;
-  currentGenre = genre;
   targetDiv = bonusId + "Top";
   bonusData = await findDataById("bonus", bonusId);
   renderBonusContent(targetDiv, bonusData);

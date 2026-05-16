@@ -5,7 +5,6 @@
  */
 function renderImprint() {
   currentSiteId = "imprint";
-  currentGenre = "support";
   const targetElement = document.getElementById("imprint");
   if (setLanguage == "de") {
     targetElement.innerHTML = generateImprintGerman();
@@ -19,7 +18,6 @@ function renderImprint() {
  */
 function renderprivacyPolicy() {
   currentSiteId = "privacyPolice";
-  currentGenre = "support";
   const targetElement = document.getElementById("privacyPolicy");
   if (setLanguage == "de") {
     targetElement.innerHTML = generatePrivacyPolicyGerman();
