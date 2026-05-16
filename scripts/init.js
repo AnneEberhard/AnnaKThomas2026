@@ -42,8 +42,6 @@ function debugLog(label, data = "") {
 // global variables
 let browserLanguage = navigator.language || navigator.userLanguage;
 let setLanguage = "de";
-let currentSiteId;
-let menuTitles;
 let navSites;
 let mainSites;
 let topSites;
@@ -85,7 +83,6 @@ async function loadGeneralData() {
     siteImages,
     allBooks,
     mainSites,
-    menuTitles,
     navSites,
     overview,
     pageData,
@@ -95,7 +92,6 @@ async function loadGeneralData() {
     fetchJSON("/JSONs/general/images.json"),
     fetchJSON("/JSONs/general/allBooks.json"),
     fetchJSON("/JSONs/general/mainSites.json"),
-    fetchJSON("/JSONs/general/menuTitles.json"),
     fetchJSON("/JSONs/general/navSites.json"),
     fetchJSON("/JSONs/general/overview.json"),
     fetchJSON("/JSONs/general/pageData.json"),

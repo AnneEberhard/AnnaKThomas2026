@@ -192,7 +192,6 @@ async function generateFamilyTreeContent(bookId) {
  * @param {string} bookId - id for respective books such as masks
  */
 function renderSourcesSite(bookId) {
-  currentSiteId = bookId + "Sources";
   const booksWithGlossaries = ["odyssey", "masks", "counts"];
   const booksWithSources = ["odyssey", "masks", "alster", "mind"];
   const booksWithSpecialSource = ["children", "counts"];
@@ -509,7 +508,6 @@ async function generateResearchContent(bookId) {
  * @param {string} bookId - id for respective books such as masks
  */
 async function renderTimeline(bookId) {
-  currentSiteId = bookId + "Timeline";
   await renderTimelineTop(bookId);
   renderTimelineBottom(bookId);
 }
